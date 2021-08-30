@@ -1,0 +1,33 @@
+- title: About
+  url: /about/
+  side: right
+
+- title: Apply
+  url: /apply/
+  side: right
+
+- title: Attend
+  url: /attend/
+  side: right
+
+- title: News
+  url: /news/
+  side: right
+
+- title: Contact
+  url: /contact/
+  side: right
+
+- title: People
+  url: /people/
+  side: right
+
+- title: More Info
+  side: right
+  dropdown:
+    - title: background
+      url: /background/
+    - title: about IDRH
+      url: /idrh/
+    - title: sponsors
+      url: /sponsors/
