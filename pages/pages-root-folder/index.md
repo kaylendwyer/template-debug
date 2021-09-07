@@ -5,8 +5,12 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: header_unsplash_12.jpg
+header: 
+  background-color: "#6b5b95"
+# from this color template: https://www.w3schools.com/colors/tryit.asp?filename=trycolors_palettes22
+  title: Join Us!
+#   slogan: 
+  image_fullwidth: header_unsplash_1.jpg
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -33,8 +37,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: /apply/
+  text: Apply now!
   style: alert
 permalink: /index.html
 #

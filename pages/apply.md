@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Apply
-background: grey
+background-color: green
 permalink: apply
 ---
 
