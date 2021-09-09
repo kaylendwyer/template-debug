@@ -8,9 +8,10 @@ layout: frontpage
 header: 
   background-color: "#6b5b95"
 # from this color template: https://www.w3schools.com/colors/tryit.asp?filename=trycolors_palettes22
-  title: Join Us!
-#   slogan: 
+  title: The Public Digital Humanities Institute
+#   slogan: This is a slogan.
   image_fullwidth: header_unsplash_1.jpg
+
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -26,6 +27,8 @@ widget3:
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
   text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+
+
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -38,7 +41,7 @@ widget3:
 #
 callforaction:
   url: /apply/
-  text: Apply now!
+  text: Apply
   style: alert
 permalink: /index.html
 #

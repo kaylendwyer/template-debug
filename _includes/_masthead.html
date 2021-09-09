@@ -25,6 +25,10 @@
 		<div class="small-12 columns">
 			<div class="masthead-title">{{ page.header.title }}</div>
 			<div class="masthead-slogan">{{ page.header.slogan }}</div>
+<!-- TRYING TO ADD CALL TO ACTION BUTTON -->
+			<a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+<!-- END TRY -->
+
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
