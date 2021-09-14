@@ -74,6 +74,8 @@ body.video cite { color: #fff; }
 #masthead-no-image-header {
     background-color: $primary-color;
 }
+
+/* ORIGINAL
 #masthead-with-text {
     text-align: left;
     font-size: rem-calc(54);
@@ -83,6 +85,32 @@ body.video cite { color: #fff; }
     text-shadow: 0 2px 3px rgba(0,0,0,.4);
     font-weight: 700;
 }
+*/
+/* changing font */
+
+#masthead-with-text .masthead-title {
+    text-align: left;
+    font-size: rem-calc(54);
+    font-family: $header-font-family;
+    color: #fff;
+    text-transform: uppercase;
+   /* text-shadow: 0 2px 3px rgba(0,0,0,.4); */
+    font-weight: 700;
+}
+
+#masthead-with-text .masthead-slogan {
+    text-align: left;
+    font-size: rem-calc(24);
+    font-family: $body-font-family;
+    color: #fff;
+    /* text-transform: uppercase; */
+    /* text-shadow: 0 2px 3px rgba(0,0,0,.4); */
+    font-weight: 200;
+}
+
+
+/*end addition*/
+
 #masthead-no-image-header {
     height: 175px;
 }

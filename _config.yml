@@ -42,7 +42,7 @@ urlimg: '/images/'
 
 
 # Logo size is 600x80 pixels
-# logo: "mm-home-page-feature.jpg"
+# logo: logo.png /*"mm-home-page-feature.jpg"*/
 
 # Plugins
 plugins:
@@ -270,3 +270,16 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+
+#
+#
+#
+#
+# ADDED CONFIGURATIONS
+#
+#
+#
+
+# Collections
+collections:
+    - faculty

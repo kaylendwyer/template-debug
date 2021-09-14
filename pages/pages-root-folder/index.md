@@ -5,13 +5,13 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header: 
-  background-color: "#6b5b95"
+header:
+  background-color: "#000000" 
 # from this color template: https://www.w3schools.com/colors/tryit.asp?filename=trycolors_palettes22
-  title: The Public Digital Humanities Institute
-#   slogan: This is a slogan.
-  image_fullwidth: header_unsplash_1.jpg
-
+  title: The Public Digital<br> Humanities Institute
+#   slogan: 
+  image_fullwidth:
+  
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
