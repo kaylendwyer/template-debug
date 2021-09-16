@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>The Public Digital Humanities Institute</title>
-	<updated>2021-09-16T15:32:59-05:00</updated>
+	<updated>2021-09-16T16:51:05-05:00</updated>
 
 	<subtitle>An Institute hosted by the IDRH</subtitle>
 
@@ -15,6 +15,36 @@
 
 	<generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>/news/University-of-Kansas-Press-Release/</id>
+			<title>University Of Kansas Press Release</title>
+			<link href="/news/University-of-Kansas-Press-Release/" rel="alternate" type="text/html" title="University Of Kansas Press Release" />
+			<updated>2021-08-17T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>LAWRENCE — The Institute for Digital Research in the Humanities at the University of Kansas has been awarded $190,000 from the National Endowment for the Humanities to offer training in public digital humanities and academic-community collaborations. An intensive weeklong summer institute — to be offered in June 2022 at the Hall Center for the Humanities — will provide foundational knowledge, skills and resources to successfully advance 12 public humanities projects, increasing their longevity, visibility and impact. This will be followed by a year of further online training, support and discussion, with a final symposium and showcase in June 2023.</summary>
+			<content type="html" xml:base="/news/University-of-Kansas-Press-Release/">&lt;p&gt;&lt;a href=&quot;https://today.ku.edu/2021/08/17/neh-grant-support-training-high-impact-public-digital-humanities-collaborations&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="news" />
+			
+			
+
+			<published>2021-08-17T00:00:00-05:00</published>
+		</entry>
 	
 		<entry>
 			<id>/design/mediaelement_js/</id>
@@ -987,78 +1017,6 @@ image:
 			
 
 			<published>2014-10-09T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/design/header-image-pattern/</id>
-			<title>Header Image With Pattern</title>
-			<link href="/design/header-image-pattern/" rel="alternate" type="text/html" title="Header Image With Pattern" />
-			<updated>2014-10-08T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header image in front of a pattern.</summary>
-			<content type="html" xml:base="/design/header-image-pattern/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image:  &quot;header_unsplash_2-970x.jpg&quot;
-    pattern:  &quot;pattern_concrete.jpg&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="pattern" />
-			
-				<category term="header" />
-			
-
-			<published>2014-10-08T00:00:00-05:00</published>
 		</entry>
 	
 </feed>
