@@ -1,13 +1,38 @@
 - title: About
-  url: /about/
   side: right
-
-- title: Apply
-  url: /apply/
-  side: right
+  dropdown:
+    - title: About the Institute
+      url: /about/
+    - title: About the IDRH
+      url: /idrh/
+    - title: Sponsors
+      url: /sponsors/
 
 - title: Attend
-  url: /attend/
+  side: right
+  dropdown:
+    - title: Apply
+      url: /apply/
+    - title: Schedule
+      url: /schedule/
+    - title: Logistics
+      url: /logistics/
+    - title: Code of Conduct
+      url: /conduct/
+
+
+- title: People
+  url: /people/
+  side: right
+  dropdown:
+    - title: Faculty
+      url: /faculty/
+    - title: Staff
+      url: /staff/
+
+
+- title: Curriculum
+  url: /curriculum/
   side: right
 
 - title: News
@@ -17,17 +42,3 @@
 - title: Contact
   url: /contact/
   side: right
-
-- title: People
-  url: /people/
-  side: right
-
-- title: More Info
-  side: right
-  dropdown:
-    - title: background
-      url: /background/
-    - title: about IDRH
-      url: /idrh/
-    - title: sponsors
-      url: /sponsors/

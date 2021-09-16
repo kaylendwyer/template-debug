@@ -125,10 +125,105 @@
           
             
             
-              <li class="divider"></li>
-              <li><a  href="/about/">About</a></li>
 
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="">About</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="/about/">About the Institute</a></li>
+                    
+
+                      
+
+                      <li><a  href="/idrh/">About the IDRH</a></li>
+                    
+
+                      
+
+                      <li><a  href="/sponsors/">Sponsors</a></li>
+                    
+                  </ul>
+
+              </li>
             
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="">Attend</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="/apply/">Apply</a></li>
+                    
+
+                      
+
+                      <li><a  href="/schedule/">Schedule</a></li>
+                    
+
+                      
+
+                      <li><a  href="/logistics/">Logistics</a></li>
+                    
+
+                      
+
+                      <li><a  href="/conduct/">Code of Conduct</a></li>
+                    
+                  </ul>
+
+              </li>
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="/people/">People</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="/faculty/">Faculty</a></li>
+                    
+
+                      
+
+                      <li><a  href="/staff/">Staff</a></li>
+                    
+                  </ul>
+
+              </li>
             
           
         
@@ -142,23 +237,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="/apply/">Apply</a></li>
-
-            
-            
-          
-        
-
-              
-
-
-
-          
-          
-            
-            
-              <li class="divider"></li>
-              <li><a  href="/attend/">Attend</a></li>
+              <li><a  href="/curriculum/">Curriculum</a></li>
 
             
             
@@ -196,69 +275,10 @@
             
           
         
-
-              
-
-
-
-          
-          
-            
-            
-              <li class="divider"></li>
-              <li><a  href="/people/">People</a></li>
-
-            
-            
-          
-        
-
-              
-
-
-
-          
-          
-            
-            
-
-              <li class="divider"></li>
-              <li class="has-dropdown">
-                <a  href="">More Info</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="/background/">background</a></li>
-                    
-
-                      
-
-                      <li><a  href="/idrh/">about IDRH</a></li>
-                    
-
-                      
-
-                      <li><a  href="/sponsors/">sponsors</a></li>
-                    
-                  </ul>
-
-              </li>
-            
-          
-        
         
       </ul>
 
       <ul class="left">
-        
-
-              
-
-          
-          
         
 
               
