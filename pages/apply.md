@@ -1,8 +1,8 @@
 ---
-layout: page-fullwidth
+layout: page
 title: Apply
-background-color: green
 permalink: apply
+header: no
 ---
 
 * Contents

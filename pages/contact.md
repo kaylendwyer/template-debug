@@ -3,6 +3,7 @@ layout: page
 title: Contact
 background: grey
 permalink: contact
+header: no
 ---
 
 Email us at <idrh@ku.edu>  

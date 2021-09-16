@@ -3,6 +3,7 @@ layout: page
 title: About
 background: 
 permalink: about
+header: no
 ---
 
 ## What is the purpose of the Institute?
