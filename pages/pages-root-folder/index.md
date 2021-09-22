@@ -8,6 +8,9 @@ layout: frontpage
 # header: 
 # 	background-color: "#ffffff"
   
+contentSection: 
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dolor eleifend, finibus eros non, feugiat magna. Mauris mollis lectus vitae volutpat egestas. Phasellus.
+
 widget1:
   title: "About"
   url: '/about/'

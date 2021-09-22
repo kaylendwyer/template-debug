@@ -9,6 +9,23 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+<!-- START: Optional content block. I want to add an optional content block. For starters, let's hardcode it here by copying the footer. -->
+
+<!-- CSS managed in _07_layout.scss under Reusable Content Section -->
+{% if page.contentSection %}
+<section id="section-content" class="bg-grau">
+      <div id="section">
+        <div class="row">
+		
+		<p>{{ page.contentSection.text }}</p>
+		  
+        </div><!-- /.row -->
+
+      </div><!-- /#footer -->
+</section>
+{% endif %}
+
+<!-- END: Optional content block. -->
 
 {% comment %}
 *

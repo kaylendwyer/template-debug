@@ -15,6 +15,7 @@
 - Footer
 - Subfooter
 - CSS-Classes to add margin at top or bottom
+- Reusable Content Section (in development)
 
 */
 
@@ -125,7 +126,6 @@ body.video cite { color: #fff; }
     #logo img {
         display: inline-block;
     } 
-	
 
 	
     #masthead {
@@ -398,3 +398,34 @@ body.video cite { color: #fff; }
 .pr5  { padding-right: 5px !important; }
 .pr10 { padding-right: 10px !important; }
 .pr20 { padding-right: 20px !important; }
+
+
+/* Reusable Content Section
+------------------------------------------------------------------- */
+
+#section-content p,
+#section-content li {
+    /* font-size: rem-calc(16); */
+	font-size: 1.5rem;
+    font-weight: 300;
+	text-align: center;
+	word-break: break-word;
+}
+
+#section {
+    padding-top: 75px; /* 30 */
+    padding-bottom: 75px; /* 20 */
+    background: $dh-5;
+    color: $section-color;
+    }
+
+    #section a {
+        color: $section-link-color;
+    }
+    #section h4,
+    #section h5 {
+        letter-spacing: 1px;
+        color: #fff;
+        text-transform: uppercase;
+    }
+

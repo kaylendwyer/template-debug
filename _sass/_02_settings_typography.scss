@@ -45,11 +45,11 @@ $rem-base: $base-font-size;
 $base-line-height: 1.5 !default;
 
 
-$font-family-sans-serif: 'roboto', sans-serif;
-$font-family-serif: "Volkhov", Georgia, Times, serif;
-$font-family-monospace: "roboto-mono", monospace;
+$font-family-sans-serif: 'raleway', sans-serif;
+$font-family-serif: "Adelle", serif;
+$font-family-monospace: "raleway", monospace;
 
-$body-font-family: 'Roboto', sans-serif;
+$body-font-family: 'raleway', sans-serif;
 $body-font-weight: normal;
 $body-font-style: normal;
 
@@ -60,6 +60,7 @@ $header-font-family: $font-family-sans-serif;
 /* Font Weight
 ------------------------------------------------------------------- */
 
+$font-weight-light: light;
 $font-weight-normal: normal;
 $font-weight-bold: bold;
 

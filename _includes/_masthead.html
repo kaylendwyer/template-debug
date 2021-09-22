@@ -6,7 +6,7 @@
 		<div class="small-12 columns">
 			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
 				<!--<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">-->
-				<img src="{{ site.baseurl }}/assets/img/logo.png"><!-- Hard coded the logo -->
+				<img src="{{ site.baseurl }}/assets/img/logo.png" style="max-width: 65%;"><!-- Hard coded the logo. Can't for the life of me find where the style is controlled. -->
 				<!--<img src="https://i.pinimg.com/originals/99/1a/1d/991a1d9f77c7ba0e6895a0f69cdfade6.png"/>-->
 			</a>
 		</div><!-- /.small-12.columns -->
@@ -26,7 +26,7 @@
 {% if page.callforaction %}
     <div id="masthead-CTA" class="row t60 b60">
         <div class="small-12 columns">
-               <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}" style="margin-top: 2.5rem;" {% if page.callforaction.url contains 'https' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+               <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}" style="margin-top: 3rem;" {% if page.callforaction.url contains 'https' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 

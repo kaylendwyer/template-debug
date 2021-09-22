@@ -160,3 +160,17 @@ img.lazy {
     margin-top: -50px;
   }
 }
+
+/* Frontpage Widget
+------------------------------------------------------------------- */
+/* Note - original "feeling responsive" theme does not manage CSS globally. All styles are within _frontpage-widget.html */
+
+h2 {
+	margin-bottom: 1.5rem;
+}
+
+p {
+	hyphens: none;
+	font-size: 1.3rem;
+	font-weight: 300;
+}
