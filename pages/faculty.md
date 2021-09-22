@@ -5,7 +5,7 @@ permalink: /faculty/
 header:
     title: Faculty
     slogan: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-    background-color: "#000000"
+    background-color: "#39393A"
 ---
 
 

@@ -322,7 +322,9 @@
   </nav>
 </div><!-- /#navigation -->
 
-		
+		<!-- CSS for masthead is edited in _07_layout.scss -->
+
+
 
 
 <div id="masthead-no-image-header">

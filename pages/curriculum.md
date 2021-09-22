@@ -4,7 +4,7 @@ layout: page
 header: 
     title: Curriculum
     slogan: Featuring a large roster of presenters from inside and outside academia, mixed with discussion and training sessions, the program will give participants an opportunity for extensive interaction and networking with experts and with each other.
-    background-color: "#000000"
+    background-color: "#39393A"
 ---
 
 The institute program is built around a wide-ranging but complementary mix of topics and includes 3 broad types of sessions—(a) interactive learning and discussion; (b) case studies;  and (c) technical training—summarized below. 
