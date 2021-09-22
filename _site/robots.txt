@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: /pdhi-test-feeling-responsive/sitemap.xml
+Sitemap: /sitemap.xml

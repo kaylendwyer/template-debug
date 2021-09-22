@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="/pdhi-test-feeling-responsive/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="/pdhi-test-feeling-responsive/assets/js/modernizr.min.js"></script>
+	<script src="/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -37,13 +37,13 @@
 	
 	
 	
-	<link rel="canonical" href="/pdhi-test-feeling-responsive/assets/xslt/atom.xslt">
+	<link rel="canonical" href="/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="An Institute hosted by the IDRH">
-	<meta property="og:url" content="/pdhi-test-feeling-responsive/assets/xslt/atom.xslt">
+	<meta property="og:url" content="/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="The Public Digital Humanities Institute">
@@ -61,34 +61,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="/pdhi-test-feeling-responsive/humans.txt">
+	<link type="text/plain" rel="author" href="/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="/pdhi-test-feeling-responsive/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="/pdhi-test-feeling-responsive/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/pdhi-test-feeling-responsive/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/pdhi-test-feeling-responsive/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/pdhi-test-feeling-responsive/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/pdhi-test-feeling-responsive/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/pdhi-test-feeling-responsive/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/pdhi-test-feeling-responsive/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/pdhi-test-feeling-responsive/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="/pdhi-test-feeling-responsive/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="/pdhi-test-feeling-responsive/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -107,7 +107,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class=""><a href="/pdhi-test-feeling-responsive" class="icon-tree"> The Public Digital Humanities Institute</a></h1>
+      <h1 class=""><a href="" class="icon-tree"> The Public Digital Humanities Institute</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -128,24 +128,24 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="/pdhi-test-feeling-responsive">About</a>
+                <a  href="">About</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="/pdhi-test-feeling-responsive/about/">About the Institute</a></li>
+                      <li><a  href="/about/">About the Institute</a></li>
                     
 
                       
 
-                      <li><a  href="/pdhi-test-feeling-responsive/idrh/">About the IDRH</a></li>
+                      <li><a  href="/idrh/">About the IDRH</a></li>
                     
 
                       
 
-                      <li><a  href="/pdhi-test-feeling-responsive/sponsors/">Sponsors</a></li>
+                      <li><a  href="/sponsors/">Sponsors</a></li>
                     
                   </ul>
 
@@ -165,29 +165,29 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="/pdhi-test-feeling-responsive">Attend</a>
+                <a  href="">Attend</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="/pdhi-test-feeling-responsive/apply/">Apply</a></li>
+                      <li><a  href="/apply/">Apply</a></li>
                     
 
                       
 
-                      <li><a  href="/pdhi-test-feeling-responsive/schedule/">Schedule</a></li>
+                      <li><a  href="/schedule/">Schedule</a></li>
                     
 
                       
 
-                      <li><a  href="/pdhi-test-feeling-responsive/logistics/">Logistics</a></li>
+                      <li><a  href="/logistics/">Logistics</a></li>
                     
 
                       
 
-                      <li><a  href="/pdhi-test-feeling-responsive/conduct/">Code of Conduct</a></li>
+                      <li><a  href="/conduct/">Code of Conduct</a></li>
                     
                   </ul>
 
@@ -207,19 +207,19 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="/pdhi-test-feeling-responsive/people/">People</a>
+                <a  href="/people/">People</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="/pdhi-test-feeling-responsive/faculty/">Faculty</a></li>
+                      <li><a  href="/faculty/">Faculty</a></li>
                     
 
                       
 
-                      <li><a  href="/pdhi-test-feeling-responsive/staff/">Staff</a></li>
+                      <li><a  href="/staff/">Staff</a></li>
                     
                   </ul>
 
@@ -237,7 +237,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="/pdhi-test-feeling-responsive/curriculum/">Curriculum</a></li>
+              <li><a  href="/curriculum/">Curriculum</a></li>
 
             
             
@@ -253,7 +253,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="/pdhi-test-feeling-responsive/news/">News</a></li>
+              <li><a  href="/news/">News</a></li>
 
             
             
@@ -269,7 +269,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="/pdhi-test-feeling-responsive/contact/">Contact</a></li>
+              <li><a  href="/contact/">Contact</a></li>
 
             
             
@@ -328,9 +328,9 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="/pdhi-test-feeling-responsive/" title="The Public Digital Humanities Institute – An Institute for Academic/Community Collaboration">
-				<!--<img src="/pdhi-test-feeling-responsive/assets/img/" alt="The Public Digital Humanities Institute – An Institute for Academic/Community Collaboration">-->
-				<img src="/pdhi-test-feeling-responsive/assets/img/logo.png"><!-- Hard coded the logo -->
+			<a id="logo" href="/" title="The Public Digital Humanities Institute – An Institute for Academic/Community Collaboration">
+				<!--<img src="/assets/img/" alt="The Public Digital Humanities Institute – An Institute for Academic/Community Collaboration">-->
+				<img src="/assets/img/logo.png"><!-- Hard coded the logo -->
 				<!--<img src="https://i.pinimg.com/originals/99/1a/1d/991a1d9f77c7ba0e6895a0f69cdfade6.png"/>-->
 			</a>
 		</div><!-- /.small-12.columns -->
@@ -422,7 +422,7 @@
 
             <p class="shadow-black">
               An Institute hosted by the IDRH
-              <a href="/pdhi-test-feeling-responsive/info/">More ›</a>
+              <a href="/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -446,27 +446,27 @@
               
                 
                   <li >
-                    <a href="/pdhi-test-feeling-responsive"  title=""></a>
+                    <a href=""  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="/pdhi-test-feeling-responsive/contact/"  title="Contact">Contact</a>
+                    <a href="/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="/pdhi-test-feeling-responsive/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="/pdhi-test-feeling-responsive/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="/pdhi-test-feeling-responsive/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -492,7 +492,7 @@
             
               
                 <li >
-                  <a href="/pdhi-test-feeling-responsive"  title=""></a>
+                  <a href=""  title=""></a>
                 </li>
             
               
@@ -548,7 +548,7 @@
 		
 
 
-<script src="/pdhi-test-feeling-responsive/assets/js/javascript.min.js"></script>
+<script src="/assets/js/javascript.min.js"></script>
 
 
 

@@ -115,7 +115,7 @@ body.video cite { color: #fff; }
     height: 175px;
 }
 #masthead-no-image-header #logo img {
-    margin-top: 60px;
+    margin-top: 150px;
 }
 
 /* Masthead › small-only
@@ -123,8 +123,11 @@ body.video cite { color: #fff; }
 
 @media #{$small-only} {
     #logo img {
-        display: none;
-    }
+        display: inline-block;
+    } 
+	
+
+	
     #masthead {
         height: 200px;
     }
@@ -140,7 +143,7 @@ body.video cite { color: #fff; }
         font-size: rem-calc(36);
     }
     #masthead-no-image-header {
-        display: none;
+        display: inline;
     }
 }
 
@@ -152,6 +155,7 @@ body.video cite { color: #fff; }
     #logo img {
         margin-top: 60px;
     }
+	
     #masthead {
         height: 280px;
     }
@@ -175,6 +179,8 @@ body.video cite { color: #fff; }
     #logo img {
         margin-top: 80px;
     }
+	
+	
     #masthead {
         height: 310px;
     }
@@ -198,6 +204,8 @@ body.video cite { color: #fff; }
     #logo img {
         margin-top: 110px;
     }
+	
+	
     #masthead {
         height: 380px;
     }
