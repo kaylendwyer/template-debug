@@ -69,10 +69,10 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #masthead {
-    background-color: $primary-color;
+    background-color: #fff; /* $primary-color */
 }
 #masthead-no-image-header {
-    background-color: $primary-color;
+    background-color: #fff; /* $primary-color */
 }
 
 /* ORIGINAL
@@ -92,8 +92,8 @@ body.video cite { color: #fff; }
     text-align: left;
     font-size: rem-calc(54);
     font-family: $header-font-family;
-    color: #fff;
-    text-transform: uppercase;
+    color: #000;
+    /* text-transform: uppercase; */
    /* text-shadow: 0 2px 3px rgba(0,0,0,.4); */
     font-weight: 700;
 }
@@ -102,7 +102,7 @@ body.video cite { color: #fff; }
     text-align: left;
     font-size: rem-calc(24);
     font-family: $body-font-family;
-    color: #fff;
+    color: #000;
     /* text-transform: uppercase; */
     /* text-shadow: 0 2px 3px rgba(0,0,0,.4); */
     font-weight: 200;

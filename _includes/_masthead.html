@@ -1,14 +1,41 @@
 {% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and page.header.background-color == NULL and page.header.title == NULL %}
 
+
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
-				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+				<!--<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">-->
+				<img src="{{ site.baseurl }}/assets/img/logo.png"><!-- Hard coded the logo -->
+				<!--<img src="https://i.pinimg.com/originals/99/1a/1d/991a1d9f77c7ba0e6895a0f69cdfade6.png"/>-->
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
+
+
+<!-- TRYING TO ADD CALL TO ACTION BUTTON -->
+
+{% if page.callforaction.url contains 'https' %}
+{% assign url = '' %}
+{% else %}
+{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+{% endif %}
+
+
+{% if page.callforaction %}
+    <div class="row t60 b60">
+        <div class="small-12 columns">
+               <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}" style="margin-top: 2rem;" {% if page.callforaction.url contains 'https' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+{% endif %}
+
+
+<!-- END TRY -->
+
+
 
 {% if page.breadcrumb == true %}
 {% include _breadcrumb.html %}
@@ -28,7 +55,7 @@
 			<div class="masthead-slogan">{{ page.header.slogan }}</div>
 <!-- TRYING TO ADD CALL TO ACTION BUTTON -->
 
-{% if page.callforaction.url contains 'http' %}
+<!--{% if page.callforaction.url contains 'https' %}
 {% assign url = '' %}
 {% else %}
 {% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
@@ -36,8 +63,8 @@
 
 
 {% if page.callforaction %}
-            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}" style="margin-top: 2rem;" {% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
-{% endif %}
+            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}" style="margin-top: 2rem;" {% if page.callforaction.url contains 'https' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+{% endif %} -->
 
 
 <!-- END TRY -->
@@ -71,6 +98,7 @@
 		<div class="small-12 columns">
 			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
 				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+				
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->

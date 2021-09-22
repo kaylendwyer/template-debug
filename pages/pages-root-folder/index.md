@@ -5,12 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  background-color: "#000000" 
-# from this color template: https://www.w3schools.com/colors/tryit.asp?filename=trycolors_palettes22
-  title: The Public Digital<br> Humanities Institute
-#   slogan: 
-  image_fullwidth:
+# header: 
+# 	background-color: "#ffffff"
   
 widget1:
   title: "About"
@@ -39,8 +35,9 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
+
 callforaction:
-  url: /apply/
+  url: https://{{site.url}}}/apply/
   text: Apply
   style: alert
 permalink: /index.html

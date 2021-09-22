@@ -18,7 +18,7 @@
 
 $text-color         : #111;
 $body-font-color    : $text-color;
-$body-bg            : #fdfdfd;
+$body-bg            : #ffffff;
 
 
 
@@ -36,11 +36,12 @@ $ci-6               : #A1D044; // green
 
 /* New Template 
 ------------------------------------------------------------------- */
-$dh-1               : #c65103; // Orange
-$dh-2               : #4A6582; // Blue
-$dh-3               : #FFAB19; // Yellow
-$dh-4               : #2C3C4D; // Navy
-$dh-5               : #ff7519; // Light Orange
+$dh-1               : #217473; // Blue-Green
+$dh-2               : #f58455; // Orange
+$dh-3               : #e8d858; // Yellow
+$dh-4               : #e7e8e8; // Cloud
+$dh-5               : #39393a; // Soft Black
+$dh-6 				: #1c6161; // Dark Blue-Green
 
 
 
@@ -54,12 +55,12 @@ $success-color      : $ci-6;
 $warning-color      : $ci-4;
 $info-color         : $ci-1; */
 
-$primary-color      : $dh-1;
-$secondary-color    : $dh-4;
-$alert-color        : $dh-1;
-$success-color      : $dh-5;
-$warning-color      : $dh-3;
-$info-color         : $dh-4;
+$primary-color      : $dh-1; // blue-green
+$secondary-color    : $dh-5; // soft black
+$alert-color        : $dh-1; // blue-green
+$success-color      : $dh-1; // blue-green
+$warning-color      : $dh-2; // orange
+$info-color         : $dh-1; // blue-green
 
 
 
@@ -89,19 +90,19 @@ $grey-16            : #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color    : #000000;
+$topbar-bg-color    : #ffffff;
 $topbar-bg          : $topbar-bg-color;
 
 
 $topbar-dropdown-toggle-color: $dh-1; /*ci-1*/
 
-$topbar-link-color  : #fff;
-$topbar-link-color-hover: #fff;
-$topbar-link-color-active: #fff;
-$topbar-link-color-active-hover: #fff;
+$topbar-link-color  : #000;
+$topbar-link-color-hover: #000;
+$topbar-link-color-active: #000;
+$topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: $dh-1; /* originally: ci-2 (turq.) */
-$topbar-dropdown-link-bg-hover: $dh-1; /* originally: ci-6 (green) */
+$topbar-dropdown-label-color: $dh-1; // blue green
+$topbar-dropdown-link-bg-hover: $dh-1; // blue green
 
 $topbar-link-bg-active: $dh-1; // Active Navigation Link /* originally: ci-6 (green) */
 $topbar-link-bg-hover: $dh-1; /* originally: ci-6 (green) */
@@ -125,12 +126,12 @@ $topbar-menu-icon-color-toggled: $dh-1; /* originally: ci-6 (green) */
 ------------------------------------------------------------------- */
 
 
-$footer-bg          : $grey-8;
+$footer-bg          : $dh-5; /* grey-8 */
 $footer-color       : #fff;
-$footer-link-color  : #fff; /*ci-6*/
+$footer-link-color  : #fff;
 
 
-$subfooter-bg       : $grey-13;
+$subfooter-bg       : $dh-5; // soft black
 $subfooter-color    : $grey-8;
 $subfooter-link-color: $grey-8;
 
