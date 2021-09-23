@@ -3,7 +3,7 @@ layout: page-fullwidth
 #background: grey
 permalink: /staff/
 header:
-    title: staff
+    title: Staff
     slogan: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
     background-color: "#39393A"
 ---
