@@ -6,7 +6,7 @@ breadcrumb: true
 categories:
     - news
 header: 
-    background-color: "#000000"
+    background-color: "#39393a"
     title: NEH Grant to Support Training for High-Impact Public Digital Humanities Collaborations
 show_meta: false
 ---

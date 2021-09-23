@@ -23,7 +23,7 @@ widget2:
   text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 widget3:
   title: "Curriculum"
-  url: '/curriculum/'
+  url: '/overview/'
   # image: widget-github-303x182.jpg
   text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 

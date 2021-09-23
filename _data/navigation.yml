@@ -22,7 +22,6 @@
 
 
 - title: People
-  url: /people/
   side: right
   dropdown:
     - title: Faculty
@@ -32,8 +31,18 @@
 
 
 - title: Curriculum
-  url: /curriculum/
   side: right
+  dropdown: 
+    - title: Overview
+      url: /curriculum/
+    - title: Discussion
+      url: /discussion/
+    - title: Case Studies
+      url: /case-studies/
+    - title: Tech Training
+      url: /tech-training/
+    - title: Online Program
+      url: /online/
 
 - title: News
   url: /news/
