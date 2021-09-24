@@ -16,8 +16,7 @@
 </div><!-- /#masthead -->
 
 
-<!-- TRYING TO ADD CALL TO ACTION BUTTON -->
-
+<!-- Add CTA in the masthead if there is no header, no full-width image, no pattern, no background color, and no title AND page says callforaction --> 
 {% if page.callforaction.url contains 'https' %}
 {% assign url = '' %}
 {% else %}
@@ -35,7 +34,7 @@
 {% endif %}
 
 
-<!-- END TRY -->
+<!-- end add CTA -->
 
 
 
@@ -54,9 +53,13 @@
 		<div class="small-12 columns">
 
 			<div class="masthead-title">{{ page.header.title }}</div>
-			<div class="masthead-slogan">{{ page.header.slogan }}</div>
-<!-- TRYING TO ADD CALL TO ACTION BUTTON -->
+			<div class="masthead-slogan">{{ page.header.slogan }}</div><!-- added slogans -->
 
+
+		</div><!-- /.small-12.columns -->
+
+
+<!-- Add CTA in the masthead if there is is a title AND the page says "callforaction" --> 
 <!--{% if page.callforaction.url contains 'https' %}
 {% assign url = '' %}
 {% else %}
@@ -65,15 +68,28 @@
 
 
 {% if page.callforaction %}
-            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}" style="margin-top: 2rem;" {% if page.callforaction.url contains 'https' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
-{% endif %} -->
+    <div id="masthead-CTA" class="row t60 b60">
+        <div class="small-12 columns">
+               <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}" style="margin-top: 5rem;" {% if page.callforaction.url contains 'https' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+        </div><!~~ /.small-12.columns ~~>
+    </div<!~~ /.row ~~>
+
+{% endif %}-->
+<!-- end add CTA -->
 
 
-<!-- END TRY -->
 
-		</div><!-- /.small-12.columns -->
+
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
+
+
+
+
+
+
+
+
 
 {% if page.breadcrumb == true %}
 {% include _breadcrumb.html %}
@@ -87,6 +103,9 @@
 <div class="masthead-caption">
 	{{ page.header.caption }}
 </div>
+
+
+
 {% endif %}
 
 

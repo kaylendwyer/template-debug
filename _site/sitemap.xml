@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 36 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 41 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>/404.html</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,22 @@
 	<url>
 	<loc>/about</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/american-indian-digital-history-project/</loc>
+	
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -37,7 +52,7 @@
 	<url>
 	<loc>/apply</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -52,7 +67,7 @@
 	<url>
 	<loc>/blog/archive/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,7 +84,7 @@
 	<url>
 	<loc>/atom.xml</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +101,7 @@
 	<url>
 	<loc>/case-studies/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +116,7 @@
 	<url>
 	<loc>/conduct/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +131,7 @@
 	<url>
 	<loc>/contact</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +146,7 @@
 	<url>
 	<loc>/curriculum/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +161,37 @@
 	<url>
 	<loc>/discussion/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/ellas-tienen-nombre/</loc>
+	
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/emmett-till-memory-project/</loc>
+	
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +206,7 @@
 	<url>
 	<loc>/faculty/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +221,7 @@
 	<url>
 	<loc>/feed.xml</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,7 +236,7 @@
 	<url>
 	<loc>/humans.txt</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -206,7 +251,7 @@
 	<url>
 	<loc>/idrh/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,7 +266,7 @@
 	<url>
 	<loc>/pages/pages-root-folder/index-md.copy/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -236,7 +281,7 @@
 	<url>
 	<loc>/blog/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -251,7 +296,22 @@
 	<url>
 	<loc>/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/lakeland-community-heritage-project/</loc>
+	
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -266,7 +326,7 @@
 	<url>
 	<loc>/logistics/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -281,7 +341,7 @@
 	<url>
 	<loc>/news</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -296,7 +356,7 @@
 	<url>
 	<loc>/online/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -311,7 +371,7 @@
 	<url>
 	<loc>/robots.txt</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -330,7 +390,7 @@
 	<url>
 	<loc>/schedule/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -345,7 +405,7 @@
 	<url>
 	<loc>/sitemap.xml</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -360,7 +420,7 @@
 	<url>
 	<loc>/sponsors/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -375,7 +435,7 @@
 	<url>
 	<loc>/staff/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -392,7 +452,22 @@
 	<url>
 	<loc>/tech-training/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/under-the-rainbow/</loc>
+	
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -407,7 +482,7 @@
 	<url>
 	<loc>/blog/page2/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -422,7 +497,7 @@
 	<url>
 	<loc>/blog/page3/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -437,7 +512,7 @@
 	<url>
 	<loc>/blog/page4/</loc>
 	
-		<lastmod>2021-09-24T08:54:56-05:00</lastmod>
+		<lastmod>2021-09-24T11:18:19-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

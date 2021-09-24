@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-background: grey
+background: 
 permalink: contact
 header: no
 ---
