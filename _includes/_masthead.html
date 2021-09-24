@@ -56,11 +56,13 @@
 			<div class="masthead-slogan">{{ page.header.slogan }}</div><!-- added slogans -->
 
 
+
+
 		</div><!-- /.small-12.columns -->
 
 
 <!-- Add CTA in the masthead if there is is a title AND the page says "callforaction" --> 
-<!--{% if page.callforaction.url contains 'https' %}
+{% if page.callforaction.url contains 'https' %}
 {% assign url = '' %}
 {% else %}
 {% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
@@ -70,11 +72,11 @@
 {% if page.callforaction %}
     <div id="masthead-CTA" class="row t60 b60">
         <div class="small-12 columns">
-               <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}" style="margin-top: 5rem;" {% if page.callforaction.url contains 'https' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
-        </div><!~~ /.small-12.columns ~~>
-    </div<!~~ /.row ~~>
+               <a class="button large radius {{ page.callforaction.style }}" style="margin-auto;" href="{{ url }}{{ page.callforaction.url }}" {% if page.callforaction.url contains 'https' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
 
-{% endif %}-->
+{% endif %}
 <!-- end add CTA -->
 
 

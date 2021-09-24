@@ -2,6 +2,12 @@
 layout: page
 title: Brian Rosenblum
 person_name: Brian Rosenblum
+person_title: Librarian for Digital Scholarship, Co-Director of the Institute for Digital Research in the Humanities, <br>University of Kansas
+role: staff
+
+presentation:
+presentation link:
+
 permalink: /brian-rosenblum
 img: ../images/Rosenblum-Brian_square.png
 ---

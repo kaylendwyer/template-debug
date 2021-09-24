@@ -2,6 +2,13 @@
 layout: page
 title: Sylvia Fernández
 person_name: Sylvia Fernández
+person_title: Public and Digital Humanities Postdoctoral Fellow, Hall Center for the Humanities
+role: staff
+
+
+presentation:
+presentation_link: 
+
 permalink: /sylvia-fernandez
 img: ../images/Fernandez-Sylvia_square.png
 ---

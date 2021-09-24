@@ -1,5 +1,6 @@
 ---
-permalink: /lakeland-community-heritage-project/
+permalink: /case-studies/lakeland-community-heritage-project/
+breadcrumb: true
 layout: page
 header: 
     title: The Lakeland Community Heritage Project

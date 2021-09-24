@@ -2,9 +2,14 @@
 layout: page
 title: Kaylen Dwyer
 person_name: Kaylen Dwyer
-role: Digital Media Specialist, <br>The Institute for Digital Research in the Humanities, University of Kansas
+person_title: Digital Media Specialist, <br>The Institute for Digital Research in the Humanities, University of Kansas
+role: Staff
+
+
 presentation: Creating Digital Archives & Exhibits with Omeka
-presentation_link: /presentation-1
+presentation_link: 
+
+
 permalink: /kaylen-dwyer/
 img: ../images/dwyer-kaylen_square.png
 ---

@@ -1,5 +1,6 @@
 ---
-permalink: /ellas-tienen-nombre/
+permalink: /case-studies/ellas-tienen-nombre/
+breadcrumb: true
 layout: page
 header: 
     title: Ellas Tienen Nombre (“They Have Names”)

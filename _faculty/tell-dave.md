@@ -2,6 +2,12 @@
 layout: page
 title: Dave Tell
 person_name: Dave Tell
+person_title: Professor in the Department of Communication Studies, Co-Director of the Institute for Digital Research in the Humanities, <br>University of Kansas
+role: staff
+
+presentation:
+presentation_link:
+
 permalink: /dave-tell/
 img: ../images/Tell-Dave_square.png
 ---
