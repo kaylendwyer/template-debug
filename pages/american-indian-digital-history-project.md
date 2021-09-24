@@ -19,3 +19,20 @@ AIDHP works partnership with Native peoples and communities to promote the recov
 
 [View Project »](http://aidhp.com/)
 
+{% for faculty in site.faculty %}
+  {% if faculty.case_study == "AIDPH" %}
+  <div class="row" style="margin-bottom: 4rem; align-items: center;">
+
+  <div class="medium-4 columns" style="padding-right: 50px;">
+    <img src="{{ faculty.img }}" style="max-width: 200px; border-radius: 50%;"/>
+  </div>
+
+  <div class="medium-8 columns">
+    <h1 style="font-weight: bold;">{{ faculty.person_name }}</h1>
+    {{ faculty.content }} 
+  </div>
+
+  </div>
+
+  {% endif %}
+{% endfor %} 
