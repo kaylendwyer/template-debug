@@ -98,13 +98,13 @@ $topbar-dropdown-toggle-color: $dh-1;
 
 $topbar-link-color  : #000;
 $topbar-link-color-hover: #fff;
-$topbar-link-color-active: #fff;
+$topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #fff;
 
-$topbar-dropdown-label-color: #fff; // blue green
-$topbar-dropdown-link-bg-hover: $dh-1; // blue green
+$topbar-dropdown-label-color: $dh-1; // blue green
+$topbar-dropdown-link-bg-hover: $dh-6; // blue green
 
-$topbar-link-bg-active: $dh-1; // Active Navigation Link
+$topbar-link-bg-active: #fff; // Active Navigation Link
 $topbar-link-bg-hover: $dh-1;
 $topbar-link-bg-active-hover: $dh-1; 
 
@@ -117,7 +117,7 @@ $topbar-menu-link-color-toggled: $dh-1;
 $topbar-menu-icon-color-toggled: $dh-1; 
 $topbar-menu-link-color: $dh-1;
 $topbar-menu-icon-color: $dh-1;
-$topbar-menu-link-color-toggled: $dh-1; 
+$topbar-menu-link-color-toggled: #fff; 
 $topbar-menu-icon-color-toggled: $dh-1; 
 
 
