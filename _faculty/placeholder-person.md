@@ -11,6 +11,6 @@ presentation:
 presentation_link: 
 
 permalink: /first-last/
-img: ../images/placeholder-person.png
+img: placeholder-person.png
 ---
 This is a bio!

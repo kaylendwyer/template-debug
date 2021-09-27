@@ -9,5 +9,5 @@ presentation:
 presentation_link: 
 
 permalink: /first-last/
-img: ../images/last-first.png
+img: last-first.png
 ---

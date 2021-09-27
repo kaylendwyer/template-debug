@@ -1,14 +1,12 @@
 ---
-layout: page
-title: Contact
-background: 
+layout: page-fullwidth
+#background: grey
 permalink: contact
-header: no
+header:
+    title: Contact
+    slogan: We welcome your enquiries.
+    background-color: "#39393A"
 ---
 
-Email us at <idrh@ku.edu>  
-
-Follow us on Twitter at <http://twitter.com/idrh_ku>  
-
-See us on the web at <http://idrh.ku.edu>  
+Applicants should direct all questions about the Public Digital Humanities Institute to <idrh@ku.edu>, or directly to co-directors Brian Rosenblum (<brianrosenblum@ku.edu>) or Dave Tell (<davetell@ku.edu>).
 
