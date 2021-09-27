@@ -1,6 +1,7 @@
 ---
 layout: page 
 permalink: idrh
+title: About the IDRH
 header: 
     title: About the IDRH
     slogan: Advancing the Humanities in a Digital Age

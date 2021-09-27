@@ -332,7 +332,7 @@
 
             
             
-              <li><a  href="/index.html">Home</a></li>
+              <li><a  href="/index.html">The Public Digital Humanities Institute</a></li>
               <li class="divider"></li>
 
             

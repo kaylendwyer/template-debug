@@ -15,6 +15,23 @@ header:
 
 {% for person in site.data.faculty %}
 {% if person.sessions contains "Rainbow" %}
-<img src="../../images/people/{{ person.img }}" style="max-width: 200px; border-radius: 50%;"/>
+
+<div class="row" style="margin-top: 4rem; margin-bottom: 4rem; align-items: center;">
+
+<div class="medium-4 columns" style="padding-right: 50px;">
+    <img src="../../images/people/{{ person.img }}" style="max-width: 200px; border-radius: 50%;"/>
+</div>
+
+<div class="medium-8 columns">
+    <h1 style="font-weight: bold;">{{ person.name }}</h1>
+    {{ person.bio }}   
+</div>
+
+
+
+</div>
+
+
+
 {% endif %}
 {% endfor %}

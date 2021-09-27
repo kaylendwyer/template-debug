@@ -22,10 +22,13 @@ format: post
 				</figure>
 				{% endif %}
 
+
+				{% if page.header == NULL %} <!-- adding an IF statement to remove H1 headings on pages where a title is already in the header. -->
 				<div itemprop="name">
 					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
 					<h1>{{ page.title }}</h1>
 				</div>
+				{% endif %}
 			</header>
 
 

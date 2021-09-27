@@ -4,8 +4,8 @@ title: About
 background: 
 permalink: about
 header: 
-    title: About
-    slogan: Join us!
+    title: About the Institute
+    slogan: Hosted by the Institute for Digital Research in the Humanities at the University of Kansas, PDHI is intended to foster successful academic-community digital, public-facing humanities projects
     background-color: "#39393A"
 ---
 The Institute for Digital Research in the Humanities (IDRH) at the University of Kansas welcomes applications to participate in the NEH-funded Public Digital Humanities Institute, June 6-11, 2022, to receive training and support in public digital humanities and academic-community collaborations. Applications are due to <idrh@ku.edu> by Monday, January 10, 2022 at 11:59 PM (US Central time).
