@@ -4,7 +4,7 @@ permalink: sponsors
 header: 
     title: Sponsors
     slogan: We thank our generous sponsors and partners
-    background-color: "#39393A"
+    background-color: "#39393a"
 ---
 
 
