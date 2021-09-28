@@ -14,7 +14,9 @@ header:
 *Under the Rainbow: Oral Histories of Gay, Lesbian, Bisexual, Transgender, Intersex and Queer People in Kansas* is a series of interviews that documents the life stories and experiences of GLBTQ Kansans. It is the first online open access oral history collection of GLBTQ Kansans in the U.S.  
 
 
-#### [View Project »](http://hdl.handle.net/1808/5330)  
+<span style="font-size: 1.25rem;">[View Project »](http://hdl.handle.net/1808/5330)</span>  
+
+---
 
 {% for person in site.data.faculty %}
 {% if person.sessions contains "Rainbow" %}

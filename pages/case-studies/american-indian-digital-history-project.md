@@ -12,11 +12,13 @@ header:
 
 The American Indian Digital History Project works in partnership with Native peoples and communities to promote the recovery, sharing, preservation, and protection of rare Tribal archival and primary source materials. The project seeks to increase access to historical Tribal documents in order to encourage accurate and responsible American Indian research. 
 
-<img src="../../images/case-studies/AIDHP-screenshot3.png" style="float:left; border: 5px solid #555; margin-bottom: 10px;"/>
+<img src="../../images/case-studies/AIDHP-screenshot3.png" style="float:left; border: 2px solid lightgrey; margin-bottom: 10px;"/>
 
 This innovative digital project is a cooperative partnership between the University of Kansas, the University of Nebraska at Omaha (UNO), Tribal communities, Tribal Colleges, Native organizations, Libraries, Universities/Colleges, and the larger public. 
 
-#### [View Project »](http://aidhp.com/)
+<span style="font-size: 1.25rem;">[View Project »](http://aidhp.com/)</span>
+
+---
 
 {% for person in site.data.faculty %}
 {% if person.sessions contains "AIDHP" %}

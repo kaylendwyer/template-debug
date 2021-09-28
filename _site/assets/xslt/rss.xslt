@@ -12,6 +12,8 @@
 
     <link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
 
+    <link rel="stylesheet" href="https://use.typekit.net/jto2min.css"><!-- add Roboto font to project from Adobe Typekit -->
+
   
 
 	<script src="/assets/js/modernizr.min.js"></script>
