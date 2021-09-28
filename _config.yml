@@ -14,7 +14,7 @@ title: 'The Public Digital Humanities Institute'
 slogan: 'An Institute for Academic/Community Collaboration'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'An Institute hosted by the IDRH'
+description: 'An Institute for Academic/Community Collaboration'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 # credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -113,7 +113,8 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      # author:      # Default author for pages
+      breadcrumb: true
   -
     scope:
       path: ''
@@ -122,8 +123,8 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
-
+      # author:      # Default author for posts
+      breadcrumb: true
 
 
 #       _   __            _             __  _

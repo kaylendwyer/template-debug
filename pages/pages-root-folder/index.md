@@ -5,28 +5,29 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-# header: 
-# 	background-color: "#ffffff"
-  
+# header:
+#     title: 
+#     slogan: 
+#     background-color: "#FFFFFF"
+breadcrumb: false  
 contentSection: 
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dolor eleifend, finibus eros non, feugiat magna. Mauris mollis lectus vitae volutpat egestas. Phasellus.
+    text: A summer institute devoted to fostering<br/>academic/community collaboration in the digital humanities 
 
 widget1:
   title: "About"
   url: '/about/'
   # image: widget-1-302x182.jpg
-  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+  text: 'Hosted by the Institute for Digital Research in the Humanities at the University of Kansas, PDHI is intended to foster successful academic-community digital, public-facing humanities projects.'
 widget2:
+  title: "Curriculum"
+  url: '/curriculum/'
+  # image: widget-github-303x182.jpg
+  text: 'The curriculum includes an intense week of case studies, technical training, and workshops & discussions intended to strengthen relationships, create sustainable projects, and provide foundational knowledge of tools and methods in the public digital humanities.'
+widget3:
   title: "Faculty"
   url: '/faculty/'
   # image: widget-1-302x182.jpg
-  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
-widget3:
-  title: "Curriculum"
-  url: '/overview/'
-  # image: widget-github-303x182.jpg
-  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
-
+  text: 'The Institute sessions will be led by more than 20 experienced academics and community partners, offering a breadth of complementary skill sets and areas of expertise that will provide participants rich opportunities for engagement.'
 
 #
 # Use the call for action to show a button on the frontpage

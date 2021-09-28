@@ -4,9 +4,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>The Public Digital Humanities Institute</title>
-	<updated>2021-09-27T16:00:50-05:00</updated>
+	<updated>2021-09-27T23:57:47-05:00</updated>
 
-	<subtitle>An Institute hosted by the IDRH</subtitle>
+	<subtitle>An Institute for Academic/Community Collaboration</subtitle>
 
 	
 
@@ -22,17 +22,6 @@
 			<link href="/news/University-of-Kansas-Press-Release/" rel="alternate" type="text/html" title="University Of Kansas Press Release" />
 			<updated>2021-08-17T00:00:00-05:00</updated>
 
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
 			
 			<summary>LAWRENCE — The Institute for Digital Research in the Humanities at the University of Kansas has been awarded $190,000 from the National Endowment for the Humanities to offer training in public digital humanities and academic-community collaborations. An intensive weeklong summer institute — to be offered in June 2022 at the Hall Center for the Humanities — will provide foundational knowledge, skills and resources to successfully advance 12 public humanities projects, increasing their longevity, visibility and impact. This will be followed by a year of further online training, support and discussion, with a final symposium and showcase in June 2023.</summary>
 			<content type="html" xml:base="/news/University-of-Kansas-Press-Release/">&lt;p&gt;&lt;a href=&quot;https://today.ku.edu/2021/08/17/neh-grant-support-training-high-impact-public-digital-humanities-collaborations&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;

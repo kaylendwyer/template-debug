@@ -4,7 +4,7 @@ layout: page-fullwidth
 permalink: contact
 header:
     title: Contact
-    slogan: We welcome your enquiries.
+    slogan: We welcome your enquiries
     background-color: "#39393A"
 ---
 

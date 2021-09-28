@@ -4,7 +4,7 @@ layout: page-fullwidth
 permalink: /staff/
 header:
     title: Staff
-    slogan: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    slogan: Your hardworking hosts, the staff of the Institute for Digital Research in the Humanities 
     background-color: "#39393A"
 ---
 
@@ -13,6 +13,7 @@ header:
 {% assign staff_list = site.data.faculty | sort: "order" %}
 {% for staff in staff_list %}
   {% if staff.role contains "staff" %}
+ 
 
  <div class="row" style="margin-bottom: 4rem; align-items: center;">
 

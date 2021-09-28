@@ -4,7 +4,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>The Public Digital Humanities Institute</title>
-		<description>An Institute hosted by the IDRH</description>
+		<description>An Institute for Academic/Community Collaboration</description>
 		<link>/</link>
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		

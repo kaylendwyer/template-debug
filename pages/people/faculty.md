@@ -4,7 +4,7 @@ layout: page-fullwidth
 permalink: /faculty/
 header:
     title: Faculty
-    slogan: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    slogan: The Institute sessions will be led by more than 20 experienced academics and community partners, offering a breadth of complementary skill sets and areas of expertise that will provide participants rich opportunities for engagement
     background-color: "#39393A"
 ---
 
@@ -21,6 +21,8 @@ header:
 
 {% assign faculty_list = site.data.faculty | sort: "name" %}
 {% for faculty in faculty_list %}
+  {% unless faculty.role contains "staff" %}
+
 <div class="row" style="margin-bottom: 4rem; align-items: center;">
 
 <div class="medium-4 columns" style="padding-right: 50px;">
@@ -36,6 +38,6 @@ header:
 
 </div>
 
-
+{% endunless %}
 {% endfor %} 
 <div>

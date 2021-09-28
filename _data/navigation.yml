@@ -9,8 +9,8 @@
       url: /about/
     - title: About the IDRH
       url: /idrh/
-    - title: Sponsors
-      url: /sponsors/
+    - title: Funders & Partners
+      url: /funders-partners/
 
 - title: Attend
   side: right
@@ -39,14 +39,14 @@
   dropdown: 
     - title: Overview
       url: /curriculum/
-    - title: Discussion
-      url: /discussion/
     - title: Case Studies
       url: /case-studies/
+    - title: Learning & Discussion
+      url: /discussion/
     - title: Tech Training
       url: /tech-training/
     - title: Online Program
-      url: /online/
+      url: /online-program/
 
 - title: News
   url: /news/

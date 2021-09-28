@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="An Institute hosted by the IDRH">
+	<meta name="description" content="An Institute for Academic/Community Collaboration">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -42,7 +42,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
-	<meta property="og:description" content="An Institute hosted by the IDRH">
+	<meta property="og:description" content="An Institute for Academic/Community Collaboration">
 	<meta property="og:url" content="/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -57,7 +57,7 @@
 	<meta name="twitter:site" content="idrh_KU">
 	<meta name="twitter:creator" content="idrh_KU">
 	<meta name="twitter:title" content="Atom Feed (Styled)">
-	<meta name="twitter:description" content="An Institute hosted by the IDRH">
+	<meta name="twitter:description" content="An Institute for Academic/Community Collaboration">
 	
 	
 
@@ -158,7 +158,7 @@
 
                       
 
-                      <li><a  href="/sponsors/">Sponsors</a></li>
+                      <li><a  href="/funders-partners/">Funders &amp; Partners</a></li>
                     
                   </ul>
 
@@ -264,12 +264,12 @@
 
                       
 
-                      <li><a  href="/discussion/">Discussion</a></li>
+                      <li><a  href="/case-studies/">Case Studies</a></li>
                     
 
                       
 
-                      <li><a  href="/case-studies/">Case Studies</a></li>
+                      <li><a  href="/discussion/">Learning &amp; Discussion</a></li>
                     
 
                       
@@ -279,7 +279,7 @@
 
                       
 
-                      <li><a  href="/online/">Online Program</a></li>
+                      <li><a  href="/online-program/">Online Program</a></li>
                     
                   </ul>
 
@@ -413,6 +413,27 @@
 
 
 
+<nav class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
+ <a href="">Home</a>
+ 
+   
+    
+        <a href="/assets/">assets</a>
+    
+  
+    
+        <a href="/assets/xslt/">xslt</a>
+    
+  
+    
+        <a class="current"></a>
+    
+  
+</nav>
+
+
+
+
 
 
 
@@ -481,7 +502,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              An Institute hosted by the IDRH
+              An Institute for Academic/Community Collaboration
               <a href="/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->

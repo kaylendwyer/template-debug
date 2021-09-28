@@ -8,7 +8,7 @@ header:
 ---
 
 ### About Lawrence
-One hour by car from Kansas City International Airport on Interstate 70, Lawrence, Kansas is a lively college town of 100,000 residents with an active arts and culture scene and easy access to hotels, restaurants and shopping.. Lawrence is home to the Watkins Museum of History, The Spencer Museum of Art, Haskell Indian Nations University, and numerous historical sites and cultural resources.
+One hour by car from Kansas City International Airport on Interstate 70, Lawrence, Kansas is a lively college town of 100,000 residents with an active arts and culture scene and easy access to hotels, restaurants and shopping. Lawrence is home to the Watkins Museum of History, The Spencer Museum of Art, Haskell Indian Nations University, and numerous historical sites and cultural resources.
 
 [Explore Lawrence »](https://www.explorelawrence.com/)
 
@@ -29,8 +29,9 @@ We will secure discounted block rates at local hotels with convenient access to 
 **Airport.**
 Lawrence is located about one hour by car from Kansas City International Airport (MCI). Airport shuttle information will be posted here closer to the date of the Institute.
 
-**Lawrence Transit.**
-Lawrence is served by the Lawrence Transit bus system. Most hotels are no more than 10-15 minutes by bus from the KU campus. Uber and Lyft are also avaialble.
+**Bus.**
+Lawrence is served by the Lawrence Transit bus system. Most hotels are no more than 10-15 minutes by bus from the KU campus. Uber and Lyft are also avaialble. The bus costs $1 when boarding off campus. It is free when boarding on campus.
 
 **By Foot.**
+It is about 15-20 minutes by foot--uphill--from dwntown Lawrence to the Hall Center and the rest of the KU campus.
 
