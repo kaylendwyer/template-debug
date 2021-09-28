@@ -5,7 +5,8 @@ title: About the IDRH
 header: 
     title: About the IDRH
     slogan: Advancing the Humanities in a Digital Age
-    background-color: "#39393a"
+    background-color: "#fff"
+    underline-color: "#ff8552"
 ---
 
 ![IDRH logo](../images/logos/idrh-logo.jpg)
