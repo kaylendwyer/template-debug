@@ -5,7 +5,8 @@ layout: page
 header: 
     title: The Emmett Till Memory Project
     slogan: Dave Tell, Professor, Department of Communication Studies, University of Kansas, and Patrick Weems, Executive Director, Emmett Till Interpretive Center
-    background-color: "#39393A"
+    background-color: "#fff"
+    underline-color: "#297373"
 ---
 
 The Emmett Till Memory Project is a collaborative production of the Emmett Till Memorial Commission of Tallahatchie County, Mississippi, and scholars across the country. 

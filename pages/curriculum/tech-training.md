@@ -5,7 +5,8 @@ layout: page
 header: 
     title: Tech Training
     slogan: Introductory sessions to develop an awareness and understanding of foundational concepts and common tools and methods.
-    background-color: "#39393A"
+    background-color: "#fff"
+    underline-color: "#ff8552"
 ---
 
 *Some sessions will be offered concurrently, with  participants able to choose one of two sessions. This allows for smaller, more-effective hands-on sessions, while still allowing team members to split up and attend all workshops offered.*

@@ -111,7 +111,7 @@ body.video cite { color: #fff; }
     text-align: left;
     font-size: rem-calc(54);
     font-family: $header-font-family;
-    color: #fff;
+    color: #000;
     font-weight: 700;
 }
 
@@ -119,8 +119,9 @@ body.video cite { color: #fff; }
     text-align: left;
     font-size: rem-calc(24);
     font-family: $body-font-family;
-    color: #fff;
-    font-weight: 200;
+    color: #000;
+    font-weight: 300;
+    padding-top: 1rem;
 }
 
 /*end addition*/

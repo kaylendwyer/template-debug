@@ -4,7 +4,8 @@ permalink: apply
 header: 
     title: Apply
     slogan: Applications due Monday, January 10, 2022
-    background-color: "#39393a"
+    background-color: "#fff"
+    underline-color: "#297373"
 ---
 
 For an application to be verified as complete, and thus considered by the review committee, applicants must:

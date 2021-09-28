@@ -6,7 +6,8 @@ presenter: Ivonne Ramírez
 header: 
     title: Ellas Tienen Nombre (“They Have Names”)
     slogan: Ivonne Ramírez, independent scholar and writer
-    background-color: "#39393A"
+    background-color: "#fff"
+    underline-color: "#ff8552"
 ---
 
 Ellas Tienen Nombre (“They Have Names”) is an independent-scholar led project to gather public data and document murdered women and girls in Ciudad Juárez, Mexcio, through mapping and visualization. 

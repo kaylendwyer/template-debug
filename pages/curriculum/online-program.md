@@ -4,7 +4,8 @@ layout: page
 header: 
     title: Virtual Institute
     slogan: The Institute will continue online for one year, with additional workshops, consultations, discussions, and a final project showcase.
-    background-color: "#39393A"
+    background-color: "#fff"
+    underline-color: "#ff8552"
 ---
 
 ### Workshops

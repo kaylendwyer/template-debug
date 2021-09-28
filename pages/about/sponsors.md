@@ -5,7 +5,8 @@ title: Funders & Partners
 header: 
     title: Funders & Partners
     slogan: We thank our generous funders, partners & service providers
-    background-color: "#39393a"
+    background-color: "#fff"
+    underline-color: "#ff8552"
 ---
 
 ## Funders

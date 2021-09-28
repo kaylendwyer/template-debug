@@ -5,7 +5,8 @@ permalink: contact
 header:
     title: Contact
     slogan: We welcome your enquiries
-    background-color: "#39393A"
+    background-color: "#fff"
+    underline-color: "#297373"
 ---
 
 Applicants should direct all questions about the Public Digital Humanities Institute to <idrh@ku.edu>, or directly to co-directors Brian Rosenblum (<brianrosenblum@ku.edu>) or Dave Tell (<davetell@ku.edu>).

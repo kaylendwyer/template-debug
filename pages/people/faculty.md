@@ -5,7 +5,8 @@ permalink: /faculty/
 header:
     title: Faculty
     slogan: The Institute sessions will be led by more than 20 experienced academics and community partners, offering a breadth of complementary skill sets and areas of expertise that will provide participants rich opportunities for engagement
-    background-color: "#39393A"
+    background-color: "#fff"
+    underline-color: "#e9d758"
 ---
 
 

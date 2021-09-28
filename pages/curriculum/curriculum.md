@@ -4,7 +4,8 @@ layout: page
 header: 
     title: Curriculum
     slogan: Featuring a large roster of presenters from inside and outside academia, mixed with discussion and training sessions, the Institute will give participants an opportunity for extensive interaction and networking with experts and with each other.
-    background-color: "#39393A"
+    background-color: "#fff"
+    underline-color: "#ff8552"
 ---
 
 ## Case Studies

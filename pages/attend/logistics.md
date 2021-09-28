@@ -4,7 +4,8 @@ permalink: logistics
 header: 
     title: Logistics
     slogan: Transportation, Lodging, Facilities & Local Information
-    background-color: "#39393A"
+    background-color: "#fff"
+    underline-color: "#297373"
 ---
 
 ### About Lawrence

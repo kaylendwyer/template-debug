@@ -4,7 +4,8 @@ layout: page
 header: 
     title: Case Studies
     slogan: Each day of the institute will open with a case study presented by that project’s director. These case  studies highlight a range of platforms and modes of digital scholarship and will provide participants with real-world examples to draw from. 
-    background-color: "#39393A"
+    background-color: "#fff"
+    underline-color: "#ff8552"
 ---
 
 ### The Lakeland Community Heritage Project

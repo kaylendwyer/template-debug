@@ -5,7 +5,8 @@ permalink: /staff/
 header:
     title: Staff
     slogan: Your hardworking hosts, the staff of the Institute for Digital Research in the Humanities 
-    background-color: "#39393A"
+    background-color: "#fff"
+    underline-color: "#e9d758"
 ---
 
 <div class="faculty-list" style="margin: 3rem 0 0 0;">

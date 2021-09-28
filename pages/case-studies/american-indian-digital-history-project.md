@@ -5,7 +5,8 @@ layout: page
 header: 
     title: The American Indian Digital History Project
     slogan: Kent Blansett, Langston Hughes Associate Professor of Indigenous Studies and History, University of Kansas
-    background-color: "#39393A"
+    background-color: "#fff"
+    underline-color: "#ff8552"
 
 ---
 

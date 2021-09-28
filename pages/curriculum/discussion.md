@@ -5,7 +5,8 @@ breadcrumb: true
 header: 
     title: Interactive Learning & Discussion
     slogan: Led by community partners as well as academics, these sessions will focus on topics such as sustaining digital humanities projects, fundraising and marketing, developing strong community parterships, and principles of public humanities.
-    background-color: "#39393A"
+    background-color: "#fff"
+    underline-color: "#ff8552"
 ---
 
 ### Humanities for All

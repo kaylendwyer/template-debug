@@ -52,7 +52,7 @@
 	<div class="row">
 		<div class="small-12 columns">
 
-			<div class="masthead-title">{{ page.header.title }}</div>
+			<div class="masthead-title" style="{% if page.header.underline-color %}text-decoration: underline; text-underline-offset: 0.8rem; text-decoration-color: {{ page.header.underline-color }}; {% endif %}">{{ page.header.title }}</div>
 			<div class="masthead-slogan">{{ page.header.slogan }}</div><!-- added slogans -->
 
 

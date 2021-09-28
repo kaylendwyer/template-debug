@@ -5,7 +5,8 @@ permalink: conduct
 header:
     title: Conduct
     slogan: A safe and harrassment-free experience for everyone
-    background-color: "#39393a"
+    background-color: "#fff"
+    underline-color: "#297373"
 ---
 
 The Institute is dedicated to providing a safe and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of Institute participants in any form. 
