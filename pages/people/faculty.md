@@ -9,15 +9,6 @@ header:
     underline-color: "#e9d758"
 ---
 
-
-<!-- 
-{% for faculty in site.faculty %}
-{{ faculty.content }}
-
-{% endfor %} 
--->
-
-
 <div class="faculty-list" style="margin: 3rem 0 0 0;">
 
 {% assign faculty_list = site.data.faculty | sort: "name" %}
