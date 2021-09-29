@@ -38,8 +38,10 @@ header:
     </div><!--small-12 -->
 
 </div><!--row-->
+<br>
+<br>
 
-
+---
 
 ## Partners & Service Providers
 <div class="row" style="margin-bottom: 2rem;">
@@ -50,8 +52,8 @@ header:
         <a href="https://www.coneflower.org" style="all: initial;"><img src="../images/logos/coneflower.svg/" alt="Coneflower Consulting"></a>
     </div>
 </div>
-<div class="row" style="margin-top: 2rem;">
-    <div class="small-6 small-centered columns">
-        <a href="https://www.coneflower.org" style="all: initial;"><img src="../images/logos/coneflower.svg/" alt="Coneflower Consulting"></a><!--Media production studio will go here, when I edit the logo -->
-    </div>
-</div>
+<br>
+
+---
+
+[University of Kansas Media Production Studio](https://mps.ku.edu/)

@@ -30,7 +30,10 @@ The objective of this feminist mapping project is to focus on the victims of fem
 
 <div class="medium-8 columns">
     <h4 style="font-weight: bold;">{{ person.name }}</h4>
-    {{ person.person_title }}   
+    {{ person.person_title }}
+    <br>
+    <br> 
+    {{ person.bio }}   
 </div>
 
 </div>

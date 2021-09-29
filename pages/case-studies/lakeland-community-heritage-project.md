@@ -34,7 +34,10 @@ The partnership provides LCHP with student and faculty labor to help document an
 
 <div class="medium-8 columns">
     <h4 style="font-weight: bold;">{{ person.name }}</h4>
-    {{ person.person_title }}    
+    {{ person.person_title }}
+    <br>
+    <br>
+    {{ person.bio }}    
 </div>
 
 </div>

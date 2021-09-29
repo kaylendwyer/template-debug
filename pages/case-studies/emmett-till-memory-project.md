@@ -32,6 +32,9 @@ The Emmett Till Memory Project has been named by the National Humanities Allianc
 <div class="medium-8 columns">
     <h4 style="font-weight: bold;">{{ person.name }}</h4>
     {{ person.person_title }}   
+    <br>
+    <br>
+    {{ person.bio }}
 </div>
 
 

@@ -10,8 +10,7 @@ layout: frontpage
 #     slogan: 
 #     background-color: "#FFFFFF"
 breadcrumb: false  
-contentSection: 
-    text: A summer institute devoted to fostering<br/>academic/community collaboration in the digital humanities 
+ 
 
 widget1:
   title: "About"
@@ -29,6 +28,10 @@ widget3:
   # image: widget-1-302x182.jpg
   text: 'The Institute sessions will be led by more than 20 experienced academics and community partners, offering a breadth of complementary skill sets and areas of expertise that will provide participants rich opportunities for engagement.'
 
+# contentSection: 
+#    text: A summer institute devoted to fostering<br/>academic/community collaboration in the digital humanities
+
+
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -40,10 +43,11 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 
-callforaction:
-  url: https://{{site.url}}}/apply/
-  text: Apply
-  style: alert
+#callforaction:
+ # url: https://{{site.url}}}/apply/
+ # text: Apply
+ # style: alert
+
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight

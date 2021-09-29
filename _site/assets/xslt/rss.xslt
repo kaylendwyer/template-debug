@@ -109,7 +109,8 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <!--<h1 class=""><a href="/pdhi-test-feeling-responsive" class="icon-tree"> The Public Digital Humanities Institute</a></h1>--> <!-- This is the logo in the top left of the navigation -->
+        <h1 class=""><a href="/pdhi-test-feeling-responsive"><img class="img-responsive" src="./images/logos/PDHI-logo-color.svg" alt="The Public Digital Humanities Institute" style="height: auto; width: auto; height: 45px;"/></a></h1>
+      <!-- <h1 class=""><a href="/pdhi-test-feeling-responsive" class="icon-tree"> The Public Digital Humanities Institute</a></h1> --> <!-- This is the logo in the top left of the navigation -->
       <!--<h1 class=""><a href="">Home</a></h1>--><!-- Attempt at hard-coding left-navigation "home"-->
       <!--
       <h1 class=""><a href="/pdhi-test-feeling-responsive"><img src="/assets/img/logo.png" height="100" width="400"></img></a></h1>
@@ -129,6 +130,14 @@
 
 
           
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="/pdhi-test-feeling-responsive/index.html">Home</a></li>
+
+            
+            
           
         
 
@@ -330,15 +339,6 @@
               
 
           
-          
-
-            
-            
-              <li><a  href="/pdhi-test-feeling-responsive/index.html">The Public Digital Humanities Institute</a></li>
-              <li class="divider"></li>
-
-            
-            
           
         
 
