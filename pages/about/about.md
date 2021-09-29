@@ -2,7 +2,7 @@
 layout: page
 title: About
 background: 
-permalink: /about
+permalink: /about/
 header: 
     title: About the Institute
     slogan: Hosted by the Institute for Digital Research in the Humanities at the University of Kansas, PDHI is intended to foster successful academic-community digital, public-facing humanities projects
