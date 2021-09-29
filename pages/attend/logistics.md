@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: logistics
+permalink: /logistics/
 header: 
     title: Logistics
     slogan: Transportation, Lodging, Facilities & Local Information

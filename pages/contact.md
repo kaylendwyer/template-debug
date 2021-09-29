@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 #background: grey
-permalink: contact
+permalink: /contact/
 header:
     title: Contact
     slogan: We welcome your enquiries

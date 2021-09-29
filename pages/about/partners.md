@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: funders-partners
+permalink: /funders-partners/
 title: Funders & Partners
 header: 
     title: Funders & Partners

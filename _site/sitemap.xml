@@ -5,24 +5,9 @@
 
 	
 	<url>
-	<loc>/404.html</loc>
+	<loc>/pdhi-test-feeling-responsive/404.html</loc>
 	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/about/</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,24 +20,9 @@
 
 	
 	<url>
-	<loc>/case-studies/american-indian-digital-history-project/</loc>
+	<loc>/pdhi-test-feeling-responsive/about/</loc>
 	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/apply</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -65,9 +35,9 @@
 
 	
 	<url>
-	<loc>/blog/archive/</loc>
+	<loc>/pdhi-test-feeling-responsive/case-studies/american-indian-digital-history-project/</loc>
 	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -79,12 +49,25 @@
 	
 
 	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/apply/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
 
 	
 	<url>
-	<loc>/atom.xml</loc>
+	<loc>/pdhi-test-feeling-responsive/blog/archive/</loc>
 	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,343 +82,9 @@
 
 	
 	<url>
-	<loc>/case-studies/</loc>
+	<loc>/pdhi-test-feeling-responsive/atom.xml</loc>
 	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/conduct</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/contact</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/curriculum/</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/discussion/</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/case-studies/ellas-tienen-nombre/</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/case-studies/emmett-till-memory-project/</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/faculty/</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/feed.xml</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/humans.txt</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/idrh</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/pages/pages-root-folder/index-md.copy/</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/blog/</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/case-studies/lakeland-community-heritage-project/</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/logistics</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/news</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/online-program/</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/robots.txt</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>/schedule</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/sitemap.xml</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/funders-partners</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/staff/</loc>
-	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -450,9 +99,9 @@
 
 	
 	<url>
-	<loc>/tech-training/</loc>
+	<loc>/pdhi-test-feeling-responsive/case-studies/</loc>
 	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -465,9 +114,360 @@
 
 	
 	<url>
-	<loc>/case-studies/under-the-rainbow/</loc>
+	<loc>/pdhi-test-feeling-responsive/conduct/</loc>
 	
-		<lastmod>2021-09-29T00:38:46-05:00</lastmod>
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/contact/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/curriculum/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/discussion/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/case-studies/ellas-tienen-nombre/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/case-studies/emmett-till-memory-project/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/faculty/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/feed.xml</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/humans.txt</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/idrh/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/pages/pages-root-folder/index-md.copy/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/blog/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/case-studies/lakeland-community-heritage-project/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/logistics/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/news/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/online-program/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/funders-partners/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/robots.txt</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/schedule/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/sitemap.xml</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/staff/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/tech-training/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/pdhi-test-feeling-responsive/case-studies/under-the-rainbow/</loc>
+	
+		<lastmod>2021-09-29T00:59:17-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -487,7 +487,7 @@
 
 	
 	<url>
-	<loc>/news/University-of-Kansas-Press-Release/</loc>
+	<loc>/pdhi-test-feeling-responsive/news/University-of-Kansas-Press-Release/</loc>
 	
 		<lastmod>2021-08-17T00:00:00-05:00</lastmod>
 	

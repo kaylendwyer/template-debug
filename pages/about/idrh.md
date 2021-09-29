@@ -1,6 +1,6 @@
 ---
 layout: page 
-permalink: idrh
+permalink: /idrh/
 title: About the IDRH
 header: 
     title: About the IDRH

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: apply
+permalink: /apply/
 header: 
     title: Apply
     slogan: Applications due Monday, January 10, 2022

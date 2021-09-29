@@ -1,5 +1,4 @@
 ---
-
 permalink: /tech-training/
 layout: page
 header: 

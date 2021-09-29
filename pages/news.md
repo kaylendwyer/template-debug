@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 #background: grey
-permalink: news
+permalink: /news/
 header:
     title: News
     slogan: Updates, announcements, and press releases

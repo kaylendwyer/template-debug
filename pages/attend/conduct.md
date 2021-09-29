@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 #background: grey
-permalink: conduct
+permalink: /conduct/
 header:
     title: Conduct
     slogan: A safe and harrassment-free experience for everyone
