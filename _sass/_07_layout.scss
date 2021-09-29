@@ -332,7 +332,7 @@ body.video cite { color: #fff; }
 
 #footer {
     padding-top: 30px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
     background: $footer-bg;
     color: $footer-color;
     }
@@ -348,6 +348,7 @@ body.video cite { color: #fff; }
     }
 
 @media #{$small-only} {
+
     #footer img {
     max-width: 40% !important;
     }   
@@ -359,6 +360,26 @@ body.video cite { color: #fff; }
     }   
 }
 
+@media #{$large-only}{
+    #pdhi-logo {
+    max-width: 90%;
+    padding-right: 3rem; 
+    border-right: 1px solid;
+
+    }
+}
+
+@media #{$xlarge-up}{
+    #pdhi-logo {
+    max-width: 90%;
+    padding-right: 3rem; 
+    border-right: 1px solid;
+
+    }
+    
+}
+
+
 
 /* Subfooter
 ------------------------------------------------------------------- */
@@ -366,15 +387,15 @@ body.video cite { color: #fff; }
 #subfooter {
     background: $subfooter-bg;
     color: $subfooter-color;
-    padding-top: 30px;
-    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 #subfooter-left ul.inline-list {
     float: left;
 }
 
-.credits a {
+.subnav a {
     color: $subfooter-link-color;
     border: 0;
     text-transform: uppercase;
@@ -390,7 +411,7 @@ body.video cite { color: #fff; }
   li {
     padding: 0 0 20px 0;
   }
-  a {
+  .subnav a {
     font-size: rem-calc(23);
     display: block;
     width: 36px;
@@ -403,6 +424,19 @@ body.video cite { color: #fff; }
       color: #fff;
     }
   }
+}
+
+@media #{$large-only}{
+    .subnav {
+    text-align: center;
+    }
+}
+
+@media #{$xlarge-up}{
+    .subnav {
+    text-align: center;
+    }
+    
 }
 
 
