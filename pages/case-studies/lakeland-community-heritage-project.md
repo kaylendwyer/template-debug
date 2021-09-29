@@ -4,7 +4,7 @@ breadcrumb: true
 layout: page
 header: 
     title: The Lakeland Community Heritage Project
-    slogan: Stephanie Sapienza, Maryland Institute for Technology in the Humanities and Violetta Sharps Jones, local historian and genealogist
+    slogan: Stephanie Sapienza, Maryland Institute for Technology in the Humanities<br />Violetta Sharps Jones, local historian and genealogist
     background-color: "#fff"
     underline-color: "#297373"
 ---

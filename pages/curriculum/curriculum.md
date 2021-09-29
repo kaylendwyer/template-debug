@@ -3,8 +3,8 @@ permalink: /curriculum/
 layout: page
 header: 
     title: Curriculum
-    slogan: Featuring a large roster of presenters from inside and outside academia, mixed with discussion and training sessions, the Institute will give participants an opportunity for extensive interaction and networking with experts and with each other.
-    background-color: "#fff"
+    slogan: Featuring case studies mixed with interactive learning and discussion sessions, and introductory workshops on tools and methods, the Institute will cover a wide range of topics, giving participants foundational, practical knowledge on important concepts, methods and tools.
+    background-color: "#ff8552"
     underline-color: "#ff8552"
 ---
 

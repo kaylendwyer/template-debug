@@ -4,7 +4,7 @@ breadcrumb: true
 layout: page
 header: 
     title: The Emmett Till Memory Project
-    slogan: Dave Tell, Professor, Department of Communication Studies, University of Kansas, and Patrick Weems, Executive Director, Emmett Till Interpretive Center
+    slogan: Dave Tell, Professor, Department of Communication Studies, University of Kansas<br/>Patrick Weems, Executive Director, Emmett Till Interpretive Center
     background-color: "#fff"
     underline-color: "#297373"
 ---

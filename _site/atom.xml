@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>The Public Digital Humanities Institute</title>
-	<updated>2021-09-28T16:13:07-05:00</updated>
+	<updated>2021-09-28T22:22:01-05:00</updated>
 
 	<subtitle>An Institute for Academic/Community Collaboration</subtitle>
 
@@ -18,8 +18,8 @@
 	
 		<entry>
 			<id>/news/University-of-Kansas-Press-Release/</id>
-			<title>University Of Kansas Press Release</title>
-			<link href="/news/University-of-Kansas-Press-Release/" rel="alternate" type="text/html" title="University Of Kansas Press Release" />
+			<title>University of Kansas Press Release, August 17, 2021</title>
+			<link href="/news/University-of-Kansas-Press-Release/" rel="alternate" type="text/html" title="University of Kansas Press Release, August 17, 2021" />
 			<updated>2021-08-17T00:00:00-05:00</updated>
 
 			

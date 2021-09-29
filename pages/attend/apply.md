@@ -8,6 +8,8 @@ header:
     underline-color: "#297373"
 ---
 
+## Application Materials
+
 For an application to be verified as complete, and thus considered by the review committee, applicants must:
 
 * Submit applications via email to <idrh@ku.edu> by Monday, January 10, 2022 at 11:59 PM (US Central Time)
@@ -35,4 +37,6 @@ An evaluation committee made up of Institute staff and selected Institute facult
 
 The committee will also aim to create a cohort of participants that is diverse in race, gender, discipline, and type of project.
 
-The committee will select up to 12 projects participating in teams of two (24 participants total). **Applicants will be notified of their application’s status no later than January 31, 2022.**
+The committee will select up to 12 projects participating in teams of two (24 participants total).
+
+**Applicants will be notified of their application’s status by January 31, 2022.**

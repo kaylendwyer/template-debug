@@ -4,7 +4,7 @@ permalink: schedule
 layout: page
 header: 
     title: Schedule
-    slogan: Detailed daily schedule June 6-11
+    slogan: Detailed daily schedule June 6-11, 2022
     background-color: "#fff"
     underline-color: "#297373"
 ---

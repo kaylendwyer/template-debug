@@ -5,7 +5,7 @@ permalink: contact
 header:
     title: Contact
     slogan: We welcome your enquiries
-    background-color: "#fff"
+    background-color: "#e9d758"
     underline-color: "#297373"
 ---
 
