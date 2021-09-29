@@ -6,7 +6,7 @@
   side: right
   dropdown:
     - title: About the Institute
-      url: /about/
+      url: ./about/
     - title: About the IDRH
       url: /idrh/
     - title: Funders & Partners
