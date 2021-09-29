@@ -3,6 +3,7 @@
   side: left
 
 - title: About
+  url: /about/
   side: right
   dropdown:
     - title: About the Institute
@@ -13,6 +14,7 @@
       url: /funders-partners/
 
 - title: Attend
+  url: /apply/
   side: right
   dropdown:
     - title: Apply
@@ -26,6 +28,7 @@
 
 
 - title: People
+  url: /faculty/
   side: right
   dropdown:
     - title: Faculty
@@ -35,6 +38,7 @@
 
 
 - title: Curriculum
+  url: /curriculum/
   side: right
   dropdown: 
     - title: Overview

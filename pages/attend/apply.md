@@ -4,8 +4,10 @@ permalink: /apply/
 header: 
     title: Apply
     slogan: Applications due Monday, January 10, 2022
-    background-color: "#fff"
-    underline-color: "#297373"
+    background-color: "#2E8080" # This is an accessible blue-green for AA compliance. Original theme blue-green is #297373 (contrast ratio: 3.79 with black text)
+ #   underline-color: "#297373"
+
+
 ---
 
 ## Application Materials

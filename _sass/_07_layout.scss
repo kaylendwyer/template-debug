@@ -347,6 +347,17 @@ body.video cite { color: #fff; }
         text-transform: uppercase;
     }
 
+@media #{$small-only} {
+    #footer img {
+    max-width: 40% !important;
+    }   
+}
+
+ @media #{$medium-only} {
+    #footer img {
+    max-width: 50% !important;
+    }   
+}
 
 
 /* Subfooter
@@ -356,6 +367,7 @@ body.video cite { color: #fff; }
     background: $subfooter-bg;
     color: $subfooter-color;
     padding-top: 30px;
+    padding-bottom: 10px;
 }
 
 #subfooter-left ul.inline-list {
