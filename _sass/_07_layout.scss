@@ -16,6 +16,8 @@
 - Subfooter
 - CSS-Classes to add margin at top or bottom
 - Reusable Content Section (in development)
+- Frontpage page
+- Widgets -- CSS for widgets is located in _09_elements.scss
 
 */
 
@@ -499,3 +501,54 @@ body.video cite { color: #fff; }
         text-transform: uppercase;
     }
 
+
+/* Frontpage - new layout 
+
+------------------------------------------------------------------- */
+
+/* Header text */
+
+#header-home .headline {
+    text-align: left;
+    font-size: rem-calc(42);
+    font-family: $header-font-family;
+    color: #000;
+    font-weight: 700;
+}
+
+ #header-home .byline {
+    text-align: left;
+    font-size: rem-calc(20);
+    font-family: $body-font-family;
+    color: #000;
+    font-weight: 300;
+    padding-top: 1rem;
+}
+
+
+/* Home page small only - Remove the logo entirely
+------------------------------- */ 
+@media #{$small-only} {
+    #header-home .row {
+        margin-top: 3rem !important;
+    }
+
+    #header-home-logo {
+        display: none;
+        }
+}
+
+
+/* Home page medium only
+------------------------------- */ 
+@media #{$medium-only} {
+
+    #header-home-logo {
+        display: none;
+    }
+
+    #header-home .row {
+        margin-top: 3rem !important;
+    }
+
+}

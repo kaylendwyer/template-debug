@@ -4,11 +4,11 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
-# header:
-#     title: 
-#     slogan: 
-#     background-color: "#FFFFFF"
+layout: frontpage_new 
+
+header:
+  headline: An institute to support academic & community collaborations in the digital humanities
+  byline: Hosted by the Institute for Digital Research in the Humanities<br>University of Kansas, Lawrence, KS <br>June 6-11, 2022
 breadcrumb: false  
  
 
@@ -28,8 +28,6 @@ widget3:
   # image: widget-1-302x182.jpg
   text: 'The Institute sessions will be led by more than 20 experienced academics and community partners, offering a breadth of complementary skill sets and areas of expertise that will provide participants rich opportunities for engagement.'
 
-# contentSection: 
-#    text: A summer institute devoted to fostering<br/>academic/community collaboration in the digital humanities
 
 
 #
@@ -55,10 +53,11 @@ permalink: /index.html
 #
 homepage: true
 ---
-
+<!--
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+-->

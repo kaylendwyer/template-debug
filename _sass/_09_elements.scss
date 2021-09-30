@@ -161,7 +161,7 @@ img.lazy {
   }
 }
 
-/* Frontpage Widget
+/* Widgets
 ------------------------------------------------------------------- */
 /* Note - original "feeling responsive" theme does not manage CSS globally. All styles are within _frontpage-widget.html */
 
@@ -171,6 +171,10 @@ h2 {
 
 .frontpage-widget > p {
 	hyphens: none;
-	font-size: 1.3rem;
+	font-size: rem-calc(20);
 	font-weight: 300;
 }
+
+/* .frontpage-widget {
+  border-left: #217473 2px solid;
+} */

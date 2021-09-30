@@ -32,18 +32,18 @@
 
 
 <!--PDHI Widgets -->
-<div class="medium-4 columns frontpage-widget">
-	{% if include.widget.video %}
-		{{ include.widget.video }}
-	{% elsif widget_url == empty %}
-		{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
-	{% else %}
-		<a href="{{ widget_url }}">
+	<div class="medium-4 columns frontpage-widget">
+		{% if include.widget.video %}
+			{{ include.widget.video }}
+		{% elsif widget_url == empty %}
 			{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
-		</a>
-	{% endif %}
-	<h2 class="t10">{{ include.widget.title }}</h2>
+		{% else %}
+			<a href="{{ widget_url }}">
+				{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
+			</a>
+		{% endif %}
+		<h2 class="t10">{{ include.widget.title }}</h2>
 
-	{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
-	{% if widget_url != empty %}<p><a href="{{ widget_url }}" title="{{ widget_title }}">{{ site.data.language.more }}</a></p>{% endif %}
-</div>
+		{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
+		{% if widget_url != empty %}<p><a href="{{ widget_url }}" title="{{ widget_title }}">{{ site.data.language.more }}</a></p>{% endif %}
+	</div>
