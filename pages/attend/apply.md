@@ -14,7 +14,7 @@ header:
 
 For an application to be verified as complete, and thus considered by the review committee, applicants must:
 
-* Submit applications via email to <idrh@ku.edu> by Monday, January 10, 2022 at 11:59 PM (US Central Time)
+* **Submit applications via email to <idrh@ku.edu> by Monday, January 10, 2022 at 11:59 PM (US Central Time)**
 
 * Send the following materials as a single PDF file using the filename:<br/> **PDHI-appplication-LASTNAME-FIRSTNAME.pdf**
 

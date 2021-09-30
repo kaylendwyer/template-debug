@@ -23,7 +23,7 @@ header:
 
 <div class="medium-8 columns">
 	<h1 style="font-weight: bold;">{{ faculty.name }}</h1>
-	{{ faculty.bio }}	
+	{{ faculty.bio | markdownify }}	
 </div>
 
 

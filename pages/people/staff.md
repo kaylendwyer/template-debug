@@ -4,14 +4,14 @@ layout: page-fullwidth
 permalink: /staff/
 header:
     title: Staff
-    slogan: Your hardworking hosts, the staff of the Institute for Digital Research in the Humanities 
+    slogan: Developed and organized by the Institute for Digital Research in the Humanities with Coneflower Consulting
     background-color: "#fff"
     underline-color: "#e9d758"
 ---
 
 <div class="faculty-list" style="margin: 3rem 0 0 0;">
 
-{% assign staff_list = site.data.faculty | sort: "order" %}
+{% assign staff_list = site.data.faculty | sort: "name" %}
 {% for staff in staff_list %}
   {% if staff.role contains "staff" %}
  
