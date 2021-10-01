@@ -358,18 +358,37 @@ body.video cite { color: #fff; }
     }   
 }
 
+/* Footer - Medium 
+
+----------------------- */
+
  @media #{$medium-only} {
-    #footer img {
-    max-width: 50% !important;
-    }   
+    #pdhi-logo {
+    max-width: 20% !important;
+    }
+
+    #idrh-logo {
+    max-width: 20%;
+    }
+    #neh-logo {
+    max-width: 20%;
+    }
 }
 
+/* Footer - Large
+----------------------- */
 @media #{$large-only}{
-    #PDHI-logo {
+    #pdhi-logo {
     max-width: 80%;
     padding-right: 3rem; 
     border-right: 1px solid;
+    }
 
+    #idrh-logo {
+    max-width: 90%;
+    }
+    #neh-logo {
+    max-width: 90%;
     }
 }
 
