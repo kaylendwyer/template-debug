@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/pdhi-test-feeling-responsive/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="/pdhi-test-feeling-responsive/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="/pdhi/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/pdhi/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>The Public Digital Humanities Institute</title>
 		<description>An Institute for Academic/Community Collaboration</description>
-		<link>/pdhi-test-feeling-responsive/</link>
-		<atom:link href="/pdhi-test-feeling-responsive/feed.xml" rel="self" type="application/rss+xml" />
+		<link>/pdhi/</link>
+		<atom:link href="/pdhi/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>University of Kansas Press Release, August 17, 2021</title>
-				<link>/pdhi-test-feeling-responsive/news/University-of-Kansas-Press-Release/</link>
+				<link>/pdhi/news/University-of-Kansas-Press-Release/</link>
 				<pubDate>Tue, 17 Aug 2021 00:00:00 -0500</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;https://today.ku.edu/2021/08/17/neh-grant-support-training-high-impact-public-digital-humanities-collaborations&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/pdhi-test-feeling-responsive/news/University-of-Kansas-Press-Release/</guid>
+				<guid isPermaLink="true">/pdhi/news/University-of-Kansas-Press-Release/</guid>
 			</item>
 		
 	</channel>

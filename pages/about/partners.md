@@ -34,7 +34,7 @@ header:
         The Public Digital Humanities Institute has been made possible by a major grant from the National Endowment for the Humanities: Democracy demands wisdom.
     </div>
     <div class="small-12 columns" style="margin-top: 1.5rem;">
-        <a href="https://www.neh.gov/"><img src="../images/logos/NEH-Preferred-Seal820.jpg/" alt="National Endowment for the Humanities"></a>
+        <a href="https://www.neh.gov/"><img src="{{ site.baseurl }}/images/logos/NEH-Preferred-Seal820.jpg/" alt="National Endowment for the Humanities"></a>
     </div><!--small-12 -->
 
 </div><!--row-->
@@ -46,10 +46,10 @@ header:
 ## Partners & Service Providers
 <div class="row" style="margin-bottom: 2rem;">
     <div class="small-6 columns">
-        <a href="https://hallcenter.ku.edu/" style="all: initial;"><img src="../images/logos/hallcenter-horizontal.png" alt="The Hall Center for the Humanities"></a>
+        <a href="https://hallcenter.ku.edu/" style="all: initial;"><img src="{{ site.baseurl }}/images/logos/hallcenter-horizontal.png" alt="The Hall Center for the Humanities"></a>
     </div> 
     <div class="small-6 columns">
-        <a href="https://www.coneflower.org" style="all: initial;"><img src="../images/logos/coneflower.svg/" alt="Coneflower Consulting"></a>
+        <a href="https://www.coneflower.org" style="all: initial;"><img src="{{ site.baseurl }}/images/logos/coneflower.svg/" alt="Coneflower Consulting"></a>
     </div>
 </div>
 <br>
