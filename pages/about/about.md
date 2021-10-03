@@ -42,12 +42,12 @@ Roles may include, but are not limited to, researcher, librarian, community lead
 We believe this team approach recognizes the importance of collaboration and reinforces the notion of community-ownership in these projects. We recognize that there are many types of projects and models of collaboration and there are not always clear lines between these roles, so the selection process will not be rigid in dictating the specific make-up of team members. We have limited the in-person phase of the Institute to one week in order not to exclude non-academic participants who may not have the flexibility to attend a longer program. The year-long program reflects the long-term nature of relationship building, which is  crucial to the success of these projects.
 
 ### Who is leading the Institute?
-The [Institute for Digital Research in the Humanities (IDRH)](/idrh) at the University of Kansas,  with funding from the National Endowment for the Humanities, is organizing the Institute.
+The [Institute for Digital Research in the Humanities (IDRH)](../idrh) at the University of Kansas,  with funding from the National Endowment for the Humanities, is organizing the Institute.
 
 ### Who is teaching the Institute?
 The Institute sessions will be led by more than 20 experienced academics and community partners, offering a breadth of complementary skill sets and areas of expertise that will provide participants rich opportunities for engagement. 
 
-See the [Institute Faculty](/faculty) page for the full roster of instructors.
+See the [Institute Faculty](../faculty) page for the full roster of instructors.
 
 ### How is the Institute structured?
 The Institute will comprise two phases: (1) an intensive week of in-person workshops, conversations, and project sharing, held June 6-11, 2022 in Lawrence, Kansas, followed by (2) a year of online engagement. 
@@ -84,7 +84,7 @@ The Hall Center is a fully accessible venue with state-of-the-art facilities, in
 
 Participants will be urged to bring their own laptops, but IDRH can provide laptop machines to those who need them.
 
-See our [logistics page](/logistics) for full details about lodging, transportation, facilities, and local information.
+See our [logistics page](../logistics) for full details about lodging, transportation, facilities, and local information.
 
 ### Will Covid-19 affect the Institute?
 The Institute will follow all local and institutional policies and saftey protocols in place at the time of the event. ***In the event that there are travel restrictions or safety concerns due to COVID-19 or other circumstances, we are prepared to move the institute to a hybrid or fully-online format with synchronous and asynchronous programming.***
@@ -93,7 +93,7 @@ The Institute will follow all local and institutional policies and saftey protoc
 ### Will I feel welcome, comfortable and safe at the Institute?
 Our Institute is dedicated to providing a safe and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of Institute participants in any form. 
 
-All attendees agree to adhere to our [statement of conduct](/conduct).
+All attendees agree to adhere to our [statement of conduct](../conduct).
 
 ### Information Sessions
 We will hold monthly open information sessions on Zoom during the Fall 2021 semester. Interested applicants are welcome to join or drop-in. Please email idrh@ku.edu for registration details.
@@ -106,4 +106,4 @@ We will hold monthly open information sessions on Zoom during the Fall 2021 seme
 We welcome enquiries via email or phone. Applicants should direct all questions about the Public Digital Humanities Institute to <idrh@ku.edu>, or directly to co-directors Brian Rosenblum (<brianrosenblum@ku.edu>) or Dave Tell (<davetell@ku.edu>).
 
 ### I want to apply! What should I do?
-[Apply here »](/apply)
+[Apply here »](../apply)
