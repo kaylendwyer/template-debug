@@ -9,7 +9,7 @@ header:
     underline-color: "#e9d758"
 ---
 
-<img src="../../images/case-studies/Rainbow-logo.gif"/>
+<img src="../../images/case-studies/Rainbow-logo.gif" alt="Under the Rainbow"/>
 
 *Under the Rainbow: Oral Histories of Gay, Lesbian, Bisexual, Transgender, Intersex and Queer People in Kansas* is a series of interviews that documents the life stories and experiences of GLBTQ Kansans. It is the first online open access oral history collection of GLBTQ Kansans in the U.S.  
 
@@ -24,7 +24,7 @@ header:
 <div class="row" style="margin-top: 4rem; margin-bottom: 4rem; align-items: center;">
 
 <div class="medium-4 columns" style="padding-right: 50px;">
-    <img src="../../images/people/{{ person.img }}" style="max-width: 200px; border-radius: 50%;"/>
+    <img src="../../images/people/{{ person.img }}" alt="{{ person.name }}" style="max-width: 200px; border-radius: 50%;"/>
 </div>
 
 <div class="medium-8 columns">

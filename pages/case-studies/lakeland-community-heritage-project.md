@@ -13,7 +13,7 @@ header:
 
 The Lakeland Community Heritage Project Digital Archive is a collaboration between the Lakeland Community Heritage Project (LCHP), an all-volunteer historical society, and partners at the University of Maryland.
 
-<img src="../../images/case-studies/Lakeland-screenshot1.png" style="float:left; border: 2px solid lightgrey; margin-bottom: 10px;"/>
+<img src="../../images/case-studies/Lakeland-screenshot1.png" style="float:left; border: 2px solid lightgrey; margin-bottom: 10px;" alt="Screenshot of digital archive"/>
 
 The digital archive project builds upon LCHP's many years of work to document an historic African American community before and after segregation and contribute to an understanding of urban renewal's impact on communities of color. Lakeland is an historic African American community established in 1890 and located in College Park, MD, adjacent to the University of Maryland campus. 
 
@@ -29,7 +29,7 @@ The partnership provides LCHP with student and faculty labor to help document an
 <div class="row" style="margin-top: 4rem; margin-bottom: 4rem; align-items: center;">
 
 <div class="medium-4 columns" style="padding-right: 50px;">
-    <img src="../../images/people/{{ person.img }}" style="max-width: 150px; border-radius: 50%;"/>
+    <img src="../../images/people/{{ person.img }}" alt="{{ person.name }}" style="max-width: 150px; border-radius: 50%;"/>
 </div>
 
 <div class="medium-8 columns">

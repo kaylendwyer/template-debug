@@ -18,7 +18,7 @@ header:
 <div class="row" style="margin-bottom: 4rem; align-items: center;">
 
 <div class="medium-4 columns" style="padding-right: 50px;">
-	<img src="../images/people/{{ faculty.img }}" style="max-width: 200px; border-radius: 50%;"/>
+	<img src="../images/people/{{ faculty.img }}" alt="{{ faculty.name }}" style="max-width: 200px; border-radius: 50%;"/>
 </div>
 
 <div class="medium-8 columns">
