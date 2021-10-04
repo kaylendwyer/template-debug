@@ -2,8 +2,10 @@
 #
 # Use the widgets beneath and the content will be
 # inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
+# this work, you have to use › layout: frontpage or frontpage_new
 #
+#
+
 layout: frontpage_new 
 
 header:
@@ -15,17 +17,17 @@ breadcrumb: false
 widget1:
   title: "About"
   url: '/about/'
-  # image: widget-1-302x182.jpg
+  # image: none
   text: 'Hosted by the Institute for Digital Research in the Humanities at the University of Kansas, PDHI is intended to foster successful academic-community digital, public-facing humanities projects.'
 widget2:
   title: "Curriculum"
   url: '/curriculum/'
-  # image: widget-github-303x182.jpg
+  # image: none
   text: 'The curriculum includes an intense week of case studies, technical training, and workshops & discussions intended to strengthen relationships, create sustainable projects, and provide foundational knowledge of tools and methods in the public digital humanities.'
 widget3:
   title: "Faculty"
   url: '/faculty/'
-  # image: widget-1-302x182.jpg
+  # image: none
   text: 'The Institute sessions will be led by more than 20 experienced academics and community partners, offering a breadth of complementary skill sets and areas of expertise that will provide participants rich opportunities for engagement.'
 
 
@@ -34,8 +36,6 @@ widget3:
 #
 # Use the call for action to show a button on the frontpage
 #
-# To make internal links, just use a permalink like this
-# url: /getting-started/
 #
 # To style the button in different colors, use no value
 # to use the main color or success, alert or secondary.
@@ -47,11 +47,7 @@ callforaction:
   headline: Apply
   text: The institute invites one academic and one community partner per project. Applications due Monday, January 10, 2022.
   alert_text: Apply
-
-#callforaction:
- # url: https://{{site.url}}}/apply/
- # text: Apply
- # style: alert
+  style: alert
 
 permalink: /index.html
 #
@@ -63,10 +59,5 @@ homepage: true
 
 
 <!--
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+page content
 -->

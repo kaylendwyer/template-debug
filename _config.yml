@@ -135,7 +135,7 @@ defaults:
 #                       /____/
 #
 #  Open _data/navigation.yml to adjust the left and right topbar navigation
-#
+#  Use _includes/_footer.html to adjust footer navigation. 
 
 
 
