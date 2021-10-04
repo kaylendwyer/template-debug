@@ -6,8 +6,8 @@ permalink: /about/
 header: 
     title: About the Institute
     slogan: Hosted by the Institute for Digital Research in the Humanities at the University of Kansas, PDHI is intended to foster successful academic-community digital, public-facing humanities projects
-    background-color: "#ff8552" # More vibrant orange for a better look as a header color. Original color is #ff8552.
-    # underline-color: "#ff8552"
+    background-color: "#fff" # More vibrant orange for a better look as a header color. Original color is #ff8552.
+    underline-color: "#ff8552"
 ---
 The Institute for Digital Research in the Humanities (IDRH) at the University of Kansas welcomes applications to participate in the NEH-funded Public Digital Humanities Institute, June 6-11, 2022, to receive training and support in public digital humanities and academic-community collaborations. Applications are due to <idrh@ku.edu> by Monday, January 10, 2022 at 11:59 PM (US Central time).
 

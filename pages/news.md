@@ -5,7 +5,7 @@ permalink: /news/
 header:
     title: News
     slogan: Updates, announcements, and press releases
-    background-color: "#e9d758"
+    # background-color: "#e9d758"
     underline-color: "#e9d758"
 ---
 <div id="blog-index" class="row">

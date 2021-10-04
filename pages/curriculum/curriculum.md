@@ -4,7 +4,7 @@ layout: page
 header: 
     title: Curriculum
     slogan: Featuring case studies mixed with interactive learning and discussion sessions, and introductory workshops on tools and methods, the Institute will cover a wide range of topics, giving participants foundational, practical knowledge on important concepts, methods and tools.
-    background-color: "#ff8552"
+    background-color: "#fff"
     underline-color: "#ff8552"
 ---
 
