@@ -498,9 +498,8 @@ body.video cite { color: #fff; }
 /* Reusable Content Section
 ------------------------------------------------------------------- */
 
-#section-content p,
+/* #section-content p,
 #section-content li {
-    /* font-size: rem-calc(16); */
 	font-size: 1.5rem;
     font-weight: 300;
 	text-align: center;
@@ -508,8 +507,8 @@ body.video cite { color: #fff; }
 }
 
 #section {
-    padding-top: 75px; /* 30 */
-    padding-bottom: 75px; /* 20 */
+    padding-top: 75px; 
+    padding-bottom: 75px; 
     background: $dh-5;
     color: $section-color;
     }
@@ -522,7 +521,7 @@ body.video cite { color: #fff; }
         letter-spacing: 1px;
         color: #fff;
         text-transform: uppercase;
-    }
+    } */
 
 
 /* Frontpage - new layout 
@@ -575,3 +574,30 @@ body.video cite { color: #fff; }
     }
 
 }
+
+
+/* Call for Action Bar
+------------------------------------------------------------------- */
+
+#callforaction_bar_content p,
+#callforaction_bar_content li {
+    font-size: rem-calc(24);
+    font-weight: 300;
+    word-break: break-word;
+}
+
+#callforaction_bar { 
+    padding-top: 10px; /* 30 */
+    padding-bottom: 15px; /* 20 */
+    background: $dh-4;
+    color: $callforaction_bar-color;
+    }
+
+    #callforaction_bar a {
+        color: #fff;
+    }
+
+    #callforaction_bar h2 {
+        font-weight: 800;
+        margin-top: 1em !important;
+    }

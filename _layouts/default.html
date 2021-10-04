@@ -15,6 +15,11 @@ layout: compress
 	{{ content }}
 
 	{% unless page.skip_boilerplate %}
+
+	{% unless page.skip_up-to-top %}
+	{% include _up-to-top.html %}
+	{% endunless %}
+
 	{% include _footer.html %}
 	{% endunless %}
 
