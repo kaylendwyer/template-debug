@@ -356,9 +356,14 @@ body.video cite { color: #fff; }
 @media #{$small-only} {
     .footer-logo {
     display: none;
+    padding-top: 0 !important;
     }
 
-    #subfooter-container-01 {
+    #footer-contact {
+    display: none;
+    }
+
+    #footer-links hr:last-child {
     display: none;
     }
 }
@@ -371,7 +376,12 @@ body.video cite { color: #fff; }
     .footer-logo {
     display: none;
     }
-    #subfooter-container-01 {
+
+    #footer-links hr:last-child {
+        display: none;
+    }
+
+    #footer-contact {
     display: none;
     }
 } 
@@ -390,9 +400,16 @@ body.video cite { color: #fff; }
 
     #idrh-logo {
     max-width: 90%;
+    margin-top: 3.5rem
     }
+
     #neh-logo {
     max-width: 90%;
+    margin-top: 2.5rem;
+    }
+
+    #footer-links {
+    margin-top: 2.5rem;
     }
 }
 
@@ -401,9 +418,22 @@ body.video cite { color: #fff; }
     max-width: 90%;
     padding-right: 3rem; 
     border-right: 1px solid;
-
     }
+
+    #idrh-logo {
+    max-width: 90%;
+    margin-top: 3.5rem;
+    }
+
+    #neh-logo {
+    max-width: 90%;
+    margin-top: 2.5rem;
+    }
+
     
+    #footer-links {
+    margin-top: 2.5rem;
+    }
 }
 
 
@@ -495,33 +525,6 @@ body.video cite { color: #fff; }
 .pr20 { padding-right: 20px !important; }
 
 
-/* Reusable Content Section
-------------------------------------------------------------------- */
-
-/* #section-content p,
-#section-content li {
-	font-size: 1.5rem;
-    font-weight: 300;
-	text-align: center;
-	word-break: break-word;
-}
-
-#section {
-    padding-top: 75px; 
-    padding-bottom: 75px; 
-    background: $dh-5;
-    color: $section-color;
-    }
-
-    #section a {
-        color: $section-link-color;
-    }
-    #section h4,
-    #section h5 {
-        letter-spacing: 1px;
-        color: #fff;
-        text-transform: uppercase;
-    } */
 
 
 /* Frontpage - new layout 
