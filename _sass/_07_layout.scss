@@ -579,25 +579,29 @@ body.video cite { color: #fff; }
 /* Call for Action Bar
 ------------------------------------------------------------------- */
 
-#callforaction_bar_content p,
-#callforaction_bar_content li {
+#callforaction_bar p,
+#callforaction_bar li {
     font-size: rem-calc(24);
     font-weight: 300;
     word-break: break-word;
 }
 
-#callforaction_bar { 
+#callforaction_bar {
+    padding-top: 4rem;
+}
+
+#callforaction_bar_content { 
     padding-top: 10px; /* 30 */
     padding-bottom: 15px; /* 20 */
     background: $dh-4;
     color: $callforaction_bar-color;
     }
 
-    #callforaction_bar a {
+    #callforaction_bar_content a {
         color: #fff;
     }
 
-    #callforaction_bar h2 {
+    #callforaction_bar_content h2 {
         font-weight: 800;
         margin-top: 1em !important;
     }
