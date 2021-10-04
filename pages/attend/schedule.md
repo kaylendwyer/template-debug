@@ -1,7 +1,7 @@
 ---
 title: Schedule
 permalink: /schedule/
-layout: page
+layout: page-fullwidth
 header: 
     title: Schedule
     slogan: Detailed daily schedule June 6-11, 2022
@@ -14,6 +14,12 @@ Daily schedule is subject to change.
 For full descriptions of the sessions see the [curriculum](../curriculum) pages.
 
 ---
+
+|               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| 8:00-8:30     | Sign-in       | Sign-in       | Sign-in       | Sign-in       | Sign-in       |
+| 8:30-9:30     | Welcome <br><br>Brian Rosenblum, Dave Tell | CASE STUDY: <br>The Lakeland Community Heritage Project <br><br>Stephanie Sapienza, Violetta Sharps Jones | CASE STUDY: <br>The American Indian Digital History Project <br><br>Kent Blansett | CASE STUDY: <br>Under the Rainbow: Oral Histories of Gay, Lesbian, Bisexual, Transgender, and Queer People in Kansas <br><br>Tami Albin | CASE STUDY: <br>Ellas Tienen Nombre <br><br>Ivonne Ramirez |
+| 9:30-10:30    | Humanities for All <br><br>Daniel Fisher | Building Trust: Participatory Design with Community Partners, Part I <br><br>Shannon Criss, Nils Gore, Matt Kleinman | weds stuff | thurs stuff | fri stuff |
 
 ### Day 1: Monday, June 6, 2022  
 
