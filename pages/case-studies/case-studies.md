@@ -3,7 +3,7 @@ permalink: /case-studies/
 layout: page
 header: 
     title: Case Studies
-    slogan: Each day of the institute will open with a case study presented by that project’s director. These case  studies highlight a range of platforms and modes of digital scholarship and will provide participants with real-world examples to draw from. 
+    slogan: Each day of the Institute will open with a case study presented by that project’s director. These case  studies highlight a range of platforms and modes of digital scholarship and will provide participants with real-world examples to draw from. 
     background-color: "#fff"
     underline-color: "#ff8552"
 ---

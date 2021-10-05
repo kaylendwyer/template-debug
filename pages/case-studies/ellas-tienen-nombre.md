@@ -33,7 +33,7 @@ The objective of this feminist mapping project is to focus on the victims of fem
     {{ person.person_title }}
     <br>
     <br> 
-    {{ person.bio }}   
+    {{ person.bio | markdownify }}   
 </div>
 
 </div>
