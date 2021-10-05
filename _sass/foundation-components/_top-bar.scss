@@ -32,7 +32,7 @@ $topbar-link-color-active-hover: $white !default;
 $topbar-link-weight: $font-weight-normal !default;
 $topbar-link-font-size: rem-calc(13) !default;
 $topbar-link-hover-lightness: -10% !default; // Darken by 10%
-$topbar-link-bg: $topbar-bg !default;
+$topbar-link-bg: $topbar-bg !default; // This is the background
 $topbar-link-bg-hover: $oil !default;
 $topbar-link-bg-color-hover: $charcoal !default;
 $topbar-link-bg-active: $primary-color !default;
@@ -44,6 +44,9 @@ $topbar-back-link-size: rem-calc(18) !default;
 $topbar-link-dropdown-padding: rem-calc(20) !default;
 $topbar-button-font-size: 0.75rem !default;
 $topbar-button-top: 7px !default;
+
+// Alert Nav
+$alert-nav: #000;
 
 // Style the top bar dropdown elements
 $topbar-dropdown-bg: $oil !default;
@@ -364,9 +367,25 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           &:hover {
             background: $topbar-link-bg-active-hover;
             color: $topbar-link-color-active-hover;
+
           }
         }
       }
+
+      // ALERT NAV
+      ul li {
+        a.alert-nav {
+          background-color: $dh-1 !important;
+          color: #fff !important;
+        }
+        a.alert-nav:hover {
+          background-color: $dh-6 !important;
+          color: #fff;
+        }
+
+      }
+      
+
 
       // Add some extra padding for list items contains buttons
       .has-form { padding: $topbar-link-padding; }

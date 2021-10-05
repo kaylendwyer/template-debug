@@ -59,3 +59,8 @@
 - title: Contact
   url: /contact/
   side: right
+
+- title: Apply
+  url: /apply/
+  side: right
+  class: alert-nav
