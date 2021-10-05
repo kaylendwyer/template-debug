@@ -3,7 +3,7 @@ permalink: /tech-training/
 layout: page
 header: 
     title: Tech Training
-    slogan: Introductory sessions to develop an awareness and understanding of foundational concepts and common tools and methods.
+    slogan: These introductory sessions will help participants develop an awareness and understanding of foundational concepts and common tools and methods.
     background-color: "#fff"
     underline-color: "#ff8552"
 ---

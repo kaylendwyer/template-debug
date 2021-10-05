@@ -5,7 +5,7 @@ permalink: /instructors/
 header:
     title: Instructors
     slogan: The Institute sessions will be led by more than 20 experienced academics and community partners, offering a breadth of complementary skill sets and areas of expertise that will provide participants rich opportunities for engagement
-    background-color: "#fff"
+    background-color: "#e9d758"
     underline-color: "#e9d758"
 ---
 

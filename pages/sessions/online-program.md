@@ -18,5 +18,10 @@ Institute instructors will conduct hour-long consultations with each project tea
 
 ---
 
+### Discussions
+Institute staff will maintain an online forum and encourage participants to ask questions, share news, updates, and resources, and discuss challenges and other topics of interest.
+
+---
+
 ### Virtual Symposium
-At the end of the year, in June 2023, we will host a virtual symposium featuring presentations from project teams reporting on progress made during the year and sharing reflections. The presentations will be recorded and posted on the institute website for public viewing. 
+The Institute will conclude in June 2023 with a virtual symposium featuring presentations from project teams reporting on progress made during the year and sharing reflections. The presentations will be recorded and posted on the Institute website for public viewing. 

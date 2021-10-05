@@ -21,15 +21,26 @@ This intensive week-long summer Institute will provide foundational knowledge, s
 {:toc}
 
 ### What is the purpose of the Institute?
-The Institute is intended to foster successful academic-community digital, public-facing humanities projects. The real key to successful, long-term public, digital humanities projects is developing trusting, collaborative relationships that meet the needs of all the stakeholders and contributors. This can be especially challenging when working across academic and community sectors. Our curriculum goes beyond training in digital tools and methods and emphasizes relationship-building, project management, and effective and ethical models of academic-community collaboration, giving participants the resources and support to overcome these challenges.
+The Institute is intended to foster successful academic-community collaborations focused on digital, public-facing humanities projects. The real key to successful, long-term public, digital humanities projects is developing trusting, collaborative relationships that meet the needs of all the stakeholders and contributors. This can be especially challenging when working across academic and community sectors. Our curriculum goes beyond training in digital tools and methods and emphasizes relationship-building, project management, and effective and ethical models of academic-community collaboration, giving participants the resources and support to overcome these challenges.
 
 Twenty-four participants from 12 public digital projects, drawn from a national pool of applicants, will attend in teams of two, providing an opportunity for community organization representatives to train alongside humanities scholars in a bidirectional, collaborative setting. The cohort will see many examples of public digital humanities projects and receive training in digital humanities framed with a community-engagement perspective.
 
+### How is the Institute structured?
+The Institute will comprise two phases: (1) an intensive week of in-person workshops, conversations, and project sharing, held June 6-11, 2022 in Lawrence, Kansas, followed by (2) a year of online engagement. 
+
+**In-person Program.** The in-person program will introduce foundational concepts and topics in public digital humanities, allow for in-depth interaction with Institute instructors, and help form trusted personal connections among the Institute cohort.
+
+**Online Program.** After the completion of the in-person program, the Institute will continue virtually for one year, with a program that includes monthly webinar-style workshops, dedicated consulting hours with Institute instructors, discussion via the Institute email list, and a final virtual symposium in June 2023. 
+
+**Final Symposium.** At the end of the year, in June 2023, we will host a virtual symposium featuring final presentations from project teams, reporting on progress made during the year and sharing reflections.
+
 ### Who is the Institute for?
 
-The Institute curriculum is best suited to projects that involve community archiving, community remembrance and memorialization, digital storytelling, oral histories, and similar projects. See the [case studies](/case-studies) for examples, although we recognize there are many other types of projects and collaborations that could be a good fit, and we welcome those proposals as well.
+If you’re engaged in a community/academic collaborative project in the digital humantities, this Institute could be for you!
 
-The curriculum is most appropriate for early-stage projects--for example, those where the project partners need guidance in selecting a digital platform, securing funding or community buy-in, or developing a long-term sustainability plan. Projects must include a significant digital component (for example, a public-facing web archive, digital storytelling through mapping and visualization, a significant digital resource such as an interactive Indigenous language dictionary) and must involve the non-academic community not only as a target audience but a core partner in the project. 
+Examples of projects that would be a great fit for the Institute include--but are not limited to--community archiving, community remembrance and memorialization, digital storytelling, oral histories, digital collections, multimedia projects, and data-driven visualizations such as mapping projects. See the [case studies](../case-studies) page some specific examples. We recognize there are many other types of projects and collaborations that could be a good fit, and we welcome those proposals as well.
+
+Projects at any stage of development are welcome, though the curriculum have been developed for early-stage projects in particular--for example, those where the project partners need guidance in selecting a digital platform, securing funding or community buy-in, or developing a long-term sustainability plan. Ideal projects will include a significant digital component (for example, a public-facing web archive, digital storytelling through mapping and visualization, a significant digital resource such as an interactive Indigenous language dictionary) and will involve the non-academic community not only as a target audience but a core partner in the project. 
 
 Please get in touch if you have questions about whether your project is a good fit. Our aim is to have a variety of types of projects represented in the Institute. 
 
@@ -49,16 +60,6 @@ The Institute sessions will be led by more than 20 experienced academics and com
 
 See the [Institute Instructors](../instructors) page for the full roster.
 
-### How is the Institute structured?
-The Institute will comprise two phases: (1) an intensive week of in-person workshops, conversations, and project sharing, held June 6-11, 2022 in Lawrence, Kansas, followed by (2) a year of online engagement. 
-
-**In-person Program.** The in-person program will introduce foundational concepts and topics in public digital humanities, allow for in-depth interaction with Institute instructors, and help form trusted personal connections among the Institute cohort.
-
-**Online Program.** After the completion of the in-person program, the Institute will continue virtually for one year, with a program that includes monthly webinar-style workshops, dedicated consulting hours with Institute instructors, discussion via the Institute email list, and a final virtual symposium in June 2023. 
-
-**Final Symposium.** At the end of the year, in June 2023, we will host a virtual symposium featuring final presentations from project teams, reporting on progress made during the year and sharing reflections.
-
-For full descriptions of the sessions, please see the [sessions](/sessions) page.
 
 
 ### What topics will be covered?
@@ -74,7 +75,7 @@ Each participant will receive a workbook to take home with detailed information 
 
 During the following year, participants will participate in six additional online workshops on topics based on their project’s needs. These 90-minute webinar-style workshops will include technical training and discussions that expand upon the topics covered during the in-person program or delve into new areas. Specific topics will be determined in collaboration with the participants, based on their needs at the end of the in-person program. Institute instructors and staff will also conduct hour-long virtual consultations with each project team, four times during the course of the year.
 
-
+For full descriptions of the sessions, please see the [sessions](../sessions) page.
 
 ### How much does it cost?
 We aim for there to be zero out-of-pocket costs to participants. Each participant will receive a stipend that should cover costs of ground transportation, airfare, lodging, and a per-diem for dinner and incidentals. A light breakfast, lunch, and refreshments will be provided each day during the Institute.
@@ -86,8 +87,10 @@ Participants will be urged to bring their own laptops, but IDRH can provide lapt
 
 See our [logistics page](../logistics) for full details about lodging, transportation, facilities, and local information.
 
-### Will Covid-19 affect the Institute?
-The Institute will follow all local and institutional policies and saftey protocols in place at the time of the event. ***In the event that there are travel restrictions or safety concerns due to COVID-19 or other circumstances, we are prepared to move the institute to a hybrid or fully-online format with synchronous and asynchronous programming.***
+### How might Covid-19 affect the Institute?
+The Institute will follow all local and institutional policies and saftey protocols in place at the time of the event.
+
+***In the event that there are travel restrictions or safety concerns due to COVID-19 or other circumstances, we are prepared to move the institute to a hybrid or fully-online format.***
 
 
 ### Will I feel welcome, comfortable and safe at the Institute?
