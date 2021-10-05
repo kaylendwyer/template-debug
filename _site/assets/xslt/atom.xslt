@@ -232,14 +232,14 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="/pdhi/faculty/">People</a>
+                <a  href="/pdhi/instructors/">People</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="/pdhi/faculty/">Faculty</a></li>
+                      <li><a  href="/pdhi/instructors/">Instructors</a></li>
                     
 
                       
@@ -264,14 +264,14 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="/pdhi/curriculum/">Curriculum</a>
+                <a  href="/pdhi/sessions/">Sessions</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="/pdhi/curriculum/">Overview</a></li>
+                      <li><a  href="/pdhi/sessions/">Overview</a></li>
                     
 
                       

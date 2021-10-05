@@ -30,7 +30,7 @@ For an application to be verified as complete, and thus considered by the review
 
 ## Criteria and Selection Process
 
-An evaluation committee made up of Institute staff and selected Institute faculty will select participants according to the following criteria:
+An evaluation committee made up of Institute staff and selected Institute instructors will select participants according to the following criteria:
 
 * the quality and clarity of the statement and description of the project
 * the significance of the project to its community

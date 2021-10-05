@@ -35,21 +35,21 @@
 
 
 - title: People
-  url: /faculty/
+  url: /instructors/
   side: right
   dropdown:
-    - title: Faculty
-      url: /faculty/
+    - title: Instructors
+      url: /instructors/
     - title: Staff
       url: /staff/
 
 
-- title: Curriculum
-  url: /curriculum/
+- title: Sessions
+  url: /sessions/
   side: right
   dropdown: 
     - title: Overview
-      url: /curriculum/
+      url: /sessions/
     - title: Case Studies
       url: /case-studies/
     - title: Learning & Discussion

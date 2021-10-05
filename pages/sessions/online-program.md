@@ -14,7 +14,7 @@ Six 90-minute webinar-style workshops will include technical trainings and discu
 ---
 
 ### Consultations
-Institute faculty will conduct hour-long consultations with each project team, four times during the course of the year. 
+Institute instructors will conduct hour-long consultations with each project team, four times during the course of the year. 
 
 ---
 

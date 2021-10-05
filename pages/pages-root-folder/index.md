@@ -20,13 +20,13 @@ widget1:
   # image: none
   text: 'Hosted by the Institute for Digital Research in the Humanities at the University of Kansas, PDHI is intended to foster successful academic-community digital, public-facing humanities projects.'
 widget2:
-  title: "Curriculum"
-  url: '/curriculum/'
+  title: "Sessions"
+  url: '/sessions/'
   # image: none
-  text: 'The curriculum includes an intense week of case studies, technical training, and workshops & discussions intended to strengthen relationships, create sustainable projects, and provide foundational knowledge of tools and methods in the public digital humanities.'
+  text: 'Sessions include case studies, technical training, and workshops & discussions intended to strengthen relationships, create sustainable projects, and provide foundational knowledge of tools and methods in the public digital humanities.'
 widget3:
-  title: "Faculty"
-  url: '/faculty/'
+  title: "Instructors"
+  url: '/instructors/'
   # image: none
   text: 'The Institute sessions will be led by more than 20 experienced academics and community partners, offering a breadth of complementary skill sets and areas of expertise that will provide participants rich opportunities for engagement.'
 

@@ -47,18 +47,18 @@ The [Institute for Digital Research in the Humanities (IDRH)](../idrh) at the Un
 ### Who is teaching the Institute?
 The Institute sessions will be led by more than 20 experienced academics and community partners, offering a breadth of complementary skill sets and areas of expertise that will provide participants rich opportunities for engagement. 
 
-See the [Institute Faculty](../faculty) page for the full roster of instructors.
+See the [Institute Instructors](../instructors) page for the full roster.
 
 ### How is the Institute structured?
 The Institute will comprise two phases: (1) an intensive week of in-person workshops, conversations, and project sharing, held June 6-11, 2022 in Lawrence, Kansas, followed by (2) a year of online engagement. 
 
-**In-person Program.** The in-person program will introduce foundational concepts and topics in public digital humanities, allow for in-depth interaction with Institute faculty, and help form trusted personal connections among the Institute cohort.
+**In-person Program.** The in-person program will introduce foundational concepts and topics in public digital humanities, allow for in-depth interaction with Institute instructors, and help form trusted personal connections among the Institute cohort.
 
-**Online Program.** After the completion of the in-person program, the Institute will continue virtually for one year, with a program that includes monthly webinar-style workshops, dedicated consulting hours with Institute faculty, discussion via the Institute email list, and a final virtual symposium in June 2023. 
+**Online Program.** After the completion of the in-person program, the Institute will continue virtually for one year, with a program that includes monthly webinar-style workshops, dedicated consulting hours with Institute instructors, discussion via the Institute email list, and a final virtual symposium in June 2023. 
 
 **Final Symposium.** At the end of the year, in June 2023, we will host a virtual symposium featuring final presentations from project teams, reporting on progress made during the year and sharing reflections.
 
-For full descriptions of the sessions, please see the [curriculum](/curriculum) page.
+For full descriptions of the sessions, please see the [sessions](/sessions) page.
 
 
 ### What topics will be covered?
@@ -72,7 +72,7 @@ The week-long, in-person program will include sessions on:
 
 Each participant will receive a workbook to take home with detailed information and resources for each topic.
 
-During the following year, participants will participate in six additional online workshops on topics based on their project’s needs. These 90-minute webinar-style workshops will include technical training and discussions that expand upon the topics covered during the in-person program or delve into new areas. Specific topics will be determined in collaboration with the participants, based on their needs at the end of the in-person program. Institute faculty and staff will also conduct hour-long virtual consultations with each project team, four times during the course of the year.
+During the following year, participants will participate in six additional online workshops on topics based on their project’s needs. These 90-minute webinar-style workshops will include technical training and discussions that expand upon the topics covered during the in-person program or delve into new areas. Specific topics will be determined in collaboration with the participants, based on their needs at the end of the in-person program. Institute instructors and staff will also conduct hour-long virtual consultations with each project team, four times during the course of the year.
 
 
 

@@ -1,8 +1,8 @@
 ---
-permalink: /curriculum/
+permalink: /sessions/
 layout: page
 header: 
-    title: Curriculum
+    title: Sessions
     slogan: Featuring case studies mixed with interactive learning and discussion sessions, and introductory workshops on tools and methods, the Institute will cover a wide range of topics, giving participants foundational, practical knowledge on important concepts, methods and tools.
     background-color: "#fff"
     underline-color: "#ff8552"
