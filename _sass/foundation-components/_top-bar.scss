@@ -45,9 +45,6 @@ $topbar-link-dropdown-padding: rem-calc(20) !default;
 $topbar-button-font-size: 0.75rem !default;
 $topbar-button-top: 7px !default;
 
-// Alert Nav
-$alert-nav: #000;
-
 // Style the top bar dropdown elements
 $topbar-dropdown-bg: $oil !default;
 $topbar-dropdown-link-color: $white !default;
@@ -382,7 +379,6 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           background-color: $dh-6 !important;
           color: #fff;
         }
-
       }
       
 

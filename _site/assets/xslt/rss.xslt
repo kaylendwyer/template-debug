@@ -105,6 +105,7 @@
 	<body id="top-of-page">
 		<xsl:text disable-output-escaping="yes"><![CDATA[
 		
+
 <div id="navigation" class="sticky">
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">

@@ -1,3 +1,10 @@
+#
+# Add custom classes to a navigation item simply by appending a new row "class:""
+# The class "alert-nav" will make the navigation button a different color (default: $dh-1)
+# You can change alert-nav color in foundation-components/_top-bar.scss
+#
+
+
 - title: Home
   url: /index.html
   side: right
