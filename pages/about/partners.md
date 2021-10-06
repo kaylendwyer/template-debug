@@ -4,7 +4,7 @@ permalink: /funders-partners/
 title: Funders & Partners
 header: 
     title: Funders & Partners
-    slogan: We thank our generous funders, partners & service providers
+    slogan: We thank our generous funders, partners & service providers.
     background-color: "#fff"
     underline-color: "#ff8552"
 ---
@@ -53,7 +53,5 @@ header:
     </div>
 </div>
 <br>
-
----
 
 [University of Kansas Media Production Studio](https://mps.ku.edu/)

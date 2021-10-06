@@ -18,17 +18,19 @@ widget1:
   title: "About"
   url: '/about/'
   # image: none
-  text: 'Hosted by the Institute for Digital Research in the Humanities at the University of Kansas, PDHI is intended to foster successful academic-community digital, public-facing humanities projects.'
+  text: "This week-long summer Institute will provide foundational knowledge, skills and resources to successfully advance 12 public humanities projects, increasing their longevity, visibility and impact. This will be followed by a year of further online training & support."
+
 widget2:
   title: "Sessions"
   url: '/sessions/'
   # image: none
-  text: 'Sessions include case studies, technical training, and workshops & discussions intended to strengthen relationships, create sustainable projects, and provide foundational knowledge of tools and methods in the public digital humanities.'
+  text: "The curriculum features a mix of case studies of model projects, technical training and interactive workshops & discussion to strengthen relationships & collaborations, create sustainable digital projects, and develop practical knowledge of methods and tools."
+
 widget3:
   title: "Instructors"
   url: '/instructors/'
   # image: none
-  text: 'The Institute sessions will be led by more than 20 experienced academics and community partners, offering a breadth of complementary skill sets and areas of expertise that will provide participants rich opportunities for engagement.'
+  text: 'The Institute sessions will be led by more than 20 experienced academics and community partners, offering a breadth of complementary skill sets and areas of expertise that will provide participants rich opportunities for learning and  engagement.'
 
 
 
@@ -45,7 +47,7 @@ widget3:
 callforaction:
   url: /apply/
   headline: Apply
-  text: The institute invites one academic and one community partner per project. Applications due Monday, January 10, 2022.
+  text: The Institute invites one academic and one community partner per project to apply by Monday, January 31, 2022.
   alert_text: Apply
   style: alert
 

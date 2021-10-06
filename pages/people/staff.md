@@ -4,7 +4,7 @@ layout: page-fullwidth
 permalink: /staff/
 header:
     title: Staff
-    slogan: Developed and organized by the Institute for Digital Research in the Humanities with Coneflower Consulting
+    slogan: Developed and organized by the Institute for Digital Research in the Humanities with Coneflower Consulting, our dedicated Institute staff have extensive experience in digital and public humanities, in organizing and administering events, and in working across public and academic sectors.
     background-color: "#fff"
     underline-color: "#e9d758"
 ---
@@ -24,7 +24,7 @@ header:
 
    <div class="medium-8 columns">
 	<h1 style="font-weight: bold;">{{ staff.name }}</h1>
-	{{ staff.bio }}	
+	{{ staff.bio | markdownify }}	
    </div>
  </div>
 

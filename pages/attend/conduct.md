@@ -4,7 +4,7 @@ layout: page-fullwidth
 permalink: /conduct/
 header:
     title: Conduct
-    slogan: A safe and harrassment-free experience for everyone
+    slogan: We are dedicated to providing a positive and welcoming environment for everyone.
     background-color: "#fff"
     underline-color: "#297373"
 ---

@@ -4,14 +4,14 @@ permalink: /schedule/
 layout: page-fullwidth
 header: 
     title: Schedule
-    slogan: Detailed daily schedule June 6-11, 2022
+    slogan: The Institute meets June 6-11, 2022, at the Hall Center for the Humanities on the University of Kansas campus. 
     background-color: "#fff"
     underline-color: "#297373"
 ---
 
 Daily schedule is subject to change.
 
-For full descriptions of the sessions see the [curriculum](../curriculum) pages.
+For full descriptions of the sessions see the [sessions](../sessions) pages.
 
 ---
 
