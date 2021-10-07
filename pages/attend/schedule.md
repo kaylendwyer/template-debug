@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: Schedule-at-a-Glance
 permalink: /schedule/
 layout: page-fullwidth
 header: 
@@ -15,15 +15,138 @@ For full descriptions of the sessions see the [sessions](../sessions) pages.
 
 ---
 
+<table style="border: 1px solid #297373;" rules="all" cellspacing="0">
+<thead>
+<tr>
+<th width="100px">&nbsp;</th>
+<th>Day 1<br />Monday, June 6</th>
+<th>Day 2<br />Tuesday, June 7</th>
+<th>Day 3<br />Wednesday, June 8</th>
+<th>Day 4<br />Thursday, June 9</th>
+<th>Day 5<br />Friday, June 10</th>
+<th>Day 6<br />Saturday, June 11</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8:00 - 8:30AM</td>
+<td>Sign-in<br />(Coffee &amp; Light Snacks)</td>
+<td>Sign-in<br />(Coffee &amp; Light Snacks)</td>
+<td>Sign-in<br />(Coffee &amp; Light Snacks)</td>
+<td>Sign-in<br />(Coffee &amp; Light Snacks)</td>
+<td>Sign-in<br />(Coffee &amp; Light Snacks)</td>
+<td>Sign-in<br />(Coffee &amp; Light Snacks)</td>
+</tr>
+<tr>
+<td>8:30 - 9:30AM</td>
+<td>Welcome, Introductions, Overview<br />Brian Rosenblum &amp; Dave Tell<br /><br />Q: What are the goals of the Institute?</td>
+<td>CASE STUDY:<br />The Lakeland<br />Community Heritage ProjectStephanie Sapienza<br />&amp; Violetta Sharps Jones</td>
+<td>CASE STUDY:<br />The American Indian Digital History Project Kent Blansett</td>
+<td>CASE STUDY:<br />Under the Rainbow: Oral Histories of GLTIQ People in Kansas Tami Albin</td>
+<td>CASE STUDY:<br />Ellas Tienen Nombre Ivonne Ram&iacute;rez</td>
+<td>CASE STUDY:<br />The Emmett Till Memory Project Patrick Weems<br />&amp; Dave Tell</td>
+</tr>
+<tr>
+<td>9:30 - 10:30AM</td>
+<td>Humanities for All<br />Daniel Fisher-Livne<br /><br />Q: What are the public humanities?</td>
+<td>Building Trust: Participatory Design with Community Partners, Part IDotte AgencyQ: How do you ensure community stakeholders are fully engaged?</td>
+<td>Cultural Heritage &amp; Protocols for Indigenous AccessKim Christen<br />&amp; Michael Wynne<br />Q: What are the ethical questions of the digital public archive?</td>
+<td>Oral History 101Tami Albin<br />Q: What are the basic processes and technology needs for conducting oral history interviews?</td>
+<td>Telling Stories with Maps and Data VisualizationsSylvia Fern&aacute;ndez<br />Q: How can we tell stories effectively using maps and data</td>
+<td>Accessible &amp; Inclusive Web DesignKaylen Dwyer<br />&amp; Sylvia Fern&aacute;ndez<br />Q: How do you ensure your web-based project is accessible and inclusive?</td>
+</tr>
+<tr>
+<td>10:30AM</td>
+<td>Break</td>
+<td>Break</td>
+<td>Break</td>
+<td>Break</td>
+<td>Break</td>
+<td>Break</td>
+</tr>
+<tr>
+<td>10:45AM - 12:00PM</td>
+<td>Participant Project Sharing<br /><br />Q: How is your project a digital humanities project? How is it a public humanities project?</td>
+<td>Building Trust: Participatory Design with Community Partners, Part IIDotte Agency<br />Q: How do you ensure community stakeholders are fully engaged?</td>
+<td>Participant Project Sharing<br /><br />Q: What ethical concerns do you have about your project? How can they be addressed?</td>
+<td>Participant Project Sharing<br /><br />Q: Does your project engage stakeholder stories? If so, how?</td>
+<td>Participant Project Sharing<br /><br />Q: What kinds of data does your project use or create? How could you incorporate data visualization into your project?</td>
+<td>Lightning Talk Workshop<br />Each project team develops an 8 minute presentation on: 1) Lessons learned, 2) Project changes, and 3) Goals for the coming year.</td>
+</tr>
+<tr>
+<td>12:00 - 1:30PM</td>
+<td>Lunch</td>
+<td>Lunch</td>
+<td>Lunch</td>
+<td>Lunch</td>
+<td>Lunch</td>
+<td>Lunch</td>
+</tr>
+<tr>
+<td>1:30 - 3:00PM</td>
+<td>Panel: Academia vs. The Non-Profit Sector<br />Sarah Bishop &amp; Panelists<br /><br />Q: What do academics need to know about non-profits, and vice versa, in order to establish good collaborations?</td>
+<td>Socio-Technical Sustainability Roadmap, Part IAisling Quigley<br />&amp; Chelsea Gunn<br />Q: What are your project's scope, audience, and sustainability priorities?</td>
+<td>Platforms and Web Hosting &amp; Participant Project SharingKaylen Dwyer<br />&amp; Brian Rosenblum<br />Q: How do you choose a digital platform and where do you host it? What digital platforms are you considering for your project?</td>
+<td>Project FundingSarah Bishop<br />Q: What are your sources of funding for your project? How wlll you develop a funding plan?</td>
+<td>Project MarketingSarah Bishop<br />Q: How will you market your project to ensure it reaches your intended audiences?</td>
+<td>Lightning Talks<br />6 project teams present for 8 minutes each and receive 5 minutes of feedback.</td>
+</tr>
+<tr>
+<td>3:00PM</td>
+<td>Break</td>
+<td>Break</td>
+<td>Break</td>
+<td>Break</td>
+<td>Break</td>
+<td>Break</td>
+</tr>
+<tr>
+<td>3:15 - 5:00PM</td>
+<td>Developing Strong Community Partnerships<br />Hyunjin Seo<br /><br />Q: How do you develop strong partnerships outside of academia?</td>
+<td>Socio-Technical Sustainability Roadmap, Part IIAisling Quigley<br />&amp; Chelsea Gunn<br />Q: What social and technical infrastructures do you need to maintain your project?</td>
+<td>Tech Training Breakout Session<br />OmekaKaylen Dwyeror<br />MukurtuKim Christen<br />&amp; Michael Wynne</td>
+<td>Tech Training Breakout Session<br />Access, Ownership &amp; ReuseJosh Bolickor<br />Digital Audio and VideoTami Albin</td>
+<td>Tech Training Breakout Session<br />Mapping and Data VisualizingSylvia Fern&aacute;ndezor<br />Metadata &amp; Data ManagementErin Wolfe</td>
+<td>Lightning Talks<br />6 project teams present for 8 minutes each and receive 5 minutes of feedback.</td>
+</tr>
+<tr>
+<td>5:00 - 5:30PM</td>
+<td>Feedback &amp; Reflection</td>
+<td>Feedback &amp; Reflection</td>
+<td>Feedback &amp; Reflection</td>
+<td>Feedback &amp; Reflection</td>
+<td>Feedback &amp; Reflection</td>
+<td>Reflection, Feedback, Wrap-upBrian Rosenblum<br />&amp; Dave Tell</td>
+</tr>
+<tr>
+<td>5:30 - 6:00PM</td>
+<td>Break</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>6:00- 7:30PM</td>
+<td>Birds of a Feather Dinner (optional)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+
+
+---
+
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsxi_uz5E22bsnTbKwTiComCmJ8KF94dOIbSikoJK7_2P3xLZSOPabaan6-qRo__i9L7UzjcfKDYlh/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A1:L47" height="800px" width="100%"></iframe>
 
+---
 
-
-|               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |
-| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 8:00-8:30     | Sign-in       | Sign-in       | Sign-in       | Sign-in       | Sign-in       |
-| 8:30-9:30     | Welcome <br><br>Brian Rosenblum, Dave Tell | CASE STUDY: <br>The Lakeland Community Heritage Project <br><br>Stephanie Sapienza, Violetta Sharps Jones | CASE STUDY: <br>The American Indian Digital History Project <br><br>Kent Blansett | CASE STUDY: <br>Under the Rainbow: Oral Histories of Gay, Lesbian, Bisexual, Transgender, and Queer People in Kansas <br><br>Tami Albin | CASE STUDY: <br>Ellas Tienen Nombre <br><br>Ivonne Ramirez |
-| 9:30-10:30    | Humanities for All <br><br>Daniel Fisher | Building Trust: Participatory Design with Community Partners, Part I <br><br>Shannon Criss, Nils Gore, Matt Kleinman | weds stuff | thurs stuff | fri stuff |
 
 ### Day 1: Monday, June 6, 2022  
 
