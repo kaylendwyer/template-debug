@@ -37,7 +37,7 @@ An evaluation committee made up of Institute staff and selected Institute instru
 * the participants potential for actively participating in the full year-long Institute and engaging in public digital humanities work;
 * the needs and resources of the project and the likelihood that the team's participation will advance their public digital humanities project.
 
-The committee will also aim to create a cohort of participants that is diverse in race, gender, discipline, and type of project.
+The committee aims to form a cohort that is diverse demographically, geographically, and in type of project, with an eye towards promoting meaningful cross-fertilization of projects.
 
 The committee will select up to 12 projects participating in teams of two (24 participants total).
 

@@ -40,9 +40,11 @@ If you’re engaged in a community/academic collaborative project in the digital
 
 Examples of projects that would be a good fit for the Institute include--but are not limited to--community archiving, community remembrance and memorialization, digital storytelling, oral histories, digital collections, multimedia projects, and data-driven visualizations such as mapping projects. See the [case studies](../case-studies) page for some specific examples. We recognize there are many other types of projects and collaborations that could be a good fit, and we welcome those proposals as well.
 
-Projects at any stage of development are welcome, though the curriculum has been developed with early-stage projects in mind--for example, those where the project partners may need guidance in selecting a digital platform, securing funding or community buy-in, or developing a long-term sustainability plan, or strengthening relationships between project partners. 
-
 Ideal projects will include a significant digital component (for example, a public-facing web archive, digital storytelling through mapping and visualization, a significant digital resource such as an interactive Indigenous language dictionary) and will involve the non-academic community not only as a target audience but a core partner in the project. 
+
+The committee aims to form a cohort that is diverse demographically, geographically, and in type of project, with an eye towards promoting meaningful cross-fertilization of projects. We welcome and encourage applications from a wide range of community and educational institutions, including, but not limited to, arts organizations, community centers, immigrant and other marginalized communities, foundations, historical sites and societies, Indigenous tribes and Tribal Colleges and Universities, community museums, prisons, social services organizations, state humanities councils, and community colleges.
+
+Projects at any stage of development are welcome, though the curriculum has been developed with early-stage projects in mind--for example, those where the project partners may need guidance in selecting a digital platform, securing funding or community buy-in, developing a long-term sustainability plan, or strengthening relationships between project partners. Please review the progam and see if these sessions would benefit your project!
 
 Please [get in touch](../contact) if you have questions about whether your project is a good fit. Our aim is to have a variety of types of projects represented in the Institute. 
 
