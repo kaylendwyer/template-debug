@@ -16,6 +16,8 @@ header:
 
 ***The Public Digital Humanities Institute has been made possible by a major grant from the National Endowment for the Humanities: Democracy demands wisdom.***
 
+Any views, findings, conclusions, or recommendations expressed in this {article, book, exhibition, film, program, database, report, Web resource}, do not necessarily represent those of the National Endowment for the Humanities.
+
 ---
 
 ### Partners & Service Providers
