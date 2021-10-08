@@ -16,19 +16,19 @@ For full descriptions of the sessions see the [sessions](../sessions) pages.
 ---
 <table style="border: 1px solid #297373;" rules="all" cellspacing="0">
 <thead>
-<tr>
-<th width="100px">&nbsp;</th>
-<th>Day 1<br />Monday, June 6</th>
-<th>Day 2<br />Tuesday, June 7</th>
-<th>Day 3<br />Wednesday, June 8</th>
-<th>Day 4<br />Thursday, June 9</th>
-<th>Day 5<br />Friday, June 10</th>
-<th>Day 6<br />Saturday, June 11</th>
+<tr style="background-color:#e6e6e6">
+<th style="background-color:#fff" width="85px"></th>
+<th width="15%">Day 1<br />Monday, June 6</th>
+<th width="15%">>Day 2<br />Tuesday, June 7</th>
+<th width="15%">Day 3<br />Wednesday, June 8</th>
+<th width="15%">Day 4<br />Thursday, June 9</th>
+<th width="15%">Day 5<br />Friday, June 10</th>
+<th width="15%">Day 6<br />Saturday, June 11</th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>8:00 - 8:30AM</td>
+<tr style="background-color:#f3eba5">
+<td style="background-color:#e6e6e6"><strong>8:00 - 8:30AM</strong></td>
 <td><strong>Sign-in</strong><br />(Coffee &amp; Light Snacks)</td>
 <td><strong>Sign-in</strong><br />(Coffee &amp; Light Snacks)</td>
 <td><strong>Sign-in</strong><br />(Coffee &amp; Light Snacks)</td>
@@ -36,8 +36,8 @@ For full descriptions of the sessions see the [sessions](../sessions) pages.
 <td><strong>Sign-in</strong><br />(Coffee &amp; Light Snacks)</td>
 <td><strong>Sign-in</strong><br />(Coffee &amp; Light Snacks)</td>
 </tr>
-<tr>
-<td>8:30 - 9:30AM</td>
+<tr style="background-color:#ffb899">
+<td style="background-color:#e6e6e6"><strong>8:30 - 9:30AM</strong></td>
 <td><strong>Welcome, Introductions, Overview</strong><br /><em>Brian Rosenblum &amp; Dave Tell</em><br /><br />Q: What are the goals of the Institute?</td>
 <td>
 <strong>CASE STUDY:</strong><br /><strong>The Lakeland</strong><br /><strong>Community Heritage Project</strong><br /><em>Stephanie Sapienza</em><br /><em>&amp; Violetta Sharps Jones</em>
@@ -47,8 +47,8 @@ For full descriptions of the sessions see the [sessions](../sessions) pages.
 <td><strong>CASE STUDY:</strong><br /><strong>Ellas Tienen Nombre</strong> <em><br />Ivonne Ram&iacute;rez</em></td>
 <td><strong>CASE STUDY:</strong><br /><strong>The Emmett Till Memory Project</strong> <em>Patrick Weems</em><br /><em>&amp; Dave Tell</em></td>
 </tr>
-<tr>
-<td>9:30 - 10:30AM</td>
+<tr style="background-color:#a1dddd">
+<td style="background-color:#e6e6e6"><strong>9:30 - 10:30AM</strong></td>
 <td><strong>Humanities for All</strong><br /><em>Daniel Fisher-Livne</em><br /><br />Q: What are the public humanities?</td>
 <td>
 <strong>Building Trust: Participatory Design with Community Partners, Part I</strong><br /><em>Dotte Agency</em><br /><br />
@@ -71,8 +71,8 @@ Q: How can we tell stories effectively using maps and data
 Q: How do you ensure your web-based project is accessible and inclusive?
 </td>
 </tr>
-<tr>
-<td>10:30AM</td>
+<tr style="background-color:#e6e6e6">
+<td style="background-color:#e6e6e6"><strong>10:30AM</strong></td>
 <td>Break</td>
 <td>Break</td>
 <td>Break</td>
@@ -80,8 +80,8 @@ Q: How do you ensure your web-based project is accessible and inclusive?
 <td>Break</td>
 <td>Break</td>
 </tr>
-<tr>
-<td>10:45AM - 12:00PM</td>
+<tr style="background-color:#f3eba5">
+<td style="background-color:#e6e6e6"><strong>10:45AM - Noon</strong></td>
 <td><strong>Participant Project Sharing</strong><br /><br />Q: How is your project a digital humanities project? How is it a public humanities project?</td>
 <td>
 <strong>Building Trust: Participatory Design with Community Partners, Part II</strong><br /><em>Dotte Agency</em><br /><br />
@@ -95,8 +95,8 @@ Q: How do you ensure community stakeholders are fully engaged?
 <br /><br />Each project team develops an 8 minute presentation on: 1) Lessons learned, 2) Project changes, and 3) Goals for the coming year.
 </td>
 </tr>
-<tr>
-<td>12:00 - 1:30PM</td>
+<tr style="background-color:#e6e6e6">
+<td style="background-color:#e6e6e6"><strong>Noon - 1:30PM</strong></td>
 <td>Lunch</td>
 <td>Lunch</td>
 <td>Lunch</td>
@@ -104,8 +104,8 @@ Q: How do you ensure community stakeholders are fully engaged?
 <td>Lunch</td>
 <td>Lunch</td>
 </tr>
-<tr>
-<td>1:30 - 3:00PM</td>
+<tr style="background-color:#ffb899">
+<td style="background-color:#e6e6e6"><strong>1:30 - 3:00PM</strong></td>
 <td><strong>Panel: Academia vs. The Non-Profit Sector</strong><br /><em>Sarah Bishop &amp; Panelists</em><br /><br />Q: What do academics need to know about non-profits, and vice versa, in order to establish good collaborations?</td>
 <td>
 <strong>Socio-Technical Sustainability Roadmap, Part I</strong><br /><em>Aisling Quigley</em><br /><em>&amp; Chelsea Gunn</em><br /><br />
@@ -128,8 +128,8 @@ Q: How will you market your project to ensure it reaches your intended audiences
 6 project teams present for 8 minutes each and receive 5 minutes of feedback.
 </td>
 </tr>
-<tr>
-<td>3:00PM</td>
+<tr style="background-color:#e6e6e6">
+<td style="background-color:#e6e6e6"><strong>3:00PM</strong></td>
 <td>Break</td>
 <td>Break</td>
 <td>Break</td>
@@ -137,8 +137,8 @@ Q: How will you market your project to ensure it reaches your intended audiences
 <td>Break</td>
 <td>Break</td>
 </tr>
-<tr>
-<td>3:15 - 5:00PM</td>
+<tr style="background-color:#a1dddd">
+<td style="background-color:#e6e6e6"><strong>3:15 - 5:00PM</strong></td>
 <td><strong>Developing Strong Community Partnerships</strong><br /><em>Hyunjin Seo</em><br /><br />Q: How do you develop strong partnerships outside of academia?</td>
 <td>
 <strong>Socio-Technical Sustainability Roadmap, Part II</strong><br /><em>Aisling Quigley</em><br /><em>&amp; Chelsea Gunn</em><br /><br />
@@ -161,8 +161,8 @@ Q: What social and technical infrastructures do you need to maintain your projec
 6 project teams present for 8 minutes each and receive 5 minutes of feedback.
 </td>
 </tr>
-<tr>
-<td>5:00 - 5:30PM</td>
+<tr style="background-color:#f3eba5">
+<td style="background-color:#e6e6e6"><strong>5:00 - 5:30PM</strong></td>
 <td><strong>Feedback &amp; Reflection</strong></td>
 <td><strong>Feedback &amp; Reflection</strong></td>
 <td><strong>Feedback &amp; Reflection</strong></td>
@@ -170,8 +170,8 @@ Q: What social and technical infrastructures do you need to maintain your projec
 <td><strong>Feedback &amp; Reflection</strong></td>
 <td><strong>Reflection, Feedback,<br />Wrap-up</strong><br /><em>Brian Rosenblum</em><br /><em>&amp; Dave Tell</em></td>
 </tr>
-<tr>
-<td>5:30 - 6:00PM</td>
+<tr style="background-color:#e6e6e6">
+<td style="background-color:#e6e6e6"><strong>5:30 - 6:00PM</strong></td>
 <td>Break</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -179,8 +179,8 @@ Q: What social and technical infrastructures do you need to maintain your projec
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
-<tr>
-<td>6:00- 7:30PM</td>
+<tr style="background-color:#ffb899">
+<td style="background-color:#e6e6e6"><strong>6:00- 7:30PM</strong></td>
 <td><strong>Birds of a Feather Dinner</strong> (optional)</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -190,215 +190,5 @@ Q: What social and technical infrastructures do you need to maintain your projec
 </tr>
 </tbody>
 </table>
-&nbsp;
 
 
----
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsxi_uz5E22bsnTbKwTiComCmJ8KF94dOIbSikoJK7_2P3xLZSOPabaan6-qRo__i9L7UzjcfKDYlh/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A1:L47" height="800px" width="100%"></iframe>
-
----
-
-
-### Day 1: Monday, June 6, 2022  
-
-_8:00-8:30AM:_ **Sign-in (Coffee and Light Snacks)**  
-
-_8:30-9:30AM:_ **Welcome, Introductions, and Overview**  
-Facilitators: Brian Rosenblum, Dave Tell  
-_Focus Question: What are the goals of the institute?_  
-
-_9:30-10:30AM:_ **Humanities for All**  
-Facilitator: Daniel Fisher  
-_Focus Questions: What are the public humanities? How can digital technologies advance the public humanities?_  
-
-_10:30-10:45AM:_ **BREAK**  
-
-_10:45AM-12 NOON:_ **Participant Project Sharing**  
-Facilitators: Daniel Fisher, Dave Tell  
-_Focus Questions: How is your project a public humanities project? How is it a digital humanities project?_  
-
-_12:00-1:30PM:_ **LUNCH**  
-
-_1:30-3:00PM:_ **PANEL: The Academic vs. the Non-Profit Sector**  
-Facilitator: Sarah Bishop  
-_Focus Question: What do academics need to know about non-profits, and vice-versa, in order to establish good collaborations?_  
-
-_3:00-3:15PM:_ **BREAK**  
-
-_3:15-5:00PM:_ **The RETURN Project: Developing Strong Community Partnerships**  
-Facilitator: Hyunjin Seo  
-_Focus Question: How do you develop strong partnerships outside of academia?_  
-
-_5:00-5:30PM:_ **Daily Feedback and Reflection**  
-Facilitators: Brian Rosenblum, Dave Tell  
- 
-_5:30-6:00PM:_ **BREAK**  
-
-_6:00-7:30PM:_ **Birds of a Feather Dinner (Optional)**  
-
-### Day 2: Tuesday, June 7th, 2022  
-
-_8:00-8:30AM:_ **Sign-in (Coffee and Light Snacks)**  
-
-_8:30-9:30AM:_ **CASE STUDY: The Lakeland Community Heritage Project**  
-Facilitators: Stephanie Sapienza, Violetta Sharps Jones  
-
-_9:30-10:30AM:_ **Building Trust: Participatory Design with Community Partners, Part I**  
-Facilitators: Shannon Criss, Nils Gore, Matt Kleinman  
-_Focus Question: How do you ensure community stakeholders are fully engaged?_  
-
-_10:30-10:45AM:_ **BREAK**  
-
-_10:45-12 NOON:_ **Building Trust: Participatory Design with Community Partners, Part II**  
-_Focus Question: How do you ensure community stakeholders are fully engaged?_  
-
-_12:00-1:30PM:_ **LUNCH**  
-
-_1:30-3:00PM:_ **The Socio-Technical Sustainability Roadmap, Section A**  
-Facilitators: Aisling Quigley, Chelsea Gunn  
-_Focus Questions: What are your project’s scope, audience, and sustainability priorities?_  
-
-_3:00-3:15PM:_ **BREAK**  
-
-_3:15-5:00PM:_ **The Socio-Technical Sustainability Roadmap, Section B**  
-_Focus Question: What social and technical infrastructures do you need to maintain your project_  
-
-_5:00-5:30PM:_ **Daily Feedback and Reflection**  
-Facilitators: Brian Rosenblum & Dave Tell  
-
-### Day 3: Wednesday, June 8th, 2022  
-
-_8:00-8:30AM:_ **Sign-in (Coffee and Light Snacks)**  
-
-_8:30-9:30AM:_ **CASE STUDY: The American Indian Digital History Project**  
-Facilitator: Kent Blansett  
-
-_9:30-10:30AM:_ **Cultural Heritage and Protocols for Indigenous Access**  
-Facilitators: Kim Christen, Michael Wynne  
-_Focus Question: What are the ethical questions of the public digital archive?_  
-
-_10:30-10:45 AM:_ **BREAK**  
-
-_10:45AM-12 NOON:_ **Participant Project Sharing**  
-Facilitators: Kim Christen, Michael Wynne, Sylvia Fernández, Dave Tell, Brian Rosenblum  
-_Focus Questions: What ethical concerns do you have about your project? How can they be addressed?_  
-
-_12:00-1:30PM:_ **LUNCH**  
-
-_1:30-2:15PM:_ **Digital Platforms and Web Hosting**  
-Facilitators: Kaylen Dwyer, Brian Rosenblum  
-Focus Questions: How do you choose a digital platform and where do you host it?  
-
-_2:15-3:00PM:_ **Participant Project Sharing**  
-Facilitators: Kaylen Dwyer, Brian Rosenblum  
-_Focus Questions: What digital platforms are you considering for your project?_  
-
-_3:00-3:15PM:_ **BREAK**  
-
-_3:15-5:00PM:_ **TECH TRAINING BREAKOUT SESSION**  
-Participants may choose one of the two following sessions:  
-(1) Omeka. Facilitator: Kaylen Dwyer  
-(2) Mukurtu. Facilitators: Kim Christen, Michael Wynne  
-
-_5:00-5:30PM:_ **Daily Feedback and Reflection**  
-Facilitators: Brian Rosenblum, Dave Tell  
-
-### Day 4: Thursday, June 9th, 2022  
-
-_8:00-8:30AM:_ **Sign-in (Coffee and Light Snacks)**  
-
-_8:30-9:30AM:_ **CASE STUDY: Under the Rainbow: Oral Histories of Gay, Lesbian, Bisexual, Transgender, and Queer People in Kansas**  
-Facilitator: Tami Albin  
-
-
-_9:30-10:30AM:_ **Oral History 101**  
-Facilitator: Tami Albin  
-Focus Questions: What are the basic processes, ethical considerations, and technology needs for conducing oral history interviews?  
-
-_10:30-10:45AM:_ **BREAK**  
-
-_10:45AM-12 NOON:_ **Participant Project Sharing**  
-Facilitators: Dave Tell, Sylvia Fernández  
-_Focus Questions: Does your project engage stakeholder stories? If so, how?_  
-
-_12:00-1:30PM:_ **LUNCH**  
-
-_1:30-3:00PM:_ **Project Funding**  
-Facilitator: Sarah Bishop  
-_Focus Questions: What are your sources of funding for your project? How will you develop a funding plan?_  
-
-_3:00-3:15PM:_ **BREAK**  
-
-_3:15-5:00PM:_ **TECH TRAINING BREAKOUT SESSION**  
-
-Participants may choose one of the two following sessions:  
-
-(1) Digital Audio and Video Production for Oral History and Digital Storytelling  
-Facilitator: Tami Albin  
-(2) Access, Ownership, and Reuse  
-Facilitator: Josh Bolick  
-
-_5:00-5:30PM:_ **Daily Feedback and Reflection**  
-Facilitators: Brian Rosenblum, Dave Tell  
-
-### Day 5: Friday, June 10th, 2022  
-
-_8:00-8:30AM:_ **Sign-in (Coffee and Light Snacks)**  
-
-_8:30-9:30AM:_ **CASE STUDY: Ellas Tienen Nombre**  
-Facilitator: Ivonne Ramírez  
-
-_9:30-10:30AM:_ **Telling Stories with Community-grounded Cartography and Data**  
-Facilitator: Sylvia Fernández  
-_Focus Question: How can we tell community stories to make impactful social changes utilizing maps and visualizations?_  
-
-_10:30-10:45AM:_ **BREAK**  
-
-_10:45AM-12 NOON:_ **Participant Project Sharing**  
-Facilitators: Sylvia Fernández, Ivonne Ramírez  
-_Focus Questions: What kinds of data does your project use or create? How could you incorporate data visualization into your project?_  
-
-_12:00-1:30PM:_ **LUNCH**  
-
-_1:30-3:00PM:_ **Project Marketing**  
-Facilitator: Sarah Bishop  
-_Focus Question: How will you market your project to ensure it reaches your intended audiences?_  
-
-_3:00-3:15PM:_ **BREAK**  
-
-_3:15-5:00PM:_ **TECH TRAINING BREAKOUT SESSION**  
-Participants may choose one of the two following sessions:  
-(1) Metadata and Data Management for Digital Humanities Projects  
-Facilitator: Erin Wolfe  
-(2) Mapping and Visualizing for the Public  
-Facilitator: Sylvia Fernández  
-
-_5:00-5:30PM:_ **Daily Feedback and Reflection**  
-Facilitators: Brian Rosenblum, Dave Tell  
- 
-### Day 6: Saturday, June 11th, 2022  
-
-_8:00-8:30AM:_ **Sign-in (Coffee and Light Snacks)**  
-
-_8:30-9:30AM:_ **CASE STUDY: The Emmett Till Memory Project**  
-Facilitators: Patrick Weems, Dave Tell  
-
-_9:30-10:30AM:_ **Accessible and inclusive web design**  
-Facilitators: Kaylen Dwyer, Sylvia Fernández, Brian Rosenblum 
-_Focus Questions: How do you ensure your web-based project is accessible and inclusive?_  
-
-_10:30-10:45AM:_ **BREAK**  
-
-_10:45-12 NOON:_ **Lightning Talk Workshop**  
-
-_12:00-1:30PM:_ **LUNCH**  
-
-_1:30-3:00PM:_ **Lightning Talks Round I**  
-
-_3:00-3:15PM:_ **BREAK**  
-
-_3:15-4:45PM:_ **Lightning Talks Round II**  
-
-_4:45-5:15PM:_ **End-of-Week Reflection, Feedback, Preview of the coming year, and Celebration**  
-_Facilitators: Brian Rosenblum, Dave Tell, Kaylen Dwyer, Sylvia Fernández_
