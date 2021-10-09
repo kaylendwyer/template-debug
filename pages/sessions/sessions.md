@@ -8,6 +8,11 @@ header:
     underline-color: "#ff8552"
 ---
 
+_For a high-level overview of the daily schedule please see the [schedule-at-a-glance](../schedule)._
+
+---
+
+
 ## Case Studies
 Each day of the institute will open with a case study presented by that project’s director. These case studies highlight a range of platforms and modes of digital scholarship (e.g., archiving, mapping, oral histories, storytelling) and will provide participants with real-world examples to draw from. 
 
