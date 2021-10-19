@@ -26,7 +26,7 @@ description: 'An Institute for Academic/Community Collaboration'
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 
-url: 'https://publicdh.org'
+url: 'publicdh.org'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
