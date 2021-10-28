@@ -101,10 +101,9 @@ All attendees agree to adhere to our [statement of conduct](../conduct).
 ### Information Sessions
 We will hold open information sessions on Zoom during the Fall 2021 semester. Interested applicants are welcome to join or drop-in. 
 
-* *Thursday, November 11, 10am Central Time*
-* *Thursday, December 2, 3pm Central Time*
+* *Thursday, November 11, 10am Central Time* - [Register Here](https://kansas.zoom.us/meeting/register/tJIvf-CsrT8uHd0BK3eNLSvFnifzlMciwT2W)
+* *Thursday, December 2, 3pm Central Time* - [Register Here](https://kansas.zoom.us/meeting/register/tJEkduCpqTMqGtS-nhflLalq_ts8et2hxQOr)
 
-Please email <idrh@ku.edu> for registration details.
 
 ### Questions
 We welcome enquiries via email or phone. Applicants should direct all questions about the Public Digital Humanities Institute to <idrh@ku.edu>, or directly to co-directors Brian Rosenblum (<brianrosenblum@ku.edu>) or Dave Tell (<davetell@ku.edu>).
