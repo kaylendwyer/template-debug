@@ -43,7 +43,7 @@
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="RSS Feed (Styled)">
+	<!-- <meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="An Institute for Academic/Community Collaboration">
 	<meta property="og:url" content="https://publicdh.org/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
@@ -51,6 +51,23 @@
 	<meta property="og:site_name" content="The Public Digital Humanities Institute">
 	
 	
+ -->
+
+
+  <meta property="og:title" content="RSS Feed (Styled)">
+	<meta property="og:description" content="An Institute for Academic/Community Collaboration">
+	<meta property="og:url" content="https://publicdh.org/assets/xslt/rss.xslt">
+	<meta property="og:locale" content="en_EN">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="The Public Digital Humanities Institute">
+	<meta property="og:image" content="https://publicdh.org/images/logos/logo-facebook.png"> 
+  <meta property="og:image:secure_url" content="https://publicdh.org/images/logos/logo-facebook.png"> 
+<!-- 	<meta property="og:image:width" content="950" />
+  <meta property="og:image:height" content="500" /> -->
+
+
+
+
 
 
 	
@@ -161,6 +178,11 @@
                       
 
                       <li><a  href="/about/">About the Institute</a></li>
+                    
+
+                      
+
+                      <li><a  href="/info-sessions/">Info Sessions</a></li>
                     
 
                       
