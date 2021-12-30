@@ -10,10 +10,9 @@ header:
 ---
 
 
-* Thursday, November 11, 10am Central Time - [Register Here](https://kansas.zoom.us/meeting/register/tJIvf-CsrT8uHd0BK3eNLSvFnifzlMciwT2W)  
-* Thursday, December 2, 3pm Central Time - [Register Here](https://bit.ly/pdhi-info-session-2)  
-* Friday, December 17, 12 noon Central Time - [Register Here](https://bit.ly/pdhi-info-session-3)  
-
-More sessions to be announced.
+* ~~Thursday, November 11, 10am Central Time - [Register Here](https://kansas.zoom.us/meeting/register/tJIvf-CsrT8uHd0BK3eNLSvFnifzlMciwT2W)~~  
+* ~~Thursday, December 2, 3pm Central Time - [Register Here](https://bit.ly/pdhi-info-session-2)~~  
+* ~~Friday, December 17, 12 noon Central Time - [Register Here](https://bit.ly/pdhi-info-session-3)~~  
+* Friday, January 7, 2pm Central Time - [Register Here](https://kansas.zoom.us/meeting/register/tJUrduytqzgjHNCnUai2QOi3D8Z-7QZP69hi)
 
 We also welcome enquiries via email. Applicants should direct all questions about the Public Digital Humanities Institute to <idrh@ku.edu>, or directly to co-directors Brian Rosenblum (<brianrosenblum@ku.edu>) or Dave Tell (<davetell@ku.edu>).
