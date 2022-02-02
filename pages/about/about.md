@@ -10,13 +10,8 @@ header:
     underline-color: "#ff8552"
 ---
 
-<div style="text-align:center; border:4px solid #ff8552; border-radius: 5px; padding-left:5px; padding-right:5px; padding-top:5px;background-color:#fff;" markdown="1">
-**Have more questions or want to talk in person with Institute staff?  
-Join us via Zoom at one of our [upcoming information sessions](../info-sessions).**
-</div>
-
 <br />
-The Institute for Digital Research in the Humanities (IDRH) at the University of Kansas welcomes applications to participate in the NEH-funded Public Digital Humanities Institute, **June 6-11, 2022**, to receive training and support in public digital humanities and academic-community collaborations. **Applications are due to <idrh@ku.edu> by Monday, January 31, 2022 at 11:59 PM (US Central Time).**
+The Institute for Digital Research in the Humanities (IDRH) at the University of Kansas welcomes applications to participate in the NEH-funded Public Digital Humanities Institute, **June 6-11, 2022**, to receive training and support in public digital humanities and academic-community collaborations.
 
 In order to focus on the under-resourced nexus of the digital humanities and public humanities, and in order to provide a one-of-a-kind opportunity for academics and their community partners to receive training together, **we are inviting participants to attend in teams of two.** We will host 24 participants, representing twelve collaborative digital humanities projects between the community and the academy.
 
@@ -104,15 +99,16 @@ Our Institute is dedicated to providing a safe and harassment-free experience fo
 
 All attendees agree to adhere to our [statement of conduct](../conduct).
 
+<!--
 ### Information Sessions
 We will hold open information sessions on Zoom during the Fall 2021 semester. Interested applicants are welcome to join or drop-in. 
 
 * *Thursday, November 11, 10am Central Time* - [Register Here](https://kansas.zoom.us/meeting/register/tJIvf-CsrT8uHd0BK3eNLSvFnifzlMciwT2W)
 * *Thursday, December 2, 3pm Central Time* - [Register Here](https://kansas.zoom.us/meeting/register/tJEkduCpqTMqGtS-nhflLalq_ts8et2hxQOr)
-* *Friday, December 17, 12 noon Central Time* - [Register Here](https://bit.ly/pdhi-info-session-3)  
+* *Friday, December 17, 12 noon Central Time* - [Register Here](https://bit.ly/pdhi-info-session-3)  -->
 
 ### Questions
 We welcome enquiries via email. Applicants should direct all questions about the Public Digital Humanities Institute to <idrh@ku.edu>, or directly to co-directors Brian Rosenblum (<brianrosenblum@ku.edu>) or Dave Tell (<davetell@ku.edu>).
 
-### I want to apply! What should I do?
-[Apply here »](../apply)
+<!--### I want to apply! What should I do?
+[Apply here »](../apply)-->

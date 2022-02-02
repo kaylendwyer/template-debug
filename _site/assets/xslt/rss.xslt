@@ -182,11 +182,6 @@
 
                       
 
-                      <li><a  href="/info-sessions/">Info Sessions</a></li>
-                    
-
-                      
-
                       <li><a  href="/idrh/">About the IDRH</a></li>
                     
 
@@ -353,32 +348,10 @@
             
           
         
-
-              
-
-
-
-          
-          
-            
-            
-              <li class="divider"></li>
-              <li><a class="alert-nav" href="/apply/">Apply</a></li>
-
-            
-            
-          
-        
         
       </ul>
 
       <ul class="left">
-        
-
-              
-
-          
-          
         
 
               

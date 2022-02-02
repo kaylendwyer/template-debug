@@ -44,12 +44,12 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 
-callforaction:
-  url: /apply/
-  headline: Apply
-  text: The Institute invites one academic and one community partner per project to apply by Monday, January 31, 2022.
-  alert_text: Apply
-  style: alert
+#callforaction:
+#  url: /apply/
+#  headline: Apply
+#  text: The Institute invites one academic and one community partner per project to apply by Monday, January 31, 2022.
+ # alert_text: Apply
+#  style: alert
 
 permalink: /index.html
 #

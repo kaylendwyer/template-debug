@@ -15,8 +15,8 @@
   dropdown:
     - title: About the Institute
       url: /about/
-    - title: Info Sessions
-      url: /info-sessions/
+#    - title: Info Sessions
+#      url: /info-sessions/
     - title: About the IDRH
       url: /idrh/
     - title: Funders & Partners
@@ -69,7 +69,7 @@
   url: /contact/
   side: right
 
-- title: Apply
-  url: /apply/
-  side: right
-  class: alert-nav
+#- title: Apply
+#  url: /apply/
+#  side: right
+#  class: alert-nav
