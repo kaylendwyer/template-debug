@@ -32,6 +32,14 @@ Participants are urged to bring their own laptops, but the IDRH can provide some
 ### Lodging
 We will secure discounted block rates at local hotels with convenient access to the KU campus by foot or by public transportation. More details will be posted upon notification of application status.
 
+We have reserved a block of rooms in downtown Lawrence with convenient access to the KU campus by foot or by public transportation. 
+
+**TownePlace Suites**
+$96/night + tax
+Doubles and singles available
+
+The cutoff date for making reservations at this rate is May 20. You can [reserve your hotel room through the TownePlace website](https://www.marriott.com/event-reservations/reservation-link.mi?id=1642874749748&key=GRP&app=resvlink) or call the hotel and let them know you are booking with the “Institute for Research in the Digital Humanities” group.
+
 ### Transportation
 
 **Airport.**
