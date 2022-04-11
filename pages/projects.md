@@ -252,7 +252,7 @@ community.
 <div class="medium-6 columns">
     <h3 style="font-weight: bold; font-size: 1.25em !important;">Judith Heher</h3>
     Technical lead,<br/>
-    Graduate Student,
+    Graduate Student,<br/>
     San José State University (SJSU)
 </div>
 
@@ -370,7 +370,7 @@ This project aims to develop an audio archive of the West Side Sound, a genre of
 
 <div class="medium-6 columns">
     <h3 style="font-weight: bold; font-size: 1.25em !important;">Rambo Salinas</h3>
-    Archivist & Project Coordinator<br/>
+    Archivist & Project Coordinator,<br/>
     Friends of Sound Record Shop
 </div>
 
