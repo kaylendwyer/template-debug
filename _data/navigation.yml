@@ -45,6 +45,10 @@
     - title: Staff
       url: /staff/
 
+- title: Projects
+  url: /projects/
+  side: right
+
 
 - title: Sessions
   url: /sessions/

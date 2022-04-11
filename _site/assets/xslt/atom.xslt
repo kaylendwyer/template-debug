@@ -278,6 +278,22 @@
           
             
             
+              <li class="divider"></li>
+              <li><a  href="/projects/">Projects</a></li>
+
+            
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
 
               <li class="divider"></li>
               <li class="has-dropdown">
@@ -352,6 +368,12 @@
       </ul>
 
       <ul class="left">
+        
+
+              
+
+          
+          
         
 
               
