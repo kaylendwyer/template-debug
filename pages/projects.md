@@ -61,11 +61,11 @@ Black Yield Institute (BYI) is a Pan-African power institution headquartered in 
     University of Maryland, Baltimore County
 </div>
 
-<!--<div class="medium-3 columns" style="padding-right: 50px;">
-    <img src="../../images/people/placeholder-person.png" alt="" style="max-width: 150px; border-radius: 50%;"/>
-</div>-->
+<div class="medium-3 columns" style="padding-right: 50px;">
+    <img src="../../images/people/Jackson-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
+</div>
 
-<div class="medium-6 columns">
+<div class="medium-3 columns">
     <h3 style="font-weight: bold; font-size: 1.25em !important;">Eric Jackson</h3>
     Servant-Director and Co-Founder of Black Yield Institute, Baltimore, MD 
 </div>
@@ -102,11 +102,20 @@ Black Yield Institute (BYI) is a Pan-African power institution headquartered in 
 
 
 
-<div class="medium-6 columns">
+
+<div class="row" style="margin-top: 4rem; margin-bottom: 4rem; align-items: left;">
+
+<div class="medium-3 columns" style="padding-right: 50px;">
+    <img src="../../images/people/Juarez-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
+</div>
+
+<div class="medium-3 columns">
     <h3 style="font-weight: bold; font-size: 1.25em !important;">Miguel Juárez, MLS, MA, PhD</h3>
     Educator, Co-director,<br/>
     University of Texas at El Paso & El Paso Community College
 </div>
+
+
 
 <div class="medium-6 columns">
     <h3 style="font-weight: bold; font-size: 1.25em !important;">Maria Eugenia Trillo, PhD</h3>

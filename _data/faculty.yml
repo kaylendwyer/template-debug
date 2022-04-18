@@ -121,15 +121,15 @@
   img: 7_TamiAlbin.jpg
   bio: "Tami Albin is an Associate Librarian at the University of Kansas and Director of Under the Rainbow: Oral Histories of Gay, Lesbian, Bisexual, Transgender, and Queer People in Kansas. She has led oral history workshops and presented on Under the Rainbow across the United States and in Germany. She has served as a consultant and adviser to numerous projects, including the Gay and Lesbian Archive of Mid America (GLAMA) Oral History Project (Kansas City, Missouri), the Lecompton Homefront World War II Oral History Project (Lecompton, Kansas), the Kansas State Legislature Oral History Project (Topeka, Kansas), the Feminist Theory and Music Oral Histories Project (San Francisco, CA) Womxn Who Rock (Seattle, WA), and the Kansas Historical Society (Topeka, Kansas). Her service to the Oral History Association includes, chair of the Committee on Diversity, and as a member of the Program Committee, Scholarship Committee, Teaching Awards Committee, and the Mentoring Program. At the University of Kansas, she has led oral history workshops, consulted with faculty, staff, and students on their oral history projects and is a regular guest lecturer on oral history methods and methodology in many classes.  She is certified as a Lego Serious Play facilitator and Software Carpentry Instructor."
 
-- name: Kimberly Christen
-  person_title: Director, Center for Digital Scholarship and Curation & Professor and Director, Digital Technology and Culture Program, Washington State University
-  role:
-  order:
-  sessions:
-  session_link:
-  permalink:
-  img: 8_KimberlyChristen.jpg
-  bio: "Dr. Kimberly Christen is the Director of the Center for Digital Scholarship and Curation at Washington State University where she is a Professor in, and the Director of, the Digital Technology and Culture Program. Her work explores the intersections of cultural heritage, traditional knowledge, information ethics, and the use of digital technologies in and by Indigenous communities globally. She is the founder of Mukurtu CMS an open source community access platform designed to meet the information, curatorial and data needs of Indigenous communities, she is also the Director of the Sustainable Heritage Network, and co-director of the Local Contexts initiative, both platforms provide practical tools and educational resources for stewarding digital cultural heritage and the management of intellectual property by Indigenous communities. You can follow her on Twitter at [@ProfChristen](http://twitter.com/profchristen) and her work can be found on her website: [kimchristen.com](http://www.kimchristen.com)."
+# - name: Kimberly Christen
+#   person_title: Director, Center for Digital Scholarship and Curation & Professor and Director, Digital Technology and Culture Program, Washington State University
+#   role:
+#   order:
+#   sessions:
+#   session_link:
+#   permalink:
+#   img: 8_KimberlyChristen.jpg
+#   bio: "Dr. Kimberly Christen is the Director of the Center for Digital Scholarship and Curation at Washington State University where she is a Professor in, and the Director of, the Digital Technology and Culture Program. Her work explores the intersections of cultural heritage, traditional knowledge, information ethics, and the use of digital technologies in and by Indigenous communities globally. She is the founder of Mukurtu CMS an open source community access platform designed to meet the information, curatorial and data needs of Indigenous communities, she is also the Director of the Sustainable Heritage Network, and co-director of the Local Contexts initiative, both platforms provide practical tools and educational resources for stewarding digital cultural heritage and the management of intellectual property by Indigenous communities. You can follow her on Twitter at [@ProfChristen](http://twitter.com/profchristen) and her work can be found on her website: [kimchristen.com](http://www.kimchristen.com)."
 
 
 - name: Aisling Quigley
@@ -184,15 +184,15 @@
   img: bishop-sarah.jpg
   bio: Sarah Bishop is the CEO of [Coneflower Consulting, LLC](https://www.coneflower.org/), a consulting firm committed to help creative non-profits in the Midwest flourish. Bishop received her PhD in English literature from the University of Virginia and is adept at working with non-profits across a variety of sectors to design  and implement impactful public humanities programs. She will assist in the planning and assessment of the institute and lead sessions on marketing, funding, and academic/non-profit collaboration.
 
-- name: Daniel Fisher
-  person_title: Assistant Professor of Hebrew Bible, Hebrew Union College-Jewish Institute of Religion
+- name: Michelle May-Curry
+  person_title: Project Director, Humanities for All, National Humanities Alliance
   role:
   order:
   sessions:
   session_link:
   permalink:
-  img: fisher-daniel.jpg
-  bio: Daniel Fisher-Livne is Assistant Professor at Hebrew Union College-Jewish Institute of Religion in Cincinnati and Research Affiliate at the National Humanities Alliance. He currently serves as co-editor of the _Routledge Companion to Publicly Engaged Humanities Scholarship_ (anticipated 2022). Prior to joining HUC-JIR/Cincinnati, he served as Project Director at the National Humanities Alliance. In this role, he created and led _Humanities for All_, an initiative funded by the Andrew W. Mellon Foundation to build capacity for public engagement in humanities scholarship across U.S. higher education.
+  img: May-Curry-photo.jpg
+  bio: Michelle May-Curry leads _Humanities for All_, an initiative of the National Humanities Alliance that showcases and advocates for publicly engaged humanities work at colleges and universities across the United States. She is also a lecturer at Georgetown University in the Engaged and Public Humanities department. Prior to joining NHA, she was a visiting dissertation fellow at Harvard University as well as a Carr Center Independent Scholar. Her scholarly and curatorial work has appeared in exhibitions at The Art Institute of Chicago, Harvard Art Museums, The Carr Center Gallery, and The 2019 Havana Biennial. She received her Ph.D. in American Culture at the University of Michigan and holds a B.A. from Williams College.
 
 - name: Violetta Sharps-Jones 
   person_title: Local historian and genealogist
@@ -257,15 +257,15 @@
   img: ramirez-ivonne.png
   bio: "Ivonne Ramírez is a Spanish and literature teacher, cultural activist, and co-founder of the Palabras de Arena Collective, nominated in Sweden for the Astrid Lindgren Award in 4 consecutive years. In 2015, she created the project _Ellas Tienen Nombre_ to monitor and map feminicides committed in her hometown of Ciudad Juárez, México, a project on which she unfortunately continues to work. She has established two community libraries in central Mexico, and was co-organizer of the Ladyfest Juárez 2015, a three-day festival that brought together more than 400 girls and women to attend workshops, concerts, conferences, film screenings and art exhibitions in Ciudad Juárez. An author of essays, articles, poetry, stories and comics, her book _Sueño de palabras en la estepa. Experiencias lectoras contra la violencia en Ciudad Juárez (2001-2010)_, was published in 2011. Her illustrated children's book _My mom was a Guerrillera_ is about to be published by a Peruvian publisher. Find more about her work on her [website.](https://about.me/ivonneramirez)"
 
-- name: Patrick Weems
-  person_title: Executive Director, Emmett Till Interpretive Center
+- name: Benjamin Saulsberry
+  person_title: Public Engagement and Museum Education Director
   role: case study
   order:
   sessions: ETMP
   session_link:
   permalink:
-  img: weems-patrick.png
-  bio: A community builder, social entrepreneur and philanthropy leader, Patrick is setting a path toward restorative justice and racial healing. With more than 10 years of experience in racial justice and restorative justice work, Patrick is leading transformational change that will last through the generations. He co-founded the Summer Youth Institute, an experiential learning youth program for the William Winter Institute for Racial Reconciliation. He also co-founded and serves as director of the Emmett Till Interpretive Center, which uses art and storytelling to share the Emmett Till tragedy, facilitate racial healing and point us toward a new future. A graduate of the University of Mississippi, he holds a master’s degree from the Center for the Study of Southern Culture. He was recently awarded a prestigious Fellowship from the W.K. Kellogg Foundation and is a Monument Lab Fellow.
+  img: Saulsberry_JPG.webp
+  bio: Benjamin Saulsberry, is a native of West Tallahatchie County, Mississippi. He grew up surrounded by social justice activism, which he credits for his deep care and concern for his community today. Ben joined the Emmett Till Interpretive Center in 2016 and has spoken on race, racism, and racial reconciliation across the country on behalf of the Center, including at Harvard Law in 2017 and the University of Detroit at Mercy in 2019. He attended Mississippi Valley State University and the University of Mississippi for graduate work in music.
 
 
 - name: Peter Jasso
