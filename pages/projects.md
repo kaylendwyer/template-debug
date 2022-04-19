@@ -62,7 +62,7 @@ Black Yield Institute (BYI) is a Pan-African power institution headquartered in 
 </div>
 
 <div class="medium-3 columns" style="padding-right: 50px;">
-    <img src="../../images/people/Jackson-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
+    <img src="../../images/people/Jackson-photo.png" alt="" style="max-width: 150px; border-radius: 50%;"/>
 </div>
 
 <div class="medium-3 columns">
