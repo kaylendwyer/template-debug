@@ -28,11 +28,18 @@ A series of interviews that documents the life stories and experiences of GLBTQ 
 [Learn More »](./under-the-rainbow/)
 
 ---
-
+<!-- 
 ### Ellas Tienen Nombre (“They Have Names”)
 An independent-scholar led project to gather public data and document murdered women and girls in Ciudad Juárez through mapping and visualization.
 
 [Learn More »](./ellas-tienen-nombre/)
+
+--- -->
+
+### San Antonio Storyscapes
+A partnership between the San Antonio Office of Historic Preservation and the Public History program at St. Mary’s University to produce student-created, place-based digital projects that address gaps in the historic record. 
+
+[Learn More »](./san-antonio-storyscapes)
 
 ---
 

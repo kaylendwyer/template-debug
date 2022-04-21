@@ -216,15 +216,15 @@
   img: sapienza-stephanie.jpg
   bio: "Stephanie Sapienza is Digital Humanities Archivist at the Maryland Institute for Technology in the Humanities (MITH), where coordinates and implements digital research projects which foster collaborations between MITH and other library, archival, or cultural heritage organizations. Stephanie’s research revolves around the intersections between digital humanities, libraries, and audiovisual archives: how archival audiovisual media objects function as primary historical documents, and what kind of digital resources and user interfaces facilitate the means for exploring that media in the context of its original production and reception. As MITH’s former Project Manager, she is also interested in the stewardship of digital humanities projects and research data, including streamlining project management, documentation, and sustainability processes."
 
-- name: Shannon Criss
-  person_title: Professor, Department of Architecture, University of Kansas
-  role:
-  order:
-  sessions:
-  session_link:
-  permalink:
-  img: criss-shannon.jpg
-  bio: Shannon Criss is a licensed architect and Professor in the Architecture Department at the University of Kansas. Through her work at KU she is able to bring focus to community engagement processes and service learning opportunities to create an architecture that serves the greater good. The endeavor requires that we think beyond the singular architectural object and develop deep, long-term, loose-fitting principles to guide the work we do as architects; developing strategies that make the architectural object the right fit, for many people, for a long time. Through externally funded research projects that incorporate design courses, she is able to engage urban communities of need in Wyandotte County. Shannon is a strong advocate to help students see their role as agents to connecting communities with design that promote environmental sustainability, social equity and community resilience.
+# - name: Shannon Criss
+#   person_title: Professor, Department of Architecture, University of Kansas
+#   role:
+#   order:
+#   sessions:
+#   session_link:
+#   permalink:
+#   img: criss-shannon.jpg
+#   bio: Shannon Criss is a licensed architect and Professor in the Architecture Department at the University of Kansas. Through her work at KU she is able to bring focus to community engagement processes and service learning opportunities to create an architecture that serves the greater good. The endeavor requires that we think beyond the singular architectural object and develop deep, long-term, loose-fitting principles to guide the work we do as architects; developing strategies that make the architectural object the right fit, for many people, for a long time. Through externally funded research projects that incorporate design courses, she is able to engage urban communities of need in Wyandotte County. Shannon is a strong advocate to help students see their role as agents to connecting communities with design that promote environmental sustainability, social equity and community resilience.
 
 
 - name: Chelsea Gunn
@@ -247,15 +247,15 @@
   img: blansett-kent.jpg
   bio: "Kent Blansett is a Cherokee, Creek, Choctaw, Shawnee, and Potawatomi descendant from the Blanket, Panther, and Smith families. He is the Langston Hughes Associate Professor of Indigenous Studies and History at the University of Kansas. Professor Blansett also serves as the founder and executive director for the American Indian Digital History Project. His latest book, 18 years in the making, is the first biography to explore the dynamic life and times of Akwesasne Mohawk student leader Richard Oakes, who was a key figure in the 1969 takeover of Alcatraz Island by the organization Indians of All Tribes. Published by Yale University Press in 2018, Blansett’s book, _A Journey to Freedom: Richard Oakes, Alcatraz, and the Red Power Movement_ highlights Oakes’s pivotal role in Red Power activism from the 1960s and 1970s that sparked Native liberation movements throughout North America."
 
-- name: Ivonne Ramírez
-  person_title: Independent Scholar
-  role:
-  order:
-  sessions: Ellas Tienen Nombre
-  session_link:
-  permalink:
-  img: ramirez-ivonne.png
-  bio: "Ivonne Ramírez is a Spanish and literature teacher, cultural activist, and co-founder of the Palabras de Arena Collective, nominated in Sweden for the Astrid Lindgren Award in 4 consecutive years. In 2015, she created the project _Ellas Tienen Nombre_ to monitor and map feminicides committed in her hometown of Ciudad Juárez, México, a project on which she unfortunately continues to work. She has established two community libraries in central Mexico, and was co-organizer of the Ladyfest Juárez 2015, a three-day festival that brought together more than 400 girls and women to attend workshops, concerts, conferences, film screenings and art exhibitions in Ciudad Juárez. An author of essays, articles, poetry, stories and comics, her book _Sueño de palabras en la estepa. Experiencias lectoras contra la violencia en Ciudad Juárez (2001-2010)_, was published in 2011. Her illustrated children's book _My mom was a Guerrillera_ is about to be published by a Peruvian publisher. Find more about her work on her [website.](https://about.me/ivonneramirez)"
+# - name: Ivonne Ramírez
+#   person_title: Independent Scholar
+#   role:
+#   order:
+#   sessions: Ellas Tienen Nombre
+#   session_link:
+#   permalink:
+#   img: ramirez-ivonne.png
+#   bio: "Ivonne Ramírez is a Spanish and literature teacher, cultural activist, and co-founder of the Palabras de Arena Collective, nominated in Sweden for the Astrid Lindgren Award in 4 consecutive years. In 2015, she created the project _Ellas Tienen Nombre_ to monitor and map feminicides committed in her hometown of Ciudad Juárez, México, a project on which she unfortunately continues to work. She has established two community libraries in central Mexico, and was co-organizer of the Ladyfest Juárez 2015, a three-day festival that brought together more than 400 girls and women to attend workshops, concerts, conferences, film screenings and art exhibitions in Ciudad Juárez. An author of essays, articles, poetry, stories and comics, her book _Sueño de palabras en la estepa. Experiencias lectoras contra la violencia en Ciudad Juárez (2001-2010)_, was published in 2011. Her illustrated children's book _My mom was a Guerrillera_ is about to be published by a Peruvian publisher. Find more about her work on her [website.](https://about.me/ivonneramirez)"
 
 - name: Benjamin Saulsberry
   person_title: Public Engagement and Museum Education Director
@@ -288,3 +288,16 @@
   img: console-soican-paula.jpg
   bio: Paula Console-Soican is Assistant Professor of English, at Donnelly College, a minority institution and a Hispanic Serving institution in the low-income neighborhood of Wyandotte County in Kansas City, Kansas. She studied Philology (English and French) in Romania and specializes in postcolonial studies. She is interested in the relationship between fiction and politics, and theories of cosmopolitanism. 
   
+  name: Lindsey Wieck
+  person_title: Assistant Professor of English, Donnelly College
+  role: case study
+  order:
+  sessions: Storyscapes 
+  session_link:
+  permalink:
+  img: Wieck-photo.jpg
+  bio: Lindsey Wieck joined St. Mary’s University in 2017 as the director of the Master of Arts in Public History program. She received her Ph.D. in American History from the University of Notre Dame in May 2016 and was a postdoctoral fellow there for 2016-2017. While doing her research, Wieck grew excited by the possibilities to integrate GIS, text analysis, and data visualizations into her work on Latino community formation and gentrification in the Mission District of San Francisco. She also specializes in the history of the American West, race and ethnicity, and American cities. She enjoys incorporating digital technologies in her teaching and also emphasizes digital writing and communication in her courses. 
+  
+
+
+
