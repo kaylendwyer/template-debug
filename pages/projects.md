@@ -62,7 +62,7 @@ Black Yield Institute (BYI) is a Pan-African power institution headquartered in 
 </div>
 
 <div class="medium-3 columns" style="padding-right: 50px;">
-    <img src="../../images/people/Jackson-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
+    <img src="../../images/people/Jackson-photo.png" alt="" style="max-width: 150px; border-radius: 50%;"/>
 </div>
 
 <div class="medium-3 columns">
@@ -300,8 +300,14 @@ The Salus Populi US Colored Troops (USCT) Pension Project seeks to locate, digit
     <img src="../../images/people/placeholder-person.png" alt="" style="max-width: 150px; border-radius: 50%;"/>
 </div>-->
 
-<div class="medium-6 columns">
-    <h3 style="font-weight: bold; font-size: 1.25em !important;">Michelle Cook</h3>
+  
+<div class="medium-3 columns" style="padding-right: 50px;">
+    <img src="../../images/people/Cook-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
+</div>
+
+<div class="medium-3 columns">
+
+<h3 style="font-weight: bold; font-size: 1.25em !important;">Michelle Cook</h3>
     Project Founder & Editor,<br/>
     Research Director of the Slavery, Memory, and Justice Project,<br/>
     Volunteer coordinator for the City of Liberty Cemetery Committee

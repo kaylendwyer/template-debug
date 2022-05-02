@@ -44,18 +44,18 @@ For full descriptions of the sessions see the [sessions](../sessions) pages.
 </td>
 <td><strong>CASE STUDY:</strong><br /><strong>The American Indian Digital History Project</strong><br /><em>Kent Blansett</em></td>
 <td><strong>CASE STUDY:</strong><br /><strong>Under the Rainbow: Oral Histories of GLTIQ People in Kansas</strong><br /><em>Tami Albin</em></td>
-<td><strong>CASE STUDY:</strong><br /><strong>Ellas Tienen Nombre</strong> <em><br />Ivonne Ram&iacute;rez</em></td>
-<td><strong>CASE STUDY:</strong><br /><strong>The Emmett Till Memory Project</strong> <em>Patrick Weems</em><br /><em>&amp; Dave Tell</em></td>
+<td><strong>CASE STUDY:</strong><br /><strong>San Antonio Storyscapes</strong> <em><br />Lindsey Wieck</em></td>
+<td><strong>CASE STUDY:</strong><br /><strong>The Emmett Till Memory Project</strong> <em>Benjamin Saulsberry</em><br /><em>&amp; Dave Tell</em></td>
 </tr>
 <tr style="background-color:#a1dddd">
 <td style="background-color:#e6e6e6"><strong>9:30 - 10:30AM</strong></td>
-<td><strong>Humanities for All</strong><br /><em>Daniel Fisher-Livne</em><br /><br />Q: What are the public humanities?</td>
+<td><strong>Humanities for All</strong><br /><em>Michelle May-Curry</em><br /><br />Q: What are the public humanities?</td>
 <td>
 <strong>Building Trust: Participatory Design with Community Partners, Part I</strong><br /><em>Dotte Agency</em><br /><br />
 Q: How do you ensure community stakeholders are fully engaged?
 </td>
 <td>
-<strong>Cultural Heritage &amp; Protocols for Indigenous Access</strong><br /><em>Kim Christen</em><br /><em>&amp; Michael Wynne</em><br /><br />
+<strong>Cultural Heritage &amp; Protocols for Indigenous Access</strong><br /><em>Michael Wynne</em><br /><br />
 Q: What are the ethical questions of the digital public archive?
 </td>
 <td>
@@ -150,11 +150,11 @@ Q: What social and technical infrastructures do you need to maintain your projec
 </td>
 <td>
 <strong>Tech Training Breakout Session</strong><br /><br />
-<strong>Access, Ownership &amp; Reuse</strong><br /><em>Josh Bolick</em><br />or<br /><strong>Digital Audio and Video</strong><br /><em>Tami Albin</em>
+<strong>Metadata &amp; Data Management</strong><br /><em>Erin Wolfe</em><br />or<br /><strong>Digital Audio and Video</strong><br /><em>Tami Albin</em>
 </td>
 <td>
 <strong>Tech Training Breakout Session</strong><br /><br />
-<strong>Mapping and Data Visualizing</strong><br /><em>Sylvia Fern&aacute;ndez</em><br />or<br /><strong>Metadata &amp; Data Management</strong><br /><em>Erin Wolfe</em>
+<strong>Mapping and Data Visualizing</strong><br /><em>Sylvia Fern&aacute;ndez</em><br />or<br /><strong>Access, Ownership &amp; Reuse</strong><br /><em>Josh Bolick</em>
 </td>
 <td>
 <strong>Lightning Talks</strong><br /><br />
