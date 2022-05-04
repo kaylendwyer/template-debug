@@ -377,11 +377,11 @@ This project aims to develop an audio archive of the West Side Sound, a genre of
 <h2 style="font-weight: bold;">Willie McGee and the Legacy of Legal Lynching</h2>
 Willie McGee and the Legacy of Legal Lynching is a collaborative project led by Bridgette McGee-Robinson and Jaclyn Nolan. This project constitutes our shared mission to remember the case of Willie McGee, a thirty-six-year-old Black man who was electrocuted to death in Laurel, Mississippi in 1951, for the rape of a white woman named Willette Hawkins. Through the creation of a public-facing website that houses a digital archive and oral story, the project seeks to share, remember, and educate the public about Willie McGee’s case and its lasting repercussions. The project will act as a site of public memory through digitally accessible archival materials, including newspaper articles, letters, and photographs. The project will also feature oral storytelling shared by Bridgette McGee-Robinson, the granddaughter of Willie McGee. This project will invite audiences to gain an understanding of the often unseen, underappreciated or just unknown after-effects of legal lynching. We believe it is essential to share McGee’s story through digital tools because it presents an opportunity to forge racial healing by addressing racial injustice of the past and the ongoing consequences of racial terrorism for families and communities. 
 
-<!-- PHOTOS
+
 <div class="row" style="margin-top: 4rem; margin-bottom: 4rem; align-items: left;">
 
 <div class="medium-3 columns" style="padding-right: 50px;">
-    <img src="../../images/people/placeholder-person.png" alt="" style="max-width: 150px; border-radius: 50%;"/>
+    <img src="../../images/people/Nolan-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
 </div>
 
 <div class="medium-3 columns">
@@ -391,7 +391,7 @@ Willie McGee and the Legacy of Legal Lynching is a collaborative project led by 
 </div>
 
 <div class="medium-3 columns" style="padding-right: 50px;">
-    <img src="../../images/people/placeholder-person.png" alt="" style="max-width: 150px; border-radius: 50%;"/>
+    <img src="../../images/people/McGee-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
 </div>
 
 <div class="medium-3 columns">
@@ -400,23 +400,7 @@ Willie McGee and the Legacy of Legal Lynching is a collaborative project led by 
 </div>
 
 </div>
--->
 
-<div class="row" style="margin-top: 4rem; margin-bottom: 4rem; align-items: left;">
-
-
-<div class="medium-6 columns">
-    <h3 style="font-weight: bold; font-size: 1.25em !important;">Jaclyn Nolan</h3>
-    Department of Communication Studies,<br/> 
-    University of Georgia
-</div>
-
-
-<div class="medium-6 columns">
-    <h3 style="font-weight: bold; font-size: 1.25em !important;">Bridgette McGee-Robinson</h3>
-    McGee Family Historian
-</div>
-</div>
 
 <!-- Project #12 -->
 <h2 style="font-weight: bold;">Undocumented Under Covid—Oral Histories</h2>
@@ -436,7 +420,7 @@ This short documentary is led by Comunidad Colectiva, a grassroots group based o
 </div>
 
 <div class="medium-3 columns" style="padding-right: 50px;">
-    <img src="../../images/people/placeholder-person.png" alt="" style="max-width: 150px; border-radius: 50%;"/>
+    <img src="../../images/people/Andrade-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
 </div>
 
 <div class="medium-3 columns">
@@ -449,12 +433,20 @@ This short documentary is led by Comunidad Colectiva, a grassroots group based o
 -->
 <div class="row" style="margin-top: 4rem; margin-bottom: 4rem; align-items: left;">
 
-<div class="medium-6 columns">
+<div class="medium-3 columns" style="padding-right: 50px;">
+    <img src="../../images/people/Melendez-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
+</div>
+
+<div class="medium-3 columns">
     <h3 style="font-weight: bold; font-size: 1.25em !important;">José Centeno-Melendez</h3>
     Oral Historian for the Undocumented Organizing Collecting Initiative at the National Museum of American History, Smithsonian Institute
 </div>
 
-<div class="medium-6 columns">
+<div class="medium-3 columns" style="padding-right: 50px;">
+    <img src="../../images/people/Andrade-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
+</div>
+
+<div class="medium-3 columns">
     <h3 style="font-weight: bold; font-size: 1.25em !important;">Daniela Andrade</h3>
     Community Support Coordinator, <br/>
     Comunidad Colectiva
