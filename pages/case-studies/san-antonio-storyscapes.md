@@ -5,7 +5,7 @@ layout: page
 presenter: Lindsey Wieck
 header: 
     title: San Antonio Storyscapes
-    slogan: Lindsey Wieck, Assistant Professor of English, Donnelly College
+    slogan: Associate Professor of History, St. Mary's University
     background-color: "#fff"
     underline-color: "#ff8552"
 ---
