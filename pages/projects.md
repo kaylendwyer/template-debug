@@ -29,11 +29,11 @@ The Black Church Archives Project (BCAP) is a digital archives program focused o
     St. Olaf College  
 </div>
 
-<!--<div class="medium-3 columns" style="padding-right: 50px;">
-    <img src="../../images/people/placeholder-person.png" alt="" style="max-width: 150px; border-radius: 50%;"/>
-</div>-->
+<div class="medium-3 columns" style="padding-right: 50px;">
+    <img src="../../images/people/Cox-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
+</div>
 
-<div class="medium-6 columns">
+<div class="medium-3 columns">
     <h3 style="font-weight: bold; font-size: 1.25em !important;">John J. Cox</h3>
     Advisory Board Member,<br/>
     Pastor,<br/>Vermont Avenue Baptist Church 
@@ -229,12 +229,12 @@ community.
 <div class="row" style="margin-top: 4rem; margin-bottom: 4rem; align-items: left;">
 
 <div class="medium-3 columns" style="padding-right: 50px;">
-    <img src="../../images/people/Wright-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
+    <img src="../../images/people/Usha-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
 </div>
 
 <div class="medium-3 columns">
-    <h3 style="font-weight: bold; font-size: 1.25em !important;">Scott Wright</h3>
-    Project Manager of Mosaic Atlas,<br/>
+    <h3 style="font-weight: bold; font-size: 1.25em !important;">Usha Srinivasan</h3>
+    Co-founder and President,<br/>
     Mosaic America
 </div>
 
@@ -351,7 +351,7 @@ This project aims to develop an audio archive of the West Side Sound, a genre of
 <div class="row" style="margin-top: 4rem; margin-bottom: 4rem; align-items: left;">
 
 <div class="medium-3 columns" style="padding-right: 50px;">
-    <img src="../../images/people/Mendoza-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
+    <img src="../../images/people/Mendoza2-photo.jpg" alt="" style="max-width: 150px; border-radius: 50%;"/>
 </div>
 
 <div class="medium-3 columns">

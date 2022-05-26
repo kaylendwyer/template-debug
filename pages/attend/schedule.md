@@ -82,16 +82,16 @@ Q: How do you ensure your web-based project is accessible and inclusive?
 </tr>
 <tr style="background-color:#f3eba5">
 <td style="background-color:#e6e6e6"><strong>10:45AM - Noon</strong></td>
-<td><strong>Participant Project Sharing</strong><br /><br />Q: How is your project a digital humanities project? How is it a public humanities project?</td>
+<td><strong>Participant Project Sharing</strong><br /><em>Brian Rosenblum</em><br /><br />Q: How is your project a digital humanities project? How is it a public humanities project?</td>
 <td>
 <strong>Building Trust: Participatory Design with Community Partners, Part II</strong><br /><em>Dotte Agency</em><br /><br />
 Q: How do you ensure community stakeholders are fully engaged?
 </td>
-<td><strong>Participant Project Sharing</strong><br /><br />Q: What ethical concerns do you have about your project? How can they be addressed?</td>
-<td><strong>Participant Project Sharing</strong><br /><br />Q: Does your project engage stakeholder stories? If so, how?</td>
-<td><strong>Participant Project Sharing</strong><br /><br />Q: What kinds of data does your project use or create? How could you incorporate data visualization into your project?</td>
+<td><strong>Participant Project Sharing</strong><br /><em>Sylvia Fernández</em><br /><br />Q: What ethical concerns do you have about your project? How can they be addressed?</td>
+<td><strong>Participant Project Sharing</strong><br /><em>Dave Tell</em><br /><br />Q: Does your project engage stakeholder stories? If so, how?</td>
+<td><strong>Participant Project Sharing</strong><br /><em>Kaylen Dwyer</em><br /><br />Q: What kinds of data does your project use or create? How could you incorporate data visualization into your project?</td>
 <td>
-<strong>Lightning Talk Workshop</strong>
+<strong>Lightning Talk Workshop</strong><br /><em>Sarah Bishop</em>
 <br /><br />Each project team develops an 8 minute presentation on: 1) Lessons learned, 2) Project changes, and 3) Goals for the coming year.
 </td>
 </tr>
@@ -163,12 +163,12 @@ Q: What social and technical infrastructures do you need to maintain your projec
 </tr>
 <tr style="background-color:#f3eba5">
 <td style="background-color:#e6e6e6"><strong>5:00 - 5:30PM</strong></td>
-<td><strong>Feedback &amp; Reflection</strong></td>
-<td><strong>Feedback &amp; Reflection</strong></td>
-<td><strong>Feedback &amp; Reflection</strong></td>
-<td><strong>Feedback &amp; Reflection</strong></td>
-<td><strong>Feedback &amp; Reflection</strong></td>
-<td><strong>Reflection, Feedback,<br />Wrap-up</strong><br /><em>Brian Rosenblum</em><br /><em>&amp; Dave Tell</em></td>
+<td><strong>Feedback &amp; Reflection</strong><br /><em>PDHI team</em></td>
+<td><strong>Feedback &amp; Reflection</strong><br /><em>PDHI team</em></td>
+<td><strong>Feedback &amp; Reflection</strong><br /><em>PDHI team</em></td>
+<td><strong>Feedback &amp; Reflection</strong><br /><em>PDHI team</em></td>
+<td><strong>Feedback &amp; Reflection</strong><br /><em>PDHI team</em></td>
+<td><strong>Reflection, Feedback,<br />Wrap-up</strong><br /><em>PDHI team</em></td>
 </tr>
 <tr style="background-color:#e6e6e6">
 <td style="background-color:#e6e6e6"><strong>5:30 - 6:00PM</strong></td>
