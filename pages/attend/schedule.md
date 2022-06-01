@@ -44,7 +44,7 @@ For full descriptions of the sessions see the [sessions](../sessions) pages.
 </td>
 <td><strong>CASE STUDY:</strong><br /><strong>The American Indian Digital History Project</strong><br /><em>Kent Blansett</em></td>
 <td><strong>CASE STUDY:</strong><br /><strong>Under the Rainbow: Oral Histories of GLTIQ People in Kansas</strong><br /><em>Tami Albin</em></td>
-<td><strong>CASE STUDY:</strong><br /><strong>San Antonio Storyscapes</strong> <em><br />Lindsey Wieck</em></td>
+<td><strong>CASE STUDY:</strong><br /><strong>San Antonio Storyscapes</strong> <em><br />Lindsey Wieck</em><br /><em>&amp; Jenny Hay</em></td>
 <td><strong>CASE STUDY:</strong><br /><strong>The Emmett Till Memory Project</strong> <em>Benjamin Saulsberry</em><br /><em>&amp; Dave Tell</em></td>
 </tr>
 <tr style="background-color:#a1dddd">
