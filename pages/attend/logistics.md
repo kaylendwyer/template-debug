@@ -53,5 +53,5 @@ It is about 15-20 minutes by foot--uphill--from downtown Lawrence to the Hall Ce
 
 ### Map
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d198283.62610537405!2d-95.22828178395709!3d39.056774155283236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40772eea170ce3b9%3A0x7510bcc5a4ea1b48!2sThe%20Hall%20Center%20for%20the%20Humanities!5e0!3m2!1sen!2sus!4v1633480462148!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1o8kYwOHvyVSR6lO8PHkTLzSL_BRtYmw&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
 
