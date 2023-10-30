@@ -1,0 +1,211 @@
+<!-- CSS for masthead is edited in _07_layout.scss -->
+
+
+{% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and page.header.background-color == NULL and page.header.title == NULL %}
+
+
+<div id="masthead-no-image-header">
+	<div class="row">
+		<div class="small-12 columns">
+			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+				<!--<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan | markdownify }}">-->
+				<img src="{{ site.baseurl }}/assets/img/logo.png" style="max-width: 65%;"><!-- Hard coded the logo. Can't for the life of me find where the style is controlled. -->
+				<!--<img src="https://i.pinimg.com/originals/99/1a/1d/991a1d9f77c7ba0e6895a0f69cdfade6.png"/>-->
+			</a>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+
+<!-- Add CTA in the masthead if there is no header, no full-width image, no pattern, no background color, and no title AND page says callforaction --> 
+{% if page.callforaction.url contains 'https' %}
+{% assign url = '' %}
+{% else %}
+{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+{% endif %}
+
+
+{% if page.callforaction %}
+    <div id="masthead-CTA" class="row t60 b60">
+        <div class="small-12 columns">
+               <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}" style="margin-top: 5rem;" {% if page.callforaction.url contains 'https' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+{% endif %}
+
+
+<!-- end add CTA -->
+
+
+
+{% if page.breadcrumb == true %}
+{% include _breadcrumb.html %}
+{% endif %}
+
+
+
+
+
+{% elsif page.header.title %}
+
+<div id="masthead-with-text" style="{% if page.header.background-color %}background: {{ page.header.background-color }};{% endif %} {% if page.header.image_fullwidth %}{% elsif page.header.pattern %}background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('{{ site.urlimg }}/{{ page.header.pattern }}'){% endif %}">
+	<div class="row">
+		<div class="small-12 columns">
+
+			<div class="masthead-title" style="{% if page.header.underline-color %}text-decoration: underline; text-underline-offset: 0.8rem; text-decoration-color: {{ page.header.underline-color }}; {% endif %}">{{ page.header.title }}</div>
+			<div class="masthead-slogan">{{ page.header.slogan }}</div><!-- added slogans -->
+
+
+
+
+		</div><!-- /.small-12.columns -->
+
+
+<!-- Add CTA in the masthead if there is is a title AND the page says "callforaction" --> 
+{% if page.callforaction.url contains 'https' %}
+{% assign url = '' %}
+{% else %}
+{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+{% endif %}
+
+
+{% if page.callforaction %}
+    <div id="masthead-CTA" class="row t60 b60">
+        <div class="small-12 columns">
+               <a class="button large radius {{ page.callforaction.style }}" style="margin-auto;" href="{{ url }}{{ page.callforaction.url }}" {% if page.callforaction.url contains 'https' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+{% endif %}
+<!-- end add CTA -->
+
+
+
+
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+
+
+
+
+
+
+
+
+{% if page.breadcrumb == true %}
+{% include _breadcrumb.html %}
+{% endif %}
+
+{% if page.header.caption_url && page.header.caption %}
+<div class="masthead-caption">
+	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
+</div>
+{% elsif page.header.caption %}
+<div class="masthead-caption">
+	{{ page.header.caption }}
+</div>
+
+
+
+{% endif %}
+
+
+
+
+
+{% elsif page.header.image_fullwidth %}
+
+<div id="masthead">
+	<div class="row">
+		<div class="small-12 columns">
+			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+				
+			</a>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+{% if page.breadcrumb == true %}
+{% include _breadcrumb.html %}
+{% endif %}
+
+{% if page.header.caption_url && page.header.caption %}
+<div class="masthead-caption">
+	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
+</div>
+{% elsif page.header.caption %}
+<div class="masthead-caption">
+	{{ page.header.caption }}
+</div>
+{% endif %}
+
+
+
+
+
+{% elsif page.header.pattern %}
+
+<div id="masthead-with-pattern" style="background: url('{{ site.urlimg }}/{{ page.header.pattern }}')">
+	<div class="row">
+		<figure class="small-12 columns">
+			<img src="{{ site.urlimg }}/{{ page.header.image }}" alt="{{ site.title }}">
+		</figure><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+{% if page.breadcrumb == true %}
+{% include _breadcrumb.html %}
+{% endif %}
+
+{% if page.header.caption_url && page.header.caption %}
+<div class="masthead-caption">
+	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
+</div>
+{% elsif page.header.caption %}
+<div class="masthead-caption">
+	{{ page.header.caption }}
+</div>
+{% endif %}
+
+
+
+
+
+{% elsif page.header.background-color %}
+
+<div id="masthead-with-background-color" style="background: {{ page.header.background-color }};">
+	<div class="row">
+		<figure class="small-12 columns">
+			<img src="{{ site.urlimg }}/{{ page.header.image }}" alt="{{ site.title }}">
+		</figure><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+{% if page.breadcrumb == true %}
+{% include _breadcrumb.html %}
+{% endif %}
+
+{% if page.header.caption_url && page.header.caption %}
+<div class="masthead-caption">
+	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
+</div>
+{% elsif page.header.caption %}
+<div class="masthead-caption">
+	{{ page.header.caption }}
+</div>
+{% endif %}
+
+
+
+
+
+{% elsif page.header == false %}
+
+{% if page.breadcrumb == true %}
+{% include _breadcrumb.html %}
+{% endif %}
+
+{% endif %}

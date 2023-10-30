@@ -1,0 +1,102 @@
+---
+layout: compress
+format: frontpage_new
+skip: up-to-top
+---
+
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include _head.html %}
+</head>
+<body id="top-of-page" class="{{ layout.format }}">
+	{% unless page.skip_boilerplate %}
+	{% include _navigation.html %}
+	{% endunless %}
+
+
+<div id="header-home">
+    <div class="row" style="margin-top: 8rem;">
+        <div id="header-home-logo" class="small-collapse large-4 columns"><img src="{{ site.baseurl }}/images/logos/PDHI-logo-color_square_edited.svg"/>
+        </div><!--PDHI logo-->
+
+        <div class="small-collapse large-8 columns">
+        	<div class="headline">{{ page.header.headline }}</div>
+        	<div class="byline">{{ page.header.byline }}</div>
+        </div><!--Intro text -->
+    </div><!-- /.row -->
+</div><!-- /#header-home -->
+
+
+
+
+
+
+
+
+<!-- WIDGETS -->
+
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a title
+*
+{% endcomment %}
+<div class="row t60" style="padding-bottom: 4rem;">
+	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
+		{% include _frontpage-widget.html widget=page.widget1 %}
+	{% endif %}
+
+	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
+		{% include _frontpage-widget.html widget=page.widget2 %}
+	{% endif %}
+
+	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
+		{% include _frontpage-widget.html widget=page.widget3 %}
+	{% endif %}
+</div><!-- /.row -->
+<!-- END WIDGETS -->
+
+
+<!-- Custom CTA Section -->
+
+{% if page.callforaction %}
+<section id="callforaction_bar" class="bg-grau">
+      <div id="callforaction_bar_content">
+
+      	<div class="row">
+		<div class="large-8 columns align-left">
+			<h2>{{ page.callforaction.headline }}</h2>
+		</div>
+		<div class="large-4 columns">
+			<!-- empty div -->
+		</div>  
+        </div><!-- /.row -->
+
+
+        <div class="row">
+		<div class="large-8 columns align-left">
+			<p>{{ page.callforaction.text }}</p>
+		</div>
+		<div class="large-4 columns align-right">
+			<a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.alert_text }}</a>
+		</div>  
+        </div><!-- /.row -->
+
+      </div>
+</section>
+{% endif %}
+
+
+<!-- End Custom CTA Section -->
+
+	{% unless page.skip_boilerplate %}
+	{% include _footer.html %}
+	{% endunless %}
+
+	{% include _footer_scripts.html %}
+
+
+
+</body>
+</html>

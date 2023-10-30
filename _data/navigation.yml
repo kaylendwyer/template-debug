@@ -1,0 +1,79 @@
+#
+# Add custom classes to a navigation item simply by appending a new row "class:""
+# The class "alert-nav" will make the navigation button a different color (default: $dh-1)
+# You can change alert-nav color in foundation-components/_top-bar.scss
+#
+
+
+- title: Home
+  url: /index.html
+  side: right
+
+- title: About
+  url: /about/
+  side: right
+  dropdown:
+    - title: About the Institute
+      url: /about/
+#    - title: Info Sessions
+#      url: /info-sessions/
+    - title: About the IDRH
+      url: /idrh/
+    - title: Funders & Partners
+      url: /funders-partners/
+
+- title: Attend
+  url: /apply/
+  side: right
+  dropdown:
+    - title: Apply
+      url: /apply/
+    - title: Schedule
+      url: /schedule/
+    - title: Logistics
+      url: /logistics/
+    - title: Code of Conduct
+      url: /conduct/
+
+
+- title: People
+  url: /instructors/
+  side: right
+  dropdown:
+    - title: Instructors
+      url: /instructors/
+    - title: Staff
+      url: /staff/
+
+- title: Projects
+  url: /projects/
+  side: right
+
+
+- title: Sessions
+  url: /sessions/
+  side: right
+  dropdown: 
+    - title: Overview
+      url: /sessions/
+    - title: Case Studies
+      url: /case-studies/
+    - title: Learning & Discussion
+      url: /discussion/
+    - title: Tech Training
+      url: /tech-training/
+    - title: Online Program
+      url: /online-program/
+
+- title: News
+  url: /news/
+  side: right
+
+- title: Contact
+  url: /contact/
+  side: right
+
+#- title: Apply
+#  url: /apply/
+#  side: right
+#  class: alert-nav
